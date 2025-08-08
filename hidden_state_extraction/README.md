@@ -1,12 +1,58 @@
-# `extract_hidden_states.py` 実行環境構築マニュアル（修正版）
+# Hidden State Extraction
 
-## 概要
+このディレクトリには、LLMからHidden Stateを抽出するためのスクリプトと、既に抽出済みのデータが含まれています。
 
-このスクリプトは、3つの大規模言語モデル（DeepSeek、Llama、Qwen）から隠れ状態ベクトルを抽出し、CSV形式で保存します。授業で学んだ「LLMのHidden Stateによる態度測定」を実際に体験できます。
+## 📂 このフォルダの目的
 
-**注意：このスクリプトの実行は任意です。技術的難易度が高いため、無理に実行する必要はありません。**
+複数のLLM（DeepSeek-R1、LLaMA-3、Qwen3）に対立命題を提示し、最初の3語生成時のHidden Stateベクトル（4096次元）を抽出・保存します。
 
-## 1. システム要件
+**理論的背景については[SLIDES.md](../SLIDES.md)を参照してください。**
+
+## 📁 ファイル構成
+
+```
+hidden_state_extraction/
+├── extract_hidden_states.py      # Hidden State抽出メインスクリプト
+├── README.md                     # このファイル
+└── results/                      # 抽出済みデータ
+    ├── deepseek_hidden_state.csv    # DeepSeek-R1の抽出結果
+    ├── llama_hidden_state.csv       # LLaMA-3の抽出結果
+    └── qwen_hidden_state.csv        # Qwen3の抽出結果
+```
+
+## 📊 既存の抽出済みデータについて
+
+`results/`フォルダには、既にHidden State抽出が完了したCSVファイルが含まれています：
+
+### データ概要
+- **対象モデル**: DeepSeek-R1-Distill-Llama-8B、Meta-Llama-3-8B-Instruct、Qwen3-8B
+- **質問数**: 10組の対立命題ペア（政治的質問1組 + 自然科学質問9組）
+- **抽出対象**: 各質問への回答の最初の3語生成時のHidden Stateの平均
+- **データ形式**: 各モデル20行×4097列（label列 + 4096次元ベクトル）
+
+### CSVファイル構造
+```
+label,d1,d2,d3,...,d4096
+Q1_A_sensitive_F,-0.123,0.456,...,0.789
+Q1_B_safe_F,0.234,-0.567,...,-0.123
+...
+```
+
+**これらのデータは`../hidden_state_analysis/`で解析に使用されます。**
+
+## ⚠️ 重要な注意事項
+
+- **データ解析の学習目的では、既存のCSVファイルを使用してください**
+- **新たなHidden State抽出は高度な技術的要件が必要です**
+- **実行は完全に任意であり、学習には必須ではありません**
+
+---
+
+# 【上級者向け】extract_hidden_states.py の実行方法
+
+以下は、新たにHidden State抽出を行いたい上級者向けの詳細な実行環境構築マニュアルです。
+
+## システム要件
 
 ### 最小要件
 - **OS**: Windows 10/11、macOS 10.15以上、Linux
@@ -27,7 +73,7 @@
 
 **⚠️ 重要：RAM 16GB以下のPCでは実行できません**
 
-## 2. Python環境のセットアップ
+## Python環境のセットアップ
 
 ### Windows
 
@@ -59,7 +105,7 @@
    python3 --version
    ```
 
-## 3. 仮想環境の作成（強く推奨）
+## 仮想環境の作成（強く推奨）
 
 ### Windows
 ```cmd
@@ -91,7 +137,7 @@ source hidden_states_env/bin/activate
 # 有効化の確認（プロンプトに(hidden_states_env)が表示される）
 ```
 
-## 4. 必要ライブラリのインストール
+## 必要ライブラリのインストール
 
 ### ステップ1: 基本ライブラリのインストール
 ```bash
@@ -126,7 +172,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 python -c "import torch; print('CUDA available:', torch.cuda.is_available()); print('CUDA devices:', torch.cuda.device_count())"
 ```
 
-## 5. Hugging Faceアカウントの設定（重要）
+## Hugging Faceアカウントの設定（重要）
 
 ### アカウント作成
 1. https://huggingface.co/ でアカウントを作成
@@ -144,8 +190,7 @@ huggingface-cli login
 2. 「Request access」をクリック
 3. 承認まで数時間～数日かかる場合があります
 
-
-## 6. スクリプトの実行
+## スクリプトの実行
 
 ### 実行前の準備
 - **他のアプリケーションを終了**（メモリ節約のため）
@@ -163,23 +208,23 @@ python extract_hidden_states.py
 [deepseek] Processing Q1_A_sensitive...
 [deepseek] Processing Q1_B_safe...
 ...
-Saved: deepseek_jump_vectors.csv
+Saved: deepseek_hidden_state.csv
 ========== Starting model: llama ==========
 ...
 ```
 
-## 8. 出力ファイル
+## 出力ファイル
 
-実行完了後、以下のCSVファイルが生成されます：
-- `deepseek_jump_vectors.csv` - DeepSeekモデルの隠れ状態ベクトル
-- `llama_jump_vectors.csv` - Llamaモデルの隠れ状態ベクトル  
-- `qwen_jump_vectors.csv` - Qwenモデルの隠れ状態ベクトル
+実行完了後、以下のCSVファイルが`results/`フォルダに生成されます：
+- `deepseek_hidden_state.csv` - DeepSeekモデルのHidden State
+- `llama_hidden_state.csv` - LlamaモデルのHidden State
+- `qwen_hidden_state.csv` - QwenモデルのHidden State
 
 各ファイルの構造：
 - **label列**: 質問ラベル（Q1_A_sensitive_F等）
-- **d1〜d4096列**: 隠れ状態ベクトルの各次元の値
+- **d1〜d4096列**: Hidden Stateベクトルの各次元の値
 
-## 9. トラブルシューティング
+## トラブルシューティング
 
 ### よくある問題と解決法
 
@@ -209,8 +254,8 @@ CUDA initialization error
 **解決法:**
 - CPU版PyTorchに変更
 - CUDA Toolkitのバージョンを確認
-- GPU ドライバーの更新
+- GPUドライバーの更新
 
 ---
 
-**重要**：このスクリプトは高い技術的要求を持つため、実行は任意です。実行できない場合でも授業の理解には影響ありません。
+**重要**：このスクリプトは高い技術的要求を持つため、実行は任意です。実行できない場合でも学習の理解には影響ありません。既存のCSVファイルを使用して`../hidden_state_analysis/`で解析を進めてください。

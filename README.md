@@ -35,7 +35,7 @@ Large Language Model (LLM)の隠れ状態解析による推論態度測定の教
 
 🛠️ **[Hidden State抽出スクリプト](hidden_state_extraction/)**
 - **[メイン抽出スクリプト](hidden_state_extraction/extract_hidden_states.py)** - LLMからHidden Stateを取得
-- **[環境構築マニュアル](hidden_state_extraction/setup_manual.md)** - 実行環境の詳細設定
+- **[環境構築マニュアル](hidden_state_extraction/README.md)** - 実行環境の詳細設定
 - **[抽出済みデータ](hidden_state_extraction/results/)** - DeepSeek、LLaMA、QwenのHidden State
 
 ## 📁 プロジェクト構成
@@ -55,7 +55,7 @@ llm-hidden-state-attitude-analysis/
 │   └── model_distances_comparison.csv        # 距離データ
 └── hidden_state_extraction/      # 🛠️ Hidden State抽出
     ├── extract_hidden_states.py     # メイン抽出スクリプト
-    ├── setup_manual.md              # 環境構築マニュアル
+    ├── README.md                    # 環境構築マニュアル・フォルダガイド
     └── results/                     # 抽出済みデータ
         ├── deepseek_hidden_state.csv
         ├── llama_hidden_state.csv

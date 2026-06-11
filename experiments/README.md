@@ -57,7 +57,7 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 | `figures/fig06_validation.py` | `images/06_validation.png`（スライド13・検証散布図） | `validation_a.json` |
 | `figures/fig07_tree_limit.py` | `images/07_tree_limit.png`（スライド14・木展開の限界） | `complex_task.json`, `complex_task_vectors.npz` |
 
-※ `latent_attitude_consensus_module.png`（スライド14の構成図）はスクリプト生成ではなく、元PDF「LLM (SLM) WorkerのHidden State可視化による出力の最適化イメージ.pdf」を `pdftoppm -png -r 150` で変換したものです。
+※ `latent_attitude_consensus_module.png`（スライド15の構成図）はスクリプト生成ではなく、元PDF「LLM (SLM) WorkerのHidden State可視化による出力の最適化イメージ.pdf」を `pdftoppm -png -r 150` で変換したものです。
 
 ## 主要な数値（results/ に保存済み）
 
@@ -66,4 +66,4 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 - `validation_a.json`: hidden側の広がり vs 意味側の広がりの相関（Qwen ρ=0.54 / Mistral ρ=0.64）
 - `agreement.json` / `logit_lens.json` / `dispersion.json` / `window_spread.json` / `toorpia_spread.json`: 各実験の生数値
 
-注：`results/` には小さなJSONサマリと、toorPIA可視化の入力CSV 2点（`first3_vectors.csv`＝出だし3トークン版・講義スライド8の図の入力、`dispersion_vectors.csv`＝回答全体平均版・PLAN2の実験用）を収録。その他の大きな中間ベクトル（`*.npz` 等）はスクリプト再実行で再生成できるため同梱していない。
+注：`results/` には結果サマリ(JSON)に加え、教材図の再生成に必要なデータ（toorPIA入力CSV 2点、`full_first3.npz`、`complex_task_vectors.npz`、座標キャッシュ）を収録。これら以外の中間生成物はスクリプト再実行で再生成できるため同梱していない。

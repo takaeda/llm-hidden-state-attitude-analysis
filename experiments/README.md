@@ -43,6 +43,7 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 | `09_gen_full.py` + `10_validate.py` | 出だしの広がり vs 意味埋め込みの広がりの相関 | スライド13（検証(a)：読まない一貫性の妥当性） |
 | `11_tree_expansion.py` | 浅い木展開（厳密確率）vs サンプリング頻度の一致検証 | スライド14（木展開Q&A・浅い領域） |
 | `12_complex_task.py` | 複雑課題での木の枝数増殖と、フル回答の意味クラスタ | スライド14（木展開Q&A・壁1と壁2） |
+| `13_layer_sweep.py` | 立場・意味の分離度と言い回しノイズの層プロファイル | スライド17（開かれた問い・予備実験） |
 
 ## 教材の図の再生成（scripts/figures/）
 
@@ -56,6 +57,7 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 | `figures/fig04_consistency_standard.py` | `images/04_consistency_standard.png`（スライド12・3パネル） | 各モデルの `consistency.json`, `profile.json` |
 | `figures/fig06_validation.py` | `images/06_validation.png`（スライド13・検証散布図） | `validation_a.json` |
 | `figures/fig07_tree_limit.py` | `images/07_tree_limit.png`（スライド14・木展開の限界） | `complex_task.json`, `complex_task_vectors.npz` |
+| `figures/fig08_layer_sweep.py` | `images/08_layer_sweep.png`（スライド17・層スイープ予備実験） | `layer_sweep.json` |
 
 ※ `latent_attitude_consensus_module.png`（スライド15の構成図）はスクリプト生成ではなく、元PDF「LLM (SLM) WorkerのHidden State可視化による出力の最適化イメージ.pdf」を `pdftoppm -png -r 150` で変換したものです。
 

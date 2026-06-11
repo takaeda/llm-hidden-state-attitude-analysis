@@ -13,6 +13,7 @@ Large Language Model (LLM)の隠れ状態解析による推論態度測定の教
 - HBDI（Hidden Bias Detection Index）指標の理解
 - 実際の測定結果とその解釈
 - 各LLMの推論態度の違い
+- 【応用編】Hidden State可視化のAIエージェント連携への応用構想（Latent Attitude Consensus Module）
 
 ### 2. 実践学習：解析ツールで体験
 🔬 **[Hidden State解析ツールキット](hidden_state_analysis/)**

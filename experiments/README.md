@@ -42,6 +42,20 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 | `08_consistency_metric.py` | アンカー規格化＋d′安全弁による一貫性スコア | スライド10-11（一貫性品質評価・物差し・安全弁） |
 | `09_gen_full.py` + `10_validate.py` | 出だしの広がり vs 意味埋め込みの広がりの相関 | スライド12（検証(a)：読まない一貫性の妥当性） |
 
+## 教材の図の再生成（scripts/figures/）
+
+教材 `LECTURE_hidden_state.md` の各図は、以下のスクリプトで `../images/` に再生成できます。いずれも **GPU不要**（`results/` の収録データから描画。fig03 は座標キャッシュ `toorpia_first3_xy.npy` があればオフラインで動作し、無ければ toorPIA API に投入して生成）。
+
+| スクリプト | 生成する図 | 入力データ |
+|---|---|---|
+| `figures/fig01_determinism.py` | `images/01_determinism.png`（スライド4・鎖の模式図） | なし（純粋な模式図） |
+| `figures/fig02_spread_two_questions.py` | `images/02_spread_two_questions.png`（スライド7・2問の点群） | `full_first3.npz`, `full_texts.json` |
+| `figures/fig03_toorpia_map.py` | `images/03_toorpia_map.png`（スライド8・toorPIAマップ） | `first3_vectors.csv`, `toorpia_first3_xy.npy` |
+| `figures/fig04_consistency_standard.py` | `images/04_consistency_standard.png`（スライド12・3パネル） | 各モデルの `consistency.json`, `profile.json` |
+| `figures/fig06_validation.py` | `images/06_validation.png`（スライド13・検証散布図） | `validation_a.json` |
+
+※ `latent_attitude_consensus_module.png`（スライド14の構成図）はスクリプト生成ではなく、元PDF「LLM (SLM) WorkerのHidden State可視化による出力の最適化イメージ.pdf」を `pdftoppm -png -r 150` で変換したものです。
+
 ## 主要な数値（results/ に保存済み）
 
 - `consistency.json`: D_ref（意味的距離の単位）, d′（物差しの妥当性）, 規格化inconsistency（全体/カテゴリ別）

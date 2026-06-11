@@ -1,0 +1,493 @@
+{
+ "tree_curves": {
+  "simple_st01": {
+   "task": "Does the Earth revolve around the Sun?",
+   "curve": [
+    {
+     "depth": 1,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 1,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 2,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 2,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 3,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 3,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 4,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 4,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 5,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 5,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 6,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 6,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 7,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 7,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 8,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 8,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 9,
+     "coverage": 1.0,
+     "n_branches": 2,
+     "n_forward_total": 9,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 10,
+     "coverage": 1.0,
+     "n_branches": 5,
+     "n_forward_total": 11,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 11,
+     "coverage": 1.0,
+     "n_branches": 7,
+     "n_forward_total": 16,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 12,
+     "coverage": 1.0,
+     "n_branches": 9,
+     "n_forward_total": 23,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 13,
+     "coverage": 1.0,
+     "n_branches": 11,
+     "n_forward_total": 32,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 14,
+     "coverage": 0.9981,
+     "n_branches": 17,
+     "n_forward_total": 43,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 15,
+     "coverage": 0.9975,
+     "n_branches": 20,
+     "n_forward_total": 60,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 16,
+     "coverage": 0.9959,
+     "n_branches": 25,
+     "n_forward_total": 80,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 17,
+     "coverage": 0.9938,
+     "n_branches": 31,
+     "n_forward_total": 105,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 18,
+     "coverage": 0.9896,
+     "n_branches": 33,
+     "n_forward_total": 136,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 19,
+     "coverage": 0.985,
+     "n_branches": 35,
+     "n_forward_total": 169,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 20,
+     "coverage": 0.9814,
+     "n_branches": 41,
+     "n_forward_total": 204,
+     "budget_exhausted": false
+    }
+   ],
+   "params": {
+    "top_m": 5,
+    "prune": 0.001,
+    "budget": 600
+   }
+  },
+  "complex_sales": {
+   "task": "Our company's monthly sales have been declining for six months. Propose the single most important analysis we should run first, and briefly explain why.",
+   "curve": [
+    {
+     "depth": 1,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 1,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 2,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 2,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 3,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 3,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 4,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 4,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 5,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 5,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 6,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 6,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 7,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 7,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 8,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 8,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 9,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 9,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 10,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 10,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 11,
+     "coverage": 1.0,
+     "n_branches": 2,
+     "n_forward_total": 11,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 12,
+     "coverage": 1.0,
+     "n_branches": 3,
+     "n_forward_total": 13,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 13,
+     "coverage": 0.9991,
+     "n_branches": 8,
+     "n_forward_total": 16,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 14,
+     "coverage": 0.9958,
+     "n_branches": 8,
+     "n_forward_total": 24,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 15,
+     "coverage": 0.9958,
+     "n_branches": 12,
+     "n_forward_total": 32,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 16,
+     "coverage": 0.9958,
+     "n_branches": 19,
+     "n_forward_total": 44,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 17,
+     "coverage": 0.9922,
+     "n_branches": 22,
+     "n_forward_total": 63,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 18,
+     "coverage": 0.9899,
+     "n_branches": 27,
+     "n_forward_total": 85,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 19,
+     "coverage": 0.9889,
+     "n_branches": 37,
+     "n_forward_total": 112,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 20,
+     "coverage": 0.9813,
+     "n_branches": 48,
+     "n_forward_total": 149,
+     "budget_exhausted": false
+    }
+   ],
+   "params": {
+    "top_m": 5,
+    "prune": 0.001,
+    "budget": 600
+   }
+  },
+  "complex_cause": {
+   "task": "Our bakery's monthly revenue suddenly dropped 30% over the last three months. What is the most likely cause? Give your single best hypothesis and briefly explain.",
+   "curve": [
+    {
+     "depth": 1,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 1,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 2,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 2,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 3,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 3,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 4,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 4,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 5,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 5,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 6,
+     "coverage": 1.0,
+     "n_branches": 1,
+     "n_forward_total": 6,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 7,
+     "coverage": 1.0,
+     "n_branches": 2,
+     "n_forward_total": 7,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 8,
+     "coverage": 1.0,
+     "n_branches": 2,
+     "n_forward_total": 9,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 9,
+     "coverage": 1.0,
+     "n_branches": 2,
+     "n_forward_total": 11,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 10,
+     "coverage": 1.0,
+     "n_branches": 2,
+     "n_forward_total": 13,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 11,
+     "coverage": 1.0,
+     "n_branches": 3,
+     "n_forward_total": 15,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 12,
+     "coverage": 1.0,
+     "n_branches": 3,
+     "n_forward_total": 18,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 13,
+     "coverage": 1.0,
+     "n_branches": 3,
+     "n_forward_total": 21,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 14,
+     "coverage": 1.0,
+     "n_branches": 3,
+     "n_forward_total": 24,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 15,
+     "coverage": 1.0,
+     "n_branches": 3,
+     "n_forward_total": 27,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 16,
+     "coverage": 1.0,
+     "n_branches": 4,
+     "n_forward_total": 30,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 17,
+     "coverage": 1.0,
+     "n_branches": 4,
+     "n_forward_total": 34,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 18,
+     "coverage": 1.0,
+     "n_branches": 4,
+     "n_forward_total": 38,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 19,
+     "coverage": 1.0,
+     "n_branches": 4,
+     "n_forward_total": 42,
+     "budget_exhausted": false
+    },
+    {
+     "depth": 20,
+     "coverage": 1.0,
+     "n_branches": 4,
+     "n_forward_total": 46,
+     "budget_exhausted": false
+    }
+   ],
+   "params": {
+    "top_m": 5,
+    "prune": 0.001,
+    "budget": 600
+   }
+  }
+ },
+ "tasks": {
+  "simple_st01": "Does the Earth revolve around the Sun?",
+  "complex_sales": "Our company's monthly sales have been declining for six months. Propose the single most important analysis we should run first, and briefly explain why.",
+  "complex_cause": "Our bakery's monthly revenue suddenly dropped 30% over the last three months. What is the most likely cause? Give your single best hypothesis and briefly explain."
+ },
+ "samples": {
+  "complex_sales": [
+   "The single most important analysis you should run first is **a time-series analysis of the sales data**, specifically looking at **trends, seasonality, and outliers**.\n\n### Why this is important:\n\n- **Trends** can help identify whether the decline is part of a long-term pattern or a short-term fluctuation.\n- **Seasonality** can reveal if sales are naturally declining during certain months, which might indicate a temporary issue rather than a",
+   "The single most important analysis you should run first is a **time series analysis** of the sales data.\n\n**Why?**  \nTime series analysis allows you to identify trends, seasonality, and patterns in sales over time. Since your sales have been declining for six months, this analysis can help you determine whether the decline is part of a longer-term trend, influenced by seasonal factors, or due to a recent event or anomaly. It also helps you",
+   "The single most important analysis you should run first is **a time-series decomposition** of the sales data.\n\n### Why?\n\nTime-series decomposition allows you to break down your sales data into its underlying components: **trend**, **seasonality**, and **residual (noise)**. This helps you understand whether the decline is due to a long-term trend, repeating seasonal patterns, or random fluctuations.\n\nBy analyzing these components, you can:\n\n- Determine if",
+   "The single most important analysis you should run first is **a time series decomposition analysis** of your monthly sales data.\n\n### Why this is important:\n\nTime series decomposition helps you understand the underlying components of your sales data—**trend, seasonality, and residual (noise)**—and can reveal patterns that might not be obvious from just looking at the numbers. This analysis is crucial because:\n\n- It helps identify whether the decline is due to a **",
+   "The single most important analysis you should run first is **a time-series analysis of sales data**.\n\n### **Why?**\n\nA time-series analysis will help you identify patterns, trends, and seasonality in sales over time. Since your sales have been declining for six months, this analysis can help answer critical questions:\n\n- Is the decline part of a long-term trend?\n- Are there any seasonal factors influencing sales?\n- Are there any anomalies or sudden",
+   "The single most important analysis you should run first is **a time-series analysis of sales data**, focusing on trends, seasonality, and outliers.\n\n### **Why this is important:**\n\n1. **Identify the underlying trend:** A time-series analysis can reveal whether the decline is part of a long-term trend, a short-term fluctuation, or a combination of both. This helps determine if the decline is temporary or indicative of a structural issue.\n\n",
+   "The single most important analysis you should run first is **a time-series analysis of sales data**, specifically looking at trends, seasonality, and potential external factors affecting sales.\n\n### Why this analysis is crucial:\n\n1. **Identifies the underlying trend**: It helps determine whether the decline is part of a long-term trend, a short-term fluctuation, or a cyclical pattern.\n   \n2. **Detects seasonality**: Sales may be declining due",
+   "The single most important analysis you should run first is **a time-series analysis of sales data** (e.g., using tools like Excel, Google Sheets, or statistical software like R or Python).\n\n### Why this is important:\n\n- **Identifies trends and patterns:** Time-series analysis can reveal whether the decline is part of a long-term trend, seasonal variation, or a recent shift.\n- **Helps distinguish between normal variation and a real problem:**",
+   "The single most important analysis you should run first is a **time series analysis** of the sales data.\n\n**Why?**  \nTime series analysis allows you to identify trends, seasonality, and patterns in sales over time. Since your sales have been declining for six months, this analysis can help you determine whether the decline is part of a long-term trend, influenced by seasonal factors, or due to short-term fluctuations. It also helps you understand the",
+   "The single most important analysis you should run first is **\"Customer Segmentation and Retention Analysis.\"**\n\n### Why This Analysis Is Critical:\n\n- **Identifies the Root Cause:** By segmenting customers based on behavior, demographics, or purchase history, you can determine which groups are driving the sales decline and which are still performing well. This helps pinpoint whether the issue is with specific customer segments (e.g., loyal customers, new customers, or high",
+   "The single most important analysis you should run first is **a time-series decomposition** of the sales data.\n\n### **Why?**\n\nTime-series decomposition breaks down your sales data into its underlying components: **trend**, **seasonality**, and **error (or residual)**. This analysis helps you understand whether the decline is due to a long-term trend, recurring seasonal patterns, or random variation.\n\nBy decomposing the data, you can:\n\n- Identify",
+   "The single most important analysis you should run first is a **time-series analysis of sales data**.\n\n**Why?**  \nA time-series analysis allows you to identify trends, seasonality, and patterns in sales over time. Since your sales have been declining for six months, this analysis can help you determine whether the decline is part of a long-term trend, a short-term fluctuation, or influenced by external factors (e.g., market conditions,",
+   "The single most important analysis you should run first is **a time-series decomposition** of your monthly sales data.\n\n### Why This Analysis is Critical:\n\nTime-series decomposition breaks down your sales data into its underlying components: **trend**, **seasonality**, and **residuals (noise)**. This helps you understand:\n\n- **Trend**: Is sales declining consistently over time, or is it a short-term fluctuation?\n- **Seasonality**:",
+   "The single most important analysis you should run first is **a time-series decomposition** of your monthly sales data.\n\n### Why this is important:\n\nTime-series decomposition helps you understand the underlying components of your sales data: **trend**, **seasonality**, and **residuals (random variation)**. By breaking down the data, you can identify:\n\n- Whether the decline is due to a long-term trend (e.g., sales are steadily decreasing over"
+  ],
+  "complex_cause": [
+   "The most likely cause of a **30% drop in monthly revenue** over the last three months is **a significant decline in sales volume or pricing power**, likely due to **one or more of the following**:\n\n### **Best Hypothesis:**\n**A sudden decrease in customer traffic or foot traffic due to external factors (e.g., a local event, economic downturn, or a competitor's marketing campaign).**\n\n### **Explanation:**\n",
+   "The most likely cause of a **30% sudden drop in monthly revenue** over the last three months is **a significant change in consumer behavior or demand**, such as:\n\n**Hypothesis:** A **sudden shift in customer preferences or a major external event** (e.g., a pandemic, economic downturn, or a competitor's marketing campaign) caused a dramatic decrease in foot traffic or sales.\n\n**Explanation:** A 30% drop",
+   "The most likely cause of a 30% drop in monthly revenue over the last three months is **a significant decline in customer traffic or sales volume**, which could be due to **a marketing or public relations crisis**, **competition from new rivals**, **supply chain disruptions**, or **seasonal factors**.\n\nHowever, if the revenue drop is sudden and not tied to seasonality, the **most likely and immediate cause is a marketing or PR crisis",
+   "The most likely cause of a 30% drop in monthly revenue over three months is **a significant decrease in customer traffic or sales volume**, which could be due to one of the following:\n\n### **Best Hypothesis:**\n**A decline in customer traffic or foot traffic due to external factors such as competition, seasonal demand, or a marketing or operational issue.**\n\n### **Explanation:**\nA 30% drop in revenue is a",
+   "The most likely cause of a 30% drop in monthly revenue over the last three months is **a decline in sales volume due to a temporary reduction in customer traffic or demand**.\n\n**Explanation:**  \nA sudden and significant drop in revenue of 30% is unlikely to be due to a permanent change in pricing or product quality, as those changes would typically take time to affect sales. Instead, the most plausible explanation is a temporary factor",
+   "The most likely cause of a 30% drop in monthly revenue over the last three months is **a decline in customer traffic or sales volume**, possibly due to **a marketing or promotional strategy that failed to attract customers**, **competition from rival bakeries**, or **a change in consumer behavior** (e.g., shift to online delivery or healthier eating trends).\n\nHowever, the **most specific and likely hypothesis** is:\n\n**A decline in customer",
+   "The most likely cause of a **30% drop in monthly revenue** over the last three months is **a decline in customer traffic or sales volume**, which could be due to **one of the following**:\n\n### **Best Hypothesis:**\n**A significant drop in customer traffic or foot traffic to the bakery.**\n\n### **Explanation:**\nA 30% revenue drop over three months is a substantial decline, and it's unlikely",
+   "The most likely cause of a **30% sudden drop in monthly revenue** over the last three months is **a decrease in customer traffic or sales volume**, which could be due to **one or more of the following**:\n\n### **Best Hypothesis:**\n**A significant drop in customer traffic or sales volume due to external factors such as a local event, economic downturn, or competition.**\n\n### **Explanation:**\nA 30",
+   "The most likely cause of a 30% drop in monthly revenue over the last three months is **a decline in customer traffic or sales volume**, possibly due to **competition, marketing issues, or operational problems**.\n\n**Hypothesis:** The revenue drop is primarily due to a **significant decrease in customer traffic or sales volume**, which could be caused by factors such as increased competition, poor marketing, or internal operational issues (e.g., supply",
+   "The most likely cause of a 30% drop in monthly revenue over the last three months is **a decline in customer demand or sales volume**, possibly due to **competition, changes in consumer behavior, or operational issues**.\n\n**Best hypothesis:**  \n**A sudden drop in customer traffic or sales volume due to increased competition or changes in consumer preferences.**\n\n**Explanation:**  \nA 30% drop in revenue in just three months is a",
+   "The most likely cause of a **30% drop in monthly revenue** over the last three months is **a decline in customer demand or sales volume**, possibly due to:\n\n**Hypothesis:** A **sudden drop in customer traffic or sales volume** due to external factors such as **economic downturn**, **competitor activity**, **supply chain disruptions**, or **changes in consumer behavior**.\n\n**Explanation:** A 30% revenue drop",
+   "The most likely cause of a 30% drop in monthly revenue over three months is **a significant decline in customer traffic or sales volume**, likely due to **a temporary disruption in the bakery's operations**, such as:\n\n- **A temporary closure or reduced hours** (e.g., due to a fire, supply chain issue, or health and safety measures).\n- **A drop in foot traffic** from nearby businesses or a change in the local",
+   "The most likely cause of a **30% drop in monthly revenue** over the last three months is **a significant decline in sales volume** due to **a new competitor entering the market** or **a major change in consumer behavior** (such as a shift to online ordering or a preference for other types of baked goods).\n\n### Best Hypothesis:\n**A new competitor entered the market, capturing a significant share of the customer base.**\n\n",
+   "The most likely cause of a **30% drop in monthly revenue** over the last three months is **a decline in customer traffic or sales volume**, which could be due to **a temporary supply chain disruption**, **a marketing campaign underperformance**, or **a change in consumer behavior** (e.g., due to economic factors, weather, or competition).\n\nHowever, if the drop is **sudden and significant**, the **most likely hypothesis**"
+  ]
+ }
+}

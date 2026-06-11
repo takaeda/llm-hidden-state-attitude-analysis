@@ -36,8 +36,8 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 | `02_agreement.py` | 読み取った方向と実際の回答行動の一致率 | スライド6（読み取りが行動と一致） |
 | `05_decision_point_check.py` | 同一質問内/文脈差での状態の決定性・ゆらぎの出所 | スライド4（鎖・ゆらぎの出所）, スライド5（文脈の中の意味） |
 | `03_dispersion.py` | n試行の状態の広がり＋対立ペア距離の有意性検定 | スライド7（散らばり）, 旧HBDIの距離の有意性 |
-| `06_window_spread.py` | 出だし何語まで見るかで広がりがどう変わるか | スライド7（出だし数語で測るのがコツ） |
-| `04_toorpia_map.py` | 状態群をtoorPIAベースマップで2D可視化 | スライド8（toorPIAで散らばりを見える化） |
+| `06_window_spread.py` | 出だし何語まで見るかで広がりがどう変わるか（スライド8の入力 `first3_vectors.csv` もここで生成） | スライド7（出だし数語で測る理由） |
+| `04_toorpia_map.py` | 状態群をtoorPIAベースマップで2D可視化 | スライド8（toorPIAマップ。入力は `results/Qwen3-4B/first3_vectors.csv`。完全同一行が多いため微小ジッタを加えて投入する） |
 | `07_model_profile.py` | カテゴリ別の出だし広がりプロファイル | スライド11（配備マップの素地） |
 | `08_consistency_metric.py` | アンカー規格化＋d′安全弁による一貫性スコア | スライド10-11（一貫性品質評価・物差し・安全弁） |
 | `09_gen_full.py` + `10_validate.py` | 出だしの広がり vs 意味埋め込みの広がりの相関 | スライド12（検証(a)：読まない一貫性の妥当性） |
@@ -49,4 +49,4 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 - `validation_a.json`: hidden側の広がり vs 意味側の広がりの相関（Qwen ρ=0.54 / Mistral ρ=0.64）
 - `agreement.json` / `logit_lens.json` / `dispersion.json` / `window_spread.json` / `toorpia_spread.json`: 各実験の生数値
 
-注：`results/` には小さなJSONサマリと toorPIA入力CSV 1点のみを収録。大きな中間ベクトル（`*.npz`, `first3_vectors.csv` 等）はスクリプト再実行で再生成できるため同梱していない。
+注：`results/` には小さなJSONサマリと、toorPIA可視化の入力CSV 2点（`first3_vectors.csv`＝出だし3トークン版・講義スライド8の図の入力、`dispersion_vectors.csv`＝回答全体平均版・PLAN2の実験用）を収録。その他の大きな中間ベクトル（`*.npz` 等）はスクリプト再実行で再生成できるため同梱していない。

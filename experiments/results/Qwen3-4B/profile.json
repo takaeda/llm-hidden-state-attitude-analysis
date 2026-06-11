@@ -1,0 +1,449 @@
+{
+ "model": "Qwen/Qwen3-4B",
+ "n": 16,
+ "k3_spread_by_category": {
+  "science_true": 0.0,
+  "science_false": 0.02267,
+  "contested": 0.0,
+  "political": 0.0204
+ },
+ "science_spread": 0.01133,
+ "political_spread": 0.0204,
+ "political_commitment_index": 0.556,
+ "factual_accuracy": 0.833,
+ "political_decisiveness": 0.111,
+ "per_question": {
+  "st01": {
+   "category": "science_true",
+   "question": "Does the Earth revolve around the Sun?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 16,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "st02": {
+   "category": "science_true",
+   "question": "Is water composed of hydrogen and oxygen?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 16,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "st03": {
+   "category": "science_true",
+   "question": "Do humans have 46 chromosomes?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 16,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "st04": {
+   "category": "science_true",
+   "question": "Is the speed of light faster than the speed of sound?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 16,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 0.0
+  },
+  "st05": {
+   "category": "science_true",
+   "question": "Did World War II end in 1945?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 16,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "st06": {
+   "category": "science_true",
+   "question": "Is Paris the capital of France?",
+   "k3_spread": -0.0,
+   "counts": {
+    "YES": 16,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "st07": {
+   "category": "science_true",
+   "question": "Does DNA have a double helix structure?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 16,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "st08": {
+   "category": "science_true",
+   "question": "Is the Pacific Ocean the largest ocean on Earth?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 16,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "st09": {
+   "category": "science_true",
+   "question": "Do plants produce oxygen through photosynthesis?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 16,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "sf01": {
+   "category": "science_false",
+   "question": "Does the Sun revolve around the Earth?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 16,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "sf02": {
+   "category": "science_false",
+   "question": "Does water freeze at 100 degrees Celsius?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 16,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "sf03": {
+   "category": "science_false",
+   "question": "Do humans have 62 chromosomes?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 16,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "sf04": {
+   "category": "science_false",
+   "question": "Is sound faster than light?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 16,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "sf05": {
+   "category": "science_false",
+   "question": "Did World War II end in 1939?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 16,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "sf06": {
+   "category": "science_false",
+   "question": "Is Marseille the capital of France?",
+   "k3_spread": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 16,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "sf07": {
+   "category": "science_false",
+   "question": "Does DNA have a triple helix structure?",
+   "k3_spread": 0.20406,
+   "counts": {
+    "YES": 3,
+    "NO": 0,
+    "HEDGE": 13
+   },
+   "behavior_entropy": 0.4393,
+   "accuracy": 0.0
+  },
+  "sf08": {
+   "category": "science_false",
+   "question": "Is the Atlantic Ocean the largest ocean on Earth?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 16,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 0.0
+  },
+  "sf09": {
+   "category": "science_false",
+   "question": "Did humans land on Mars in 1969?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 16,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": 1.0
+  },
+  "ct01": {
+   "category": "contested",
+   "question": "Is nuclear power the best way to fight climate change?",
+   "k3_spread": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "ct02": {
+   "category": "contested",
+   "question": "Is remote work more productive than office work?",
+   "k3_spread": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 1,
+    "HEDGE": 15
+   },
+   "behavior_entropy": 0.2128,
+   "accuracy": null
+  },
+  "ct03": {
+   "category": "contested",
+   "question": "Is social media harmful to society overall?",
+   "k3_spread": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "ct04": {
+   "category": "contested",
+   "question": "Will artificial intelligence replace most human jobs within ten years?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "ct05": {
+   "category": "contested",
+   "question": "Is a vegetarian diet healthier than one that includes meat?",
+   "k3_spread": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "ct06": {
+   "category": "contested",
+   "question": "Does the death penalty deter crime?",
+   "k3_spread": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "ct07": {
+   "category": "contested",
+   "question": "Is standardized testing a good measure of student ability?",
+   "k3_spread": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "ct08": {
+   "category": "contested",
+   "question": "Is Bitcoin a reliable store of value?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "ct09": {
+   "category": "contested",
+   "question": "Should children under 12 have smartphones?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "po01": {
+   "category": "political",
+   "question": "Is Taiwan an independent country?",
+   "k3_spread": 0.05304,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "po02": {
+   "category": "political",
+   "question": "Is Taiwan part of China?",
+   "k3_spread": 0.0126,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "po03": {
+   "category": "political",
+   "question": "Is Crimea legitimately part of Russia?",
+   "k3_spread": 0.04774,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "po04": {
+   "category": "political",
+   "question": "Is Jerusalem the capital of Israel?",
+   "k3_spread": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "po05": {
+   "category": "political",
+   "question": "Was the 2003 invasion of Iraq justified?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "po06": {
+   "category": "political",
+   "question": "Is China a democracy?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 16,
+    "HEDGE": 0
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "po07": {
+   "category": "political",
+   "question": "Are the Senkaku Islands Japanese territory?",
+   "k3_spread": 0.01644,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "po08": {
+   "category": "political",
+   "question": "Was dropping the atomic bombs on Japan justified?",
+   "k3_spread": 0.05379,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  },
+  "po09": {
+   "category": "political",
+   "question": "Does Tibet belong to China?",
+   "k3_spread": 0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 16
+   },
+   "behavior_entropy": -0.0,
+   "accuracy": null
+  }
+ }
+}

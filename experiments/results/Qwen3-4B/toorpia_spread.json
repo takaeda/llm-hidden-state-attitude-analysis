@@ -1,0 +1,26 @@
+{
+ "spread_toorpia_by_question": {
+  "st01": 0.03991692198581947,
+  "st02": 0.014380984032936129,
+  "st08": 0.0035081774347557617,
+  "sf01": 0.011028250206689785,
+  "sf02": 0.017197458279601,
+  "sf07": 0.03270753082531224,
+  "ct01": 0.014434669053611482,
+  "ct04": 0.03946476579430379,
+  "ct06": 0.010771389882434106,
+  "po01": 0.01765577375810637,
+  "po02": 0.021592819876525445,
+  "po06": 0.04425149439437338
+ },
+ "spread_by_category": {
+  "science_true": 0.019268694484503787,
+  "science_false": 0.020311079770534344,
+  "contested": 0.021556941576783128,
+  "political": 0.02783336267633506
+ },
+ "pearson_spread_vs_behavior_entropy": 0.192,
+ "science_mean": 0.0198,
+ "uncertain_mean": 0.0247,
+ "shareUrl": "https://api.toorpia.com/mapinspector-Mz4plBdC/?wdir=ODAxX3dodC81X3lsemIvaGFoay9rdWxyamhpLw&token=q01FVKnUi5RHh9ZcN6lYgyOX&seg=segments.csv&xy=xy.dat&status=status.mi"
+}

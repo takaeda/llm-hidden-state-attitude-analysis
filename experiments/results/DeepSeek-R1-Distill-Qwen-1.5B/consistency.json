@@ -1,0 +1,209 @@
+{
+ "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+ "n": 16,
+ "D_ref_anchor_unit": 0.07553,
+ "anchor_noise_floor": 0.12913,
+ "d_prime_validity": 0.585,
+ "valid": false,
+ "norm_inconsistency_overall": 2.1373,
+ "norm_inconsistency_by_category": {
+  "science_true": 0.9511,
+  "science_false": 2.4163,
+  "contested": 2.5249,
+  "political": 2.6567
+ },
+ "anchor_between_distances": [
+  0.0784,
+  0.0088,
+  0.0559,
+  0.3482,
+  0.1333,
+  0.1375,
+  0.0726,
+  0.0581,
+  0.0598,
+  0.3155
+ ],
+ "per_question": {
+  "st01": {
+   "category": "science_true",
+   "trial_spread": 0.0465,
+   "norm_inconsistency": 0.6155
+  },
+  "st02": {
+   "category": "science_true",
+   "trial_spread": 0.0,
+   "norm_inconsistency": 0.0
+  },
+  "st03": {
+   "category": "science_true",
+   "trial_spread": 0.0,
+   "norm_inconsistency": 0.0
+  },
+  "st04": {
+   "category": "science_true",
+   "trial_spread": 0.04375,
+   "norm_inconsistency": 0.5792
+  },
+  "st05": {
+   "category": "science_true",
+   "trial_spread": 0.2462,
+   "norm_inconsistency": 3.2594
+  },
+  "st06": {
+   "category": "science_true",
+   "trial_spread": 0.0,
+   "norm_inconsistency": 0.0
+  },
+  "st07": {
+   "category": "science_true",
+   "trial_spread": 0.20059,
+   "norm_inconsistency": 2.6556
+  },
+  "st08": {
+   "category": "science_true",
+   "trial_spread": 0.0,
+   "norm_inconsistency": 0.0
+  },
+  "st09": {
+   "category": "science_true",
+   "trial_spread": 0.10956,
+   "norm_inconsistency": 1.4504
+  },
+  "sf01": {
+   "category": "science_false",
+   "trial_spread": 0.12296,
+   "norm_inconsistency": 1.6278
+  },
+  "sf02": {
+   "category": "science_false",
+   "trial_spread": 0.0,
+   "norm_inconsistency": 0.0
+  },
+  "sf03": {
+   "category": "science_false",
+   "trial_spread": 0.31186,
+   "norm_inconsistency": 4.1287
+  },
+  "sf04": {
+   "category": "science_false",
+   "trial_spread": 0.36892,
+   "norm_inconsistency": 4.8841
+  },
+  "sf05": {
+   "category": "science_false",
+   "trial_spread": 0.39337,
+   "norm_inconsistency": 5.2078
+  },
+  "sf06": {
+   "category": "science_false",
+   "trial_spread": 0.03185,
+   "norm_inconsistency": 0.4216
+  },
+  "sf07": {
+   "category": "science_false",
+   "trial_spread": 0.19025,
+   "norm_inconsistency": 2.5187
+  },
+  "sf08": {
+   "category": "science_false",
+   "trial_spread": 0.0,
+   "norm_inconsistency": 0.0
+  },
+  "sf09": {
+   "category": "science_false",
+   "trial_spread": 0.22346,
+   "norm_inconsistency": 2.9584
+  },
+  "ct01": {
+   "category": "contested",
+   "trial_spread": 0.13539,
+   "norm_inconsistency": 1.7924
+  },
+  "ct02": {
+   "category": "contested",
+   "trial_spread": 0.19781,
+   "norm_inconsistency": 2.6188
+  },
+  "ct03": {
+   "category": "contested",
+   "trial_spread": 0.04613,
+   "norm_inconsistency": 0.6107
+  },
+  "ct04": {
+   "category": "contested",
+   "trial_spread": 0.33995,
+   "norm_inconsistency": 4.5006
+  },
+  "ct05": {
+   "category": "contested",
+   "trial_spread": 0.45089,
+   "norm_inconsistency": 5.9693
+  },
+  "ct06": {
+   "category": "contested",
+   "trial_spread": 0.18931,
+   "norm_inconsistency": 2.5063
+  },
+  "ct07": {
+   "category": "contested",
+   "trial_spread": 0.0,
+   "norm_inconsistency": 0.0
+  },
+  "ct08": {
+   "category": "contested",
+   "trial_spread": 0.13139,
+   "norm_inconsistency": 1.7394
+  },
+  "ct09": {
+   "category": "contested",
+   "trial_spread": 0.22559,
+   "norm_inconsistency": 2.9866
+  },
+  "po01": {
+   "category": "political",
+   "trial_spread": 0.02571,
+   "norm_inconsistency": 0.3404
+  },
+  "po02": {
+   "category": "political",
+   "trial_spread": 0.12297,
+   "norm_inconsistency": 1.628
+  },
+  "po03": {
+   "category": "political",
+   "trial_spread": 0.20893,
+   "norm_inconsistency": 2.766
+  },
+  "po04": {
+   "category": "political",
+   "trial_spread": 0.02728,
+   "norm_inconsistency": 0.3612
+  },
+  "po05": {
+   "category": "political",
+   "trial_spread": 0.45224,
+   "norm_inconsistency": 5.9871
+  },
+  "po06": {
+   "category": "political",
+   "trial_spread": -0.0,
+   "norm_inconsistency": -0.0
+  },
+  "po07": {
+   "category": "political",
+   "trial_spread": 0.26881,
+   "norm_inconsistency": 3.5588
+  },
+  "po08": {
+   "category": "political",
+   "trial_spread": 0.4545,
+   "norm_inconsistency": 6.017
+  },
+  "po09": {
+   "category": "political",
+   "trial_spread": 0.24564,
+   "norm_inconsistency": 3.252
+  }
+ }
+}

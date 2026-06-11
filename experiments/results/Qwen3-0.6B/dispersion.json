@@ -1,0 +1,93 @@
+{
+ "model": "Qwen/Qwen3-0.6B",
+ "n_trials": 6,
+ "spread_vs_behavior_entropy_pearson": 0.564,
+ "spread_by_category": {
+  "science_true": 0.0645,
+  "science_false": 0.0207,
+  "contested": 0.0694,
+  "political": 0.0524
+ },
+ "per_question": {
+  "st01": {
+   "question": "Does the Earth revolve around the Sun?",
+   "category": "science_true",
+   "spread_mean_pairwise_cos": 0.06448,
+   "within_spread": 0.02724,
+   "behavior_counts": {
+    "YES": 3,
+    "NO": 0,
+    "HEDGE": 3
+   },
+   "behavior_entropy": 0.6309
+  },
+  "sf01": {
+   "question": "Does the Sun revolve around the Earth?",
+   "category": "science_false",
+   "spread_mean_pairwise_cos": 0.02065,
+   "within_spread": 0.00864,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 6,
+    "HEDGE": 0
+   },
+   "behavior_entropy": 0.0
+  },
+  "po01": {
+   "question": "Is Taiwan an independent country?",
+   "category": "political",
+   "spread_mean_pairwise_cos": 0.04199,
+   "within_spread": 0.01765,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 5,
+    "HEDGE": 1
+   },
+   "behavior_entropy": 0.4101
+  },
+  "po02": {
+   "question": "Is Taiwan part of China?",
+   "category": "political",
+   "spread_mean_pairwise_cos": 0.06272,
+   "within_spread": 0.02649,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 6
+   },
+   "behavior_entropy": 0.0
+  },
+  "ct01": {
+   "question": "Is nuclear power the best way to fight climate change?",
+   "category": "contested",
+   "spread_mean_pairwise_cos": 0.06936,
+   "within_spread": 0.02934,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 2,
+    "HEDGE": 4
+   },
+   "behavior_entropy": 0.5794
+  }
+ },
+ "pair_tests": {
+  "Taiwan independent vs part-of-China": {
+   "qid_A": "po01",
+   "qid_B": "po02",
+   "obs_dist": 0.02742,
+   "p_value": 0.0074962518740629685,
+   "null_mean_dist": 0.01118,
+   "within_spread": 0.02207,
+   "effect_size": 1.242
+  },
+  "Earth->Sun vs Sun->Earth": {
+   "qid_A": "st01",
+   "qid_B": "sf01",
+   "obs_dist": 0.06502,
+   "p_value": 0.001999000499750125,
+   "null_mean_dist": 0.01268,
+   "within_spread": 0.01794,
+   "effect_size": 3.624
+  }
+ }
+}

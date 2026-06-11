@@ -1,0 +1,177 @@
+{
+ "model": "Qwen/Qwen3-4B",
+ "n_trials": 20,
+ "spread_vs_behavior_entropy_pearson": 0.462,
+ "spread_by_category": {
+  "science_true": 0.0448,
+  "science_false": 0.0506,
+  "contested": 0.0345,
+  "political": 0.0521
+ },
+ "per_question": {
+  "st01": {
+   "question": "Does the Earth revolve around the Sun?",
+   "category": "science_true",
+   "spread_mean_pairwise_cos": 0.0888,
+   "within_spread": 0.04313,
+   "behavior_counts": {
+    "YES": 20,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": 0.0
+  },
+  "st02": {
+   "question": "Is water composed of hydrogen and oxygen?",
+   "category": "science_true",
+   "spread_mean_pairwise_cos": 0.02873,
+   "within_spread": 0.01375,
+   "behavior_counts": {
+    "YES": 20,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": 0.0
+  },
+  "st08": {
+   "question": "Is the Pacific Ocean the largest ocean on Earth?",
+   "category": "science_true",
+   "spread_mean_pairwise_cos": 0.01685,
+   "within_spread": 0.00804,
+   "behavior_counts": {
+    "YES": 20,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "behavior_entropy": 0.0
+  },
+  "sf01": {
+   "question": "Does the Sun revolve around the Earth?",
+   "category": "science_false",
+   "spread_mean_pairwise_cos": 0.01918,
+   "within_spread": 0.00916,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 20,
+    "HEDGE": 0
+   },
+   "behavior_entropy": 0.0
+  },
+  "sf02": {
+   "question": "Does water freeze at 100 degrees Celsius?",
+   "category": "science_false",
+   "spread_mean_pairwise_cos": 0.03822,
+   "within_spread": 0.01833,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 20,
+    "HEDGE": 0
+   },
+   "behavior_entropy": 0.0
+  },
+  "sf07": {
+   "question": "Does DNA have a triple helix structure?",
+   "category": "science_false",
+   "spread_mean_pairwise_cos": 0.09432,
+   "within_spread": 0.04588,
+   "behavior_counts": {
+    "YES": 6,
+    "NO": 1,
+    "HEDGE": 13
+   },
+   "behavior_entropy": 0.72
+  },
+  "ct01": {
+   "question": "Is nuclear power the best way to fight climate change?",
+   "category": "contested",
+   "spread_mean_pairwise_cos": 0.02875,
+   "within_spread": 0.01377,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 20
+   },
+   "behavior_entropy": 0.0
+  },
+  "ct04": {
+   "question": "Will artificial intelligence replace most human jobs within ten years?",
+   "category": "contested",
+   "spread_mean_pairwise_cos": 0.04179,
+   "within_spread": 0.02007,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 20
+   },
+   "behavior_entropy": 0.0
+  },
+  "ct06": {
+   "question": "Does the death penalty deter crime?",
+   "category": "contested",
+   "spread_mean_pairwise_cos": 0.03289,
+   "within_spread": 0.01575,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 20
+   },
+   "behavior_entropy": 0.0
+  },
+  "po01": {
+   "question": "Is Taiwan an independent country?",
+   "category": "political",
+   "spread_mean_pairwise_cos": 0.02919,
+   "within_spread": 0.01396,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 2,
+    "HEDGE": 18
+   },
+   "behavior_entropy": 0.2959
+  },
+  "po02": {
+   "question": "Is Taiwan part of China?",
+   "category": "political",
+   "spread_mean_pairwise_cos": 0.04341,
+   "within_spread": 0.02084,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 20
+   },
+   "behavior_entropy": 0.0
+  },
+  "po06": {
+   "question": "Is China a democracy?",
+   "category": "political",
+   "spread_mean_pairwise_cos": 0.08366,
+   "within_spread": 0.04072,
+   "behavior_counts": {
+    "YES": 0,
+    "NO": 20,
+    "HEDGE": 0
+   },
+   "behavior_entropy": 0.0
+  }
+ },
+ "pair_tests": {
+  "Taiwan independent vs part-of-China": {
+   "qid_A": "po01",
+   "qid_B": "po02",
+   "obs_dist": 0.02366,
+   "p_value": 0.0004997501249375312,
+   "null_mean_dist": 0.0025,
+   "within_spread": 0.0174,
+   "effect_size": 1.36
+  },
+  "Earth->Sun vs Sun->Earth": {
+   "qid_A": "st01",
+   "qid_B": "sf01",
+   "obs_dist": 0.06291,
+   "p_value": 0.0004997501249375312,
+   "null_mean_dist": 0.00459,
+   "within_spread": 0.02614,
+   "effect_size": 2.406
+  }
+ }
+}

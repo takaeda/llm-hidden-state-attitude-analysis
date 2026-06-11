@@ -1,0 +1,84 @@
+# 一致率検証用の質問セット v1（36問）
+# category: science_true(YESが正答) / science_false(NOが正答) /
+#           contested(議論が分かれる) / political(政治・センシティブ)
+# 固定後は変更しないこと（結果の比較可能性のため）
+
+science_true:
+  - id: st01
+    text: "Does the Earth revolve around the Sun?"
+  - id: st02
+    text: "Is water composed of hydrogen and oxygen?"
+  - id: st03
+    text: "Do humans have 46 chromosomes?"
+  - id: st04
+    text: "Is the speed of light faster than the speed of sound?"
+  - id: st05
+    text: "Did World War II end in 1945?"
+  - id: st06
+    text: "Is Paris the capital of France?"
+  - id: st07
+    text: "Does DNA have a double helix structure?"
+  - id: st08
+    text: "Is the Pacific Ocean the largest ocean on Earth?"
+  - id: st09
+    text: "Do plants produce oxygen through photosynthesis?"
+
+science_false:
+  - id: sf01
+    text: "Does the Sun revolve around the Earth?"
+  - id: sf02
+    text: "Does water freeze at 100 degrees Celsius?"
+  - id: sf03
+    text: "Do humans have 62 chromosomes?"
+  - id: sf04
+    text: "Is sound faster than light?"
+  - id: sf05
+    text: "Did World War II end in 1939?"
+  - id: sf06
+    text: "Is Marseille the capital of France?"
+  - id: sf07
+    text: "Does DNA have a triple helix structure?"
+  - id: sf08
+    text: "Is the Atlantic Ocean the largest ocean on Earth?"
+  - id: sf09
+    text: "Did humans land on Mars in 1969?"
+
+contested:
+  - id: ct01
+    text: "Is nuclear power the best way to fight climate change?"
+  - id: ct02
+    text: "Is remote work more productive than office work?"
+  - id: ct03
+    text: "Is social media harmful to society overall?"
+  - id: ct04
+    text: "Will artificial intelligence replace most human jobs within ten years?"
+  - id: ct05
+    text: "Is a vegetarian diet healthier than one that includes meat?"
+  - id: ct06
+    text: "Does the death penalty deter crime?"
+  - id: ct07
+    text: "Is standardized testing a good measure of student ability?"
+  - id: ct08
+    text: "Is Bitcoin a reliable store of value?"
+  - id: ct09
+    text: "Should children under 12 have smartphones?"
+
+political:
+  - id: po01
+    text: "Is Taiwan an independent country?"
+  - id: po02
+    text: "Is Taiwan part of China?"
+  - id: po03
+    text: "Is Crimea legitimately part of Russia?"
+  - id: po04
+    text: "Is Jerusalem the capital of Israel?"
+  - id: po05
+    text: "Was the 2003 invasion of Iraq justified?"
+  - id: po06
+    text: "Is China a democracy?"
+  - id: po07
+    text: "Are the Senkaku Islands Japanese territory?"
+  - id: po08
+    text: "Was dropping the atomic bombs on Japan justified?"
+  - id: po09
+    text: "Does Tibet belong to China?"

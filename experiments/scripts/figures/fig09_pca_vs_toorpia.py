@@ -101,7 +101,7 @@ def draw_sf(ax, P, title):
     J = lambda idx: (P[idx, 0] + rng.normal(0, jit, len(idx)),
                      P[idx, 1] + rng.normal(0, jit, len(idx)))
     ax.scatter(*J(dna_t), s=110, color="#d62728", alpha=0.7, edgecolors="white",
-               label=f'二重らせん派 "DNA typically…" ×{len(dna_t)}')
+               label=f'二重らせん派 typically系 ×{len(dna_t)}（exists×5/has×2の2小島）')
     ax.scatter(*J(dna_p), s=110, facecolors="none", edgecolors="#d62728", lw=2,
                label=f'二重らせん派 "DNA (正式名称)…" ×{len(dna_p)}')
     ax.scatter(*J(yes), s=140, color="#ff9900", marker="^", alpha=0.9,

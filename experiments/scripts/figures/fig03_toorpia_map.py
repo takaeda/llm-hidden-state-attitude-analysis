@@ -62,7 +62,7 @@ qja = {"st01": "地球→太陽", "st02": "水=H2O", "st08": "太平洋最大",
        "ct01": "原発は最良?", "ct04": "AIが仕事を奪う?", "ct06": "死刑に抑止力?",
        "po01": "台湾は独立国?", "po02": "台湾は中国の一部?", "po06": "中国は民主主義?"}
 off = {"st01": (-10, 15), "sf01": (-72, 4), "st08": (60, 4),
-       "st02": (42, -16), "sf02": (-54, -16),
+       "st02": (42, -16), "sf02": (10, -26),
        "ct01": (0, 16), "ct06": (54, 6), "ct04": (12, -20),
        "po01": (56, 7), "po02": (-64, -9), "po06": (0, 16),
        "sf07": (0, 16)}
@@ -75,14 +75,28 @@ for q in QS:
     c = catcol[cats[idx[0]]]
     cx, cy = p[:, 0].mean(), p[:, 1].mean()
     sp = float(np.mean(np.linalg.norm(p - p.mean(0), axis=1)))
+    # ラベル係留点: 割れた質問は重心(空白)でなく最大の島に置く
+    from collections import Counter
+    keys = [tuple(np.round(pt / (scale * 0.05)).astype(int)) for pt in p]
+    kbest = Counter(keys).most_common(1)[0][0]
+    lx, ly = p[[i for i, k in enumerate(keys) if k == kbest]].mean(0)
     if sp > scale * 0.05:
         for x, y in p:
             ax.plot([cx, x], [cy, y], color=c, lw=0.7, alpha=0.45, zorder=1)
     ax.scatter(p[:, 0], p[:, 1], s=55, color=c, alpha=0.7,
                edgecolors="white", zorder=3)
-    ax.annotate(qja[q], (cx, cy), fontsize=9.5, weight="bold",
+    ax.annotate(qja[q], (lx, ly), fontsize=9.5, weight="bold",
                 xytext=off.get(q, (0, 11)), textcoords="offset points",
                 ha="center", zorder=5)
+import json
+sf_texts = json.load(open(os.path.join(RES, "full_texts.json")))["sf07"]["texts"]
+sf_base = QS.index("sf07") * 12
+yes_pt = xy[[sf_base + i for i, t in enumerate(sf_texts)
+             if t.strip().lower().startswith("yes")]].mean(0)
+ax.annotate("この2点も「DNA三重らせん?」の点\n（三重らせん派 ×2）",
+            xy=(yes_pt[0], yes_pt[1]), xytext=(-150, 115),
+            textcoords="offset points", fontsize=10, color="#a33", weight="bold",
+            arrowprops=dict(arrowstyle="->", color="#a33"))
 ax.set_title("toorPIA マップ（規格化なし）：12問 × 各12回の「出だし数語の hidden state」"
              "（Qwen3-4B 実測）\n"
              "ほとんどの質問は12回ぶんが一点に固まる（一貫）。割れる質問だけが複数の塊に分かれる（線=同じ質問）",

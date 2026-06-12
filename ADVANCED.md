@@ -1,8 +1,8 @@
-# 🧠〔発展資料〕LLMの「頭の中」を覗く ― hidden stateとは何を表しているのか
+# 🧠〔応用資料〕LLMの「頭の中」を覗く ― hidden stateとは何を表しているのか
 
 **高次元データ実用分析 第8回 / 大規模言語モデル(LLM)の可視化とAIエージェント連携**
 
-> 〔発展資料〕本編 [`LECTURE_hidden_state.md`](LECTURE_hidden_state.md) の内容を、測定の設計・検証・専門的なQ&A（temperature、木展開、層の選択、規格化と安全弁など）まで深掘りした資料です。本編で「自分もやってみたい」と思った人の、次の一歩として読んでください。各図・数値の再現コードは [`experiments/`](experiments/) にあります。
+> 〔応用資料〕本編 [`LECTURE_hidden_state.md`](LECTURE_hidden_state.md) の内容を、測定の設計・検証・専門的なQ&A（temperature、木展開、層の選択、規格化と安全弁など）まで深掘りした資料です。本編で「自分もやってみたい」と思った人の、次の一歩として読んでください。各図・数値の再現コードは [`experiments/`](experiments/) にあります。
 >
 > （旧版 `SLIDES.md` は、対立命題テスト・HBDI指標の参照資料として残してあります。）
 

@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: LLM Hidden State Analysis
+description: AIの「頭の中」を覗く ― 出力を読まずにLocal LLMの一貫性を評価する教材と再現コード
+lang: ja

@@ -10,7 +10,7 @@
     ※意味ラベルは回答全文を読んで付与した目視判定。
 
 入力: results/Qwen3-4B/complex_task.json, complex_task_vectors.npz
-      （12_complex_task.py の出力）, toorpia_sales_xy.npy（toorPIA座標）
+      （12_complex_task.py の出力）, toorpia_sales_nonorm_xy.npy（toorPIA座標・規格化なし）
 
 usage: python fig07_tree_limit.py
 """
@@ -76,7 +76,7 @@ ax1.grid(alpha=0.3)
 
 # ---- 右: 複雑課題の意味クラスタ ----
 V = vec["complex_sales"]
-P = np.load(os.path.join(RES, "toorpia_sales_xy.npy"))  # toorPIA座標
+P = np.load(os.path.join(RES, "toorpia_sales_nonorm_xy.npy"))  # toorPIA座標(規格化なし)
 # 意味ラベル（回答全文を読んで付与した目視判定）
 is_ts = [("time se" in t.lower() or "time-se" in t.lower() or "trend" in t.lower()
           or "sales tr" in t.lower())

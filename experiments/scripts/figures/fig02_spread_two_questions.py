@@ -7,7 +7,7 @@
 
 入力: results/Qwen3-4B/full_first3.npz（09_gen_full.py の出力）
       results/Qwen3-4B/full_texts.json（回答文。立場の色分けに使用）
-      results/Qwen3-4B/toorpia_pair_first3_xy.npy（toorPIA座標キャッシュ）
+      results/Qwen3-4B/toorpia_pair_first3_nonorm_xy.npy（toorPIA座標・規格化なし）
 
 usage: python fig02_spread_two_questions.py
 """
@@ -47,7 +47,7 @@ def spread(vs):
 
 
 A, B = z["st01"], z["sf07"]
-P = np.load(os.path.join(RES, "toorpia_pair_first3_xy.npy"))  # toorPIA座標
+P = np.load(os.path.join(RES, "toorpia_pair_first3_nonorm_xy.npy"))  # toorPIA座標(規格化なし)
 PA, PB = P[: len(A)], P[len(A):]
 rng = np.random.default_rng(0)  # 完全に重なる点を見せるための表示用ジッタ
 jit = (P[:, 0].std() + P[:, 1].std()) * 0.012

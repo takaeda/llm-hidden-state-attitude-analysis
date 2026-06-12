@@ -56,7 +56,7 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 |---|---|---|
 | `figures/fig01_determinism.py` | `images/01_determinism.png`（スライド4・鎖の模式図） | なし（純粋な模式図） |
 | `figures/fig02_spread_two_questions.py` | `images/02_spread_two_questions.png`（スライド7・2問の点群） | `full_first3.npz`, `full_texts.json`, `toorpia_pair_first3_xy.npy` |
-| `figures/fig03_toorpia_map.py` | `images/03_toorpia_map.png`（スライド8・toorPIAマップ） | `first3_vectors.csv`, `toorpia_first3_xy.npy` |
+| `figures/fig03_toorpia_map.py` | `images/03_toorpia_map.png`（ADVANCED 8・toorPIAマップ） | `full_first3.npz`, `toorpia_map12_full_nonorm_xy.npy` |
 | `figures/fig04_consistency_standard.py` | `images/04_consistency_standard.png`（スライド12・3パネル） | 各モデルの `consistency.json`, `profile.json` |
 | `figures/fig06_validation.py` | `images/06_validation.png`（スライド13・検証散布図） | `validation_a.json` |
 | `figures/fig07_tree_limit.py` | `images/07_tree_limit.png`（スライド14・木展開の限界） | `complex_task.json`, `complex_task_vectors.npz`, `toorpia_sales_xy.npy` |
@@ -64,7 +64,7 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 | `figures/fig_e01_chain.py` | `images/e01_chain.png`（本編3・サイコロの鎖） | なし（模式図） |
 | `figures/fig_e02_two_questions.py` | `images/e02_two_questions.png`（本編5・2問の点群） | `full_first3.npz`, `full_texts.json`, `toorpia_pair_first3_xy.npy` |
 | `figures/fig09_pca_vs_toorpia.py` | `images/09_pca_vs_toorpia.png`（ADVANCED 8・PCAとの比較） | 上記の点群データ + toorPIA座標キャッシュ2点 |
-| `figures/fig_e03_map.py` | `images/e03_map.png`（本編6・頭の中の地図） | `first3_vectors.csv`, `toorpia_first3_xy.npy` |
+| `figures/fig_e03_map.py` | `images/e03_map.png`（本編6・頭の中の地図） | `full_first3.npz`, `toorpia_map12_full_nonorm_xy.npy` |
 | `figures/fig_e04_stability.py` | `images/e04_stability.png`（本編8・安定性マップ） | 各モデルの `consistency.json` |
 
 ※ `latent_attitude_consensus_module.png`（本編9 / ADVANCEDスライド15の構成図）はスクリプト生成ではなく、元PDF「LLM (SLM) WorkerのHidden State可視化による出力の最適化イメージ.pdf」を `pdftoppm -png -r 150` で変換したものです。

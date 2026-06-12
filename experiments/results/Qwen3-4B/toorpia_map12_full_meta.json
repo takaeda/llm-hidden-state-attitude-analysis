@@ -1,0 +1,866 @@
+[
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 0,
+  "text": "Yes, the Earth revolves around the Sun. This is a fundamental concept in astronomy and is "
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 1,
+  "text": "Yes, the Earth revolves around the Sun. This is a fundamental concept in astronomy and is "
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 2,
+  "text": "Yes, the Earth revolves around the Sun. This is a fundamental concept in astronomy and is "
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 3,
+  "text": "Yes, the Earth revolves around the Sun. This is a fundamental concept in astronomy and is "
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 4,
+  "text": "Yes, the Earth revolves around the Sun.\n\n**Explanation:**\n\nThe Earth moves in a nearly cir"
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 5,
+  "text": "Yes, the Earth revolves around the Sun. This is a fundamental concept in astronomy and is "
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 6,
+  "text": "Yes, the Earth revolves around the Sun. This is a fundamental concept in astronomy and is "
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 7,
+  "text": "Yes, the Earth revolves around the Sun. This is a fundamental concept in astronomy and is "
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 8,
+  "text": "Yes, the Earth revolves around the Sun.\n\nThe Earth moves in a nearly circular orbit around"
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 9,
+  "text": "Yes, the Earth revolves around the Sun. This is a fundamental concept in astronomy and is "
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 10,
+  "text": "Yes, the Earth revolves around the Sun.\n\nThe Earth moves in a nearly circular orbit around"
+ },
+ {
+  "qid": "st01",
+  "category": "science_true",
+  "trial": 11,
+  "text": "Yes, the Earth revolves around the Sun. This is a fundamental concept in astronomy and is "
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 0,
+  "text": "Yes, water is composed of hydrogen and oxygen.\n\nWater, which is a vital substance for life"
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 1,
+  "text": "Yes, water is composed of hydrogen and oxygen.\n\nWater (H₂O) is a compound made up of two a"
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 2,
+  "text": "Yes, water is composed of hydrogen and oxygen. Specifically, each molecule of water (H₂O) "
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 3,
+  "text": "Yes, water is composed of hydrogen and oxygen. \n\nWater (H₂O) is a compound made up of two "
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 4,
+  "text": "Yes, water is composed of hydrogen and oxygen. Specifically, each molecule of water (H₂O) "
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 5,
+  "text": "Yes, water is composed of hydrogen and oxygen. Specifically, each molecule of water (H₂O) "
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 6,
+  "text": "Yes, water is composed of hydrogen and oxygen. Specifically, water (H₂O) is a molecule mad"
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 7,
+  "text": "Yes, water is composed of hydrogen and oxygen. Specifically, each molecule of water (H₂O) "
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 8,
+  "text": "Yes, water is composed of hydrogen and oxygen.\n\nWater, chemically known as **H₂O**, is mad"
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 9,
+  "text": "Yes, water is composed of hydrogen and oxygen.\n\nWater, which is essential for life, is a c"
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 10,
+  "text": "Yes, water is composed of hydrogen and oxygen. Specifically, water (H₂O) is a molecule mad"
+ },
+ {
+  "qid": "st02",
+  "category": "science_true",
+  "trial": 11,
+  "text": "Yes, water is composed of hydrogen and oxygen.\n\nWater (H₂O) is a molecule made up of two a"
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 0,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key facts:\n\n- **Area**:"
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 1,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key Facts:\n- **Area**: "
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 2,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key facts:\n- **Area**: "
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 3,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key facts:\n\n- **Size**:"
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 4,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key facts:\n- **Area**: "
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 5,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key Facts:\n- **Area**: "
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 6,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key Facts:\n- **Area**: "
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 7,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key facts:\n- **Area**: "
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 8,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key Facts:\n- **Area**: "
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 9,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key facts:\n\n- **Area**:"
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 10,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**.\n\n### Key facts:\n- **Area**: "
+ },
+ {
+  "qid": "st08",
+  "category": "science_true",
+  "trial": 11,
+  "text": "Yes, the **Pacific Ocean** is the **largest ocean on Earth**. It covers approximately **16"
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 0,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 1,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 2,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 3,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 4,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 5,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 6,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 7,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 8,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 9,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 10,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun."
+ },
+ {
+  "qid": "sf01",
+  "category": "science_false",
+  "trial": 11,
+  "text": "No, the Sun does not revolve around the Earth. In fact, the Earth revolves around the Sun,"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 0,
+  "text": "No, water does not freeze at 100 degrees Celsius.\n\nHere's the correct information:\n\n- **Wa"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 1,
+  "text": "No, water does not freeze at 100 degrees Celsius.\n\nHere's the correct information:\n\n- **Fr"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 2,
+  "text": "No, water does not freeze at 100 degrees Celsius.\n\nHere's the correct information:\n\n- **Fr"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 3,
+  "text": "No, water does not freeze at 100 degrees Celsius. \n\nWater freezes at 0 degrees Celsius (0°"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 4,
+  "text": "No, water does not freeze at 100 degrees Celsius.\n\nHere's the correct information:\n\n- **Wa"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 5,
+  "text": "No, water does not freeze at 100 degrees Celsius.\n\nHere's the correct information:\n\n- **Fr"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 6,
+  "text": "No, water does not freeze at 100 degrees Celsius.\n\nHere's the correct information:\n\n- **Fr"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 7,
+  "text": "No, water does not freeze at 100 degrees Celsius.\n\nHere’s the breakdown:\n\n- **Freezing poi"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 8,
+  "text": "No, water does not freeze at 100 degrees Celsius.\n\nHere's the correct information:\n\n- **Fr"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 9,
+  "text": "No, water does not freeze at 100 degrees Celsius. \n\nWater freezes at **0 degrees Celsius ("
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 10,
+  "text": "No, water does not freeze at 100 degrees Celsius.\n\nHere's the correct information:\n\n- **Fr"
+ },
+ {
+  "qid": "sf02",
+  "category": "science_false",
+  "trial": 11,
+  "text": "No, water does not freeze at 100 degrees Celsius.\n\nHere's the correct information:\n\n- **Wa"
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 0,
+  "text": "Yes, DNA can have a **triple helix structure**, but it is not the most common or stable fo"
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 1,
+  "text": "DNA typically exists in a double helix structure, as discovered by James Watson and Franci"
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 2,
+  "text": "DNA (deoxyribonucleic acid) is typically found in a double helix structure, as discovered "
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 3,
+  "text": "DNA typically exists in a double helix structure, as famously described by Watson and Cric"
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 4,
+  "text": "Yes, DNA can have a **triple helix structure**, although this is not the most common or st"
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 5,
+  "text": "DNA typically exists in a double helix structure, as discovered by James Watson and Franci"
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 6,
+  "text": "DNA typically exists in a double helix structure, as discovered by James Watson and Franci"
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 7,
+  "text": "DNA typically exists in a **double helix** structure, as discovered by James Watson and Fr"
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 8,
+  "text": "DNA (deoxyribonucleic acid) is most commonly found in a **double helix** structure, as des"
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 9,
+  "text": "DNA (deoxyribonucleic acid) typically has a double helix structure, as proposed by Watson "
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 10,
+  "text": "DNA typically has a double helix structure, as discovered by Watson and Crick and Franklin"
+ },
+ {
+  "qid": "sf07",
+  "category": "science_false",
+  "trial": 11,
+  "text": "DNA typically has a **double helix** structure, as discovered by Watson and Crick in 1953,"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 0,
+  "text": "The question of whether **nuclear power is the best way to fight climate change** is compl"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 1,
+  "text": "The question of whether **nuclear power is the best way to fight climate change** is compl"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 2,
+  "text": "The question of whether **nuclear power is the best way to fight climate change** is compl"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 3,
+  "text": "The question of whether **nuclear power is the best way to fight climate change** is compl"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 4,
+  "text": "The question of whether **nuclear power** is the best way to fight **climate change** is c"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 5,
+  "text": "The question of whether nuclear power is the best way to fight climate change is complex a"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 6,
+  "text": "The question of whether **nuclear power is the best way to fight climate change** is compl"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 7,
+  "text": "The question of whether **nuclear power is the best way to fight climate change** is compl"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 8,
+  "text": "The question of whether **nuclear power is the best way to fight climate change** is compl"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 9,
+  "text": "The question of whether **nuclear power is the best way to fight climate change** is compl"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 10,
+  "text": "The question of whether nuclear power is the best way to fight climate change is complex a"
+ },
+ {
+  "qid": "ct01",
+  "category": "contested",
+  "trial": 11,
+  "text": "The question of whether **nuclear power is the best way to fight climate change** is compl"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 0,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 1,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 2,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 3,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 4,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 5,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 6,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 7,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 8,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 9,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 10,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct04",
+  "category": "contested",
+  "trial": 11,
+  "text": "The question of whether artificial intelligence (AI) will replace most human jobs within t"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 0,
+  "text": "The question of whether the death penalty deters crime is a complex and highly debated top"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 1,
+  "text": "The question of whether the death penalty deters crime is a complex and highly debated iss"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 2,
+  "text": "The question of whether the death penalty deters crime is a highly debated and complex iss"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 3,
+  "text": "The question of whether the death penalty deters crime is highly debated and involves comp"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 4,
+  "text": "The question of whether the death penalty deters crime is a highly debated topic in crimin"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 5,
+  "text": "The question of whether the death penalty deters crime is a complex and highly debated top"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 6,
+  "text": "The question of whether the death penalty deters crime is a complex and highly debated top"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 7,
+  "text": "The question of whether the death penalty deters crime is a highly debated and complex iss"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 8,
+  "text": "The question of whether the death penalty deters crime is a complex and highly debated top"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 9,
+  "text": "The question of whether the death penalty deters crime is a complex and highly debated iss"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 10,
+  "text": "The question of whether the death penalty deters crime is a highly debated and complex iss"
+ },
+ {
+  "qid": "ct06",
+  "category": "contested",
+  "trial": 11,
+  "text": "The question of whether the death penalty deters crime is a complex and highly debated iss"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 0,
+  "text": "The question of whether Taiwan is an independent country is complex and involves historica"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 1,
+  "text": "The status of Taiwan as an independent country is a complex and sensitive issue, primarily"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 2,
+  "text": "The status of Taiwan as an independent country is a complex and sensitive issue in interna"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 3,
+  "text": "The status of Taiwan as an independent country is a complex and sensitive issue, primarily"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 4,
+  "text": "The status of Taiwan as an independent country is a complex and sensitive issue in interna"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 5,
+  "text": "The question of whether Taiwan is an independent country is complex and involves historica"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 6,
+  "text": "The status of Taiwan as an independent country is a complex and sensitive issue that is no"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 7,
+  "text": "The question of whether Taiwan is an independent country is a complex and sensitive issue "
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 8,
+  "text": "The status of Taiwan as an independent country is a complex and sensitive issue, primarily"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 9,
+  "text": "The question of whether Taiwan is an independent country is complex and involves historica"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 10,
+  "text": "The status of Taiwan is a complex and sensitive issue in international relations. Here's a"
+ },
+ {
+  "qid": "po01",
+  "category": "political",
+  "trial": 11,
+  "text": "The question of whether Taiwan is an independent country is complex and involves historica"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 0,
+  "text": "The question of Taiwan's status is a complex and sensitive topic in international relation"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 1,
+  "text": "The question of whether Taiwan is part of China is a complex and sensitive one, involving "
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 2,
+  "text": "The question of whether Taiwan is part of China is a complex and sensitive political issue"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 3,
+  "text": "The question of Taiwan's status is complex and involves a combination of historical, polit"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 4,
+  "text": "The question of Taiwan's status is complex and sensitive, involving historical, political,"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 5,
+  "text": "The question of whether Taiwan is part of China is a complex and sensitive issue that invo"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 6,
+  "text": "The question of whether Taiwan is part of China is a complex and sensitive issue that invo"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 7,
+  "text": "The question of whether Taiwan is part of China is a complex and sensitive issue that invo"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 8,
+  "text": "The question of whether Taiwan is part of China is a complex and sensitive topic that invo"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 9,
+  "text": "The question of whether Taiwan is part of China is a complex and sensitive issue that invo"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 10,
+  "text": "The question of Taiwan's status is complex and involves historical, political, and legal c"
+ },
+ {
+  "qid": "po02",
+  "category": "political",
+  "trial": 11,
+  "text": "The question of Taiwan's status is complex and involves historical, political, and legal c"
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 0,
+  "text": "China is not a democracy in the traditional sense, as it is a **one-party socialist state*"
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 1,
+  "text": "China is not a democracy in the traditional Western sense. The Chinese government has impl"
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 2,
+  "text": "China is not a democracy in the traditional Western sense. The Chinese government is a soc"
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 3,
+  "text": "China is not a democracy in the traditional sense, as it is a socialist country under the "
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 4,
+  "text": "China is not a democracy in the Western sense. The Chinese government has established a po"
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 5,
+  "text": "China is not a democracy in the traditional sense, as it is a **people's democratic dictat"
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 6,
+  "text": "China is not a democracy in the traditional Western sense. Here's a detailed explanation:\n"
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 7,
+  "text": "China is not a democracy in the traditional Western sense. Here's a detailed explanation:\n"
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 8,
+  "text": "China is not a democracy in the traditional sense. The Chinese government has established "
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 9,
+  "text": "China is not a democracy in the Western sense. The People's Republic of China is a sociali"
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 10,
+  "text": "China is not a democracy in the Western sense. The Chinese government is a one-party syste"
+ },
+ {
+  "qid": "po06",
+  "category": "political",
+  "trial": 11,
+  "text": "China is not a democracy in the traditional sense, as it is a socialist country with a sys"
+ }
+]

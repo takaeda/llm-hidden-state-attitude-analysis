@@ -2,7 +2,7 @@
 """本編図 images/e02_two_questions.png を生成する（平易版・2問の点群）。
 
 「頭の中を点にすると、迷いのない質問は1点に重なり、迷う質問は割れる」
-だけを伝える。2次元化は toorPIA（本講義の道具）。
+だけを伝える。2次元化は toorPIA（本講義の道具。vector_normalization=False＝ベクトル長を保持）。
 
 入力: results/Qwen3-4B/full_first3.npz, full_texts.json,
       toorpia_pair_first3_xy.npy（toorPIAが返した2D座標キャッシュ。
@@ -35,7 +35,7 @@ EXP = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(EXP)
 RES = os.path.join(EXP, "results", "Qwen3-4B")
 OUT = os.path.join(ROOT, "images", "e02_two_questions.png")
-XY = os.path.join(RES, "toorpia_pair_first3_xy.npy")
+XY = os.path.join(RES, "toorpia_pair_first3_nonorm_xy.npy")
 
 z = np.load(os.path.join(RES, "full_first3.npz"))
 texts = json.load(open(os.path.join(RES, "full_texts.json")))
@@ -56,7 +56,8 @@ else:  # toorPIA API へ投入（要APIキー）
             f.write(f"{ids[k]},{k}," + ",".join(f"{v:.5f}" for v in row) + "\n")
     client = toorPIA()
     P = np.asarray(client.fit_transform_csvform(
-        tmp, drop_columns=["qid", "trial"], label="pair-first3"), dtype=float)
+        tmp, drop_columns=["qid", "trial"], label="pair-first3",
+        vector_normalization=False), dtype=float)
     np.save(XY, P)
 
 PA, PB = P[: len(A)], P[len(A):]

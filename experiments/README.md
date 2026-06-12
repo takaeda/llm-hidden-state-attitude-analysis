@@ -1,6 +1,6 @@
 # 検証実験 ― 再現手順とスクリプト対応表
 
-このディレクトリは、教材 [`../LECTURE_hidden_state.md`](../LECTURE_hidden_state.md) が示す主張を**実際に追試・再現**するためのコードと結果サマリです。すべて、複数のLocal LLM（Qwen3-4B / Mistral-7B / Phi-4-mini / DeepSeek-R1-Distill）を手元で動かして測定したものです。
+このディレクトリは、教材（本編 [`../LECTURE_hidden_state.md`](../LECTURE_hidden_state.md)・発展資料 [`../ADVANCED.md`](../ADVANCED.md)）が示す主張を**実際に追試・再現**するためのコードと結果サマリです。すべて、複数のLocal LLM（Qwen3-4B / Mistral-7B / Phi-4-mini / DeepSeek-R1-Distill）を手元で動かして測定したものです。
 
 ## このディレクトリの構成
 
@@ -30,6 +30,8 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 
 ## スクリプト → 教材の主張・図 の対応
 
+※下表の「スライドN」は **ADVANCED.md（発展資料）** のスライド番号。
+
 | スクリプト | 何を測るか | 教材での対応 |
 |---|---|---|
 | `logit_lens.py` | 末尾状態を語彙に射影し「次に何を言うか」を読む（層ごと） | スライド6（次の語を持つ／一点読みの限界） |
@@ -47,7 +49,7 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 
 ## 教材の図の再生成（scripts/figures/）
 
-教材 `LECTURE_hidden_state.md` の各図は、以下のスクリプトで `../images/` に再生成できます。いずれも **GPU不要**（`results/` の収録データから描画。fig03 は座標キャッシュ `toorpia_first3_xy.npy` があればオフラインで動作し、無ければ toorPIA API に投入して生成）。
+教材の各図は、以下のスクリプトで `../images/` に再生成できます（`fig_e*` ＝本編用の平易図、`fig0*` ＝ADVANCED用）。いずれも **GPU不要**（`results/` の収録データから描画。fig03 は座標キャッシュ `toorpia_first3_xy.npy` があればオフラインで動作し、無ければ toorPIA API に投入して生成）。
 
 | スクリプト | 生成する図 | 入力データ |
 |---|---|---|
@@ -58,8 +60,12 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 | `figures/fig06_validation.py` | `images/06_validation.png`（スライド13・検証散布図） | `validation_a.json` |
 | `figures/fig07_tree_limit.py` | `images/07_tree_limit.png`（スライド14・木展開の限界） | `complex_task.json`, `complex_task_vectors.npz` |
 | `figures/fig08_layer_sweep.py` | `images/08_layer_sweep.png`（スライド17・層スイープ予備実験） | `layer_sweep.json` |
+| `figures/fig_e01_chain.py` | `images/e01_chain.png`（本編3・サイコロの鎖） | なし（模式図） |
+| `figures/fig_e02_two_questions.py` | `images/e02_two_questions.png`（本編5・2問の点群） | `full_first3.npz`, `full_texts.json` |
+| `figures/fig_e03_map.py` | `images/e03_map.png`（本編6・頭の中の地図） | `first3_vectors.csv`, `toorpia_first3_xy.npy` |
+| `figures/fig_e04_stability.py` | `images/e04_stability.png`（本編8・安定性マップ） | 各モデルの `consistency.json` |
 
-※ `latent_attitude_consensus_module.png`（スライド15の構成図）はスクリプト生成ではなく、元PDF「LLM (SLM) WorkerのHidden State可視化による出力の最適化イメージ.pdf」を `pdftoppm -png -r 150` で変換したものです。
+※ `latent_attitude_consensus_module.png`（本編9 / ADVANCEDスライド15の構成図）はスクリプト生成ではなく、元PDF「LLM (SLM) WorkerのHidden State可視化による出力の最適化イメージ.pdf」を `pdftoppm -png -r 150` で変換したものです。
 
 ## 主要な数値（results/ に保存済み）
 

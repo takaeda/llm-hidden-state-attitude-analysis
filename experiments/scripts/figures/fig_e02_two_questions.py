@@ -21,6 +21,16 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 plt.rcParams["font.family"] = "IPAexGothic"
+
+def make_square(ax, pts, pad=1.12):
+    """縦横を同スケールにし、パネルを正方形にする"""
+    x, y = pts[:, 0], pts[:, 1]
+    cx, cy = (x.min() + x.max()) / 2, (y.min() + y.max()) / 2
+    half = max(x.max() - x.min(), y.max() - y.min()) / 2 * pad + 1e-9
+    ax.set_xlim(cx - half, cx + half)
+    ax.set_ylim(cy - half, cy + half)
+    ax.set_aspect("equal", adjustable="box")
+
 EXP = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ROOT = os.path.dirname(EXP)
 RES = os.path.join(EXP, "results", "Qwen3-4B")
@@ -53,7 +63,7 @@ PA, PB = P[: len(A)], P[len(A):]
 rng = np.random.default_rng(0)  # 完全に重なる点を見せるための表示用ジッタ
 jit = (P[:, 0].std() + P[:, 1].std()) * 0.012
 
-fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12.5, 5.6), sharex=True, sharey=True)
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12.8, 6.8), sharex=True, sharey=True)
 ax1.scatter(PA[:, 0] + rng.normal(0, jit, len(PA)),
             PA[:, 1] + rng.normal(0, jit, len(PA)),
             s=200, color="#2ca02c", alpha=0.6, edgecolors="white")
@@ -98,6 +108,7 @@ ax2.annotate(f'"DNA (正式名称) …" と始めた回 ×{len(bot)}\n'
 
 for ax in (ax1, ax2):
     ax.set_xticks([]); ax.set_yticks([])
+    make_square(ax, P)
 fig.suptitle("同じ質問に12回答えさせて、そのときの「頭の中」を1点ずつ打ってみた"
              "（toorPIAによる2次元化／使用モデル: Qwen3-4B）",
              fontsize=14, weight="bold")

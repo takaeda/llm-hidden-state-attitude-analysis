@@ -27,6 +27,16 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 
 plt.rcParams["font.family"] = "IPAexGothic"
+
+def make_square(ax, pts, pad=1.12):
+    """縦横を同スケールにし、パネルを正方形にする"""
+    x, y = pts[:, 0], pts[:, 1]
+    cx, cy = (x.min() + x.max()) / 2, (y.min() + y.max()) / 2
+    half = max(x.max() - x.min(), y.max() - y.min()) / 2 * pad + 1e-9
+    ax.set_xlim(cx - half, cx + half)
+    ax.set_ylim(cy - half, cy + half)
+    ax.set_aspect("equal", adjustable="box")
+
 EXP = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ROOT = os.path.dirname(EXP)
 RES = os.path.join(EXP, "results", "Qwen3-4B")
@@ -60,7 +70,7 @@ cust = [i for i, t in enumerate(sa_texts) if "egment" in t]
 deco = [i for i, t in enumerate(sa_texts) if "decomposition" in t.lower()]
 ana = [i for i in range(len(V)) if i not in cust and i not in deco]
 
-fig, axes = plt.subplots(2, 2, figsize=(12.5, 9.5))
+fig, axes = plt.subplots(2, 2, figsize=(11.5, 12.2))
 rng = np.random.default_rng(0)
 
 
@@ -76,6 +86,7 @@ def draw_sf(ax, P, title):
                edgecolors="white", label=f"三重らせん派 ×{len(yes)}")
     ax.set_title(title, fontsize=11.5, weight="bold")
     ax.set_xticks([]); ax.set_yticks([]); ax.grid(alpha=0.3)
+    make_square(ax, P)
 
 
 def draw_sa(ax, P, title):
@@ -87,6 +98,7 @@ def draw_sa(ax, P, title):
                alpha=0.9, edgecolors="white", label=f"顧客分析 ×{len(cust)}")
     ax.set_title(title, fontsize=11.5, weight="bold")
     ax.set_xticks([]); ax.set_yticks([]); ax.grid(alpha=0.3)
+    make_square(ax, P)
 
 
 draw_sf(axes[0, 0], sf_pca, "PCA ― sf07 出だし3語の状態（12点）")

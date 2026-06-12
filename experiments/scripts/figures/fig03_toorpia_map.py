@@ -23,6 +23,16 @@ import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 
 plt.rcParams["font.family"] = "IPAexGothic"
+
+def make_square(ax, pts, pad=1.12):
+    """縦横を同スケールにし、パネルを正方形にする"""
+    x, y = pts[:, 0], pts[:, 1]
+    cx, cy = (x.min() + x.max()) / 2, (y.min() + y.max()) / 2
+    half = max(x.max() - x.min(), y.max() - y.min()) / 2 * pad + 1e-9
+    ax.set_xlim(cx - half, cx + half)
+    ax.set_ylim(cy - half, cy + half)
+    ax.set_aspect("equal", adjustable="box")
+
 EXP = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ROOT = os.path.dirname(EXP)
 RES = os.path.join(EXP, "results", "Qwen3-4B")
@@ -66,7 +76,7 @@ qja = {"st01": "地球→太陽", "st02": "水=H2O", "st08": "太平洋最大",
 off = {"sf07": (0, 14), "po01": (46, 6), "po02": (-52, 6)}
 
 uq = list(dict.fromkeys(qids))
-fig, ax = plt.subplots(figsize=(10.5, 8))
+fig, ax = plt.subplots(figsize=(10, 10.4))
 for q in uq:
     idx = [i for i, x in enumerate(qids) if x == q]
     p = xy[idx]
@@ -85,6 +95,7 @@ ax.set_title("toorPIA マップ：12問 × 各20回の「出だし数語の hidd
              "ほとんどの質問は20回ぶんが一点に固まる（一貫）。割れる質問だけが複数の塊に分かれる（線=同じ質問）",
              fontsize=11)
 ax.set_xlabel("toorPIA-x"); ax.set_ylabel("toorPIA-y"); ax.grid(alpha=0.3)
+make_square(ax, xy)
 ax.legend(handles=[Line2D([0], [0], marker='o', color='w', markerfacecolor=v,
                           markersize=9, label=catja[k]) for k, v in catcol.items()],
           fontsize=9)

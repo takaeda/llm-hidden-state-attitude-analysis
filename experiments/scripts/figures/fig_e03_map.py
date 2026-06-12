@@ -60,7 +60,7 @@ for q in uq:
 ax.annotate("割れている！", xy=(-0.22, 0.30), xytext=(-0.13, 0.16),
             fontsize=13, color="#a33", weight="bold",
             arrowprops=dict(arrowstyle="->", color="#a33"))
-ax.set_title("12問 × 20回ぶんの「頭の中」を、一枚の地図にしてみた（toorPIA）\n"
+ax.set_title("12問 × 20回ぶんの「頭の中」を、一枚の地図にしてみた（toorPIA／使用モデル: Qwen3-4B）\n"
              "ほとんどの質問は1点に固まる。割れる質問だけ、点がバラける",
              fontsize=14, weight="bold")
 ax.set_xticks([]); ax.set_yticks([])

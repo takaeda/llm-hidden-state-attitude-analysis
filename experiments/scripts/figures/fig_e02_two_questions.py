@@ -57,14 +57,28 @@ ax2.scatter(PB[yes, 0] + rng.normal(0, 0.008, len(yes)),
             label='「はい、三重らせんもあります」派')
 ax2.set_title("「DNAは三重らせん？」×12回", fontsize=15, weight="bold")
 ax2.legend(fontsize=12, loc="center left")
-ax2.text(0.5, 0.13, "点がグループに割れている\n＝ 答えがゆれている",
-         transform=ax2.transAxes, ha="center", fontsize=13, color="#a33",
-         weight="bold",
+ax2.text(0.97, 0.96, "点がグループに割れている\n＝ 答えがゆれている",
+         transform=ax2.transAxes, ha="right", va="top", fontsize=13,
+         color="#a33", weight="bold",
          bbox=dict(boxstyle="round,pad=0.4", fc="#ffecec", ec="#c88"))
+
+# 赤の2つの島の正体（言い回し違い・中身は同じ）を注記
+top = [i for i in oth if PB[i, 1] > -0.3]
+bot = [i for i in oth if PB[i, 1] <= -0.3]
+ax2.set_xlim(-0.78, 0.58)
+ax2.set_ylim(-0.88, 0.45)
+ax2.annotate(f'"DNA typically …" と始めた回 ×{len(top)}',
+             xy=(PB[top, 0].mean() + 0.04, PB[top, 1].mean() - 0.03),
+             xytext=(-0.30, 0.02), fontsize=10.5, color="#a33",
+             arrowprops=dict(arrowstyle="->", color="#a33"))
+ax2.annotate(f'"DNA (正式名称) …" と始めた回 ×{len(bot)}\n（中身はどちらも「二重らせん」。\n  言い回しが違うだけで島が分かれる）',
+             xy=(PB[bot, 0].mean() + 0.04, PB[bot, 1].mean() + 0.03),
+             xytext=(-0.28, -0.55), fontsize=10.5, color="#a33",
+             arrowprops=dict(arrowstyle="->", color="#a33"))
 
 for ax in (ax1, ax2):
     ax.set_xticks([]); ax.set_yticks([])
-fig.suptitle("同じ質問に12回答えさせて、そのときの「頭の中」を1点ずつ打ってみた",
+fig.suptitle("同じ質問に12回答えさせて、そのときの「頭の中」を1点ずつ打ってみた（使用モデル: Qwen3-4B）",
              fontsize=15, weight="bold")
 fig.tight_layout(rect=(0, 0, 1, 0.92))
 fig.savefig(OUT, dpi=140)

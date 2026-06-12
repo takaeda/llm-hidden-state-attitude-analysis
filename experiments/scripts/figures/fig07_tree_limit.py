@@ -73,7 +73,8 @@ P = PCA(n_components=2).fit_transform(Vn)
 is_ts = [("time se" in t.lower() or "time-se" in t.lower() or "trend" in t.lower()
           or "sales tr" in t.lower())
          for t in d["samples"]["complex_sales"]]
-ts = [i for i, b in enumerate(is_ts) if b]
+ts_idx = [i for i, b in enumerate(is_ts) if b]
+ts = ts_idx
 ot = [i for i, b in enumerate(is_ts) if not b]
 rng = np.random.default_rng(1)
 ax2.scatter(P[ts, 0] + rng.normal(0, P[:, 0].std() * 0.02, len(ts)),
@@ -84,9 +85,22 @@ ax2.scatter(P[ot, 0], P[ot, 1], s=160, color="#1f77b4", marker="^",
             alpha=0.9, edgecolors="white",
             label=f"「顧客セグメント分析をせよ」×{len(ot)}")
 ax2.set_title("同じ複雑課題への14回のフル回答（全文の hidden state）\n"
-              "文字列は多数に分岐しても、意味は1クラスタ＋例外1に束ねられる",
+              "文字列は多数に分岐しても、意味のまとまりに束ねられる",
               fontsize=10.5)
-ax2.set_xlabel("2次元化した hidden state")
+ax2.set_xlabel("2次元化した hidden state（PCA／使用モデル: Qwen3-4B）")
+
+# 赤の2つの小塊の正体（時系列「分析」と時系列「分解」）を注記
+deco = [i for i in ts_idx
+        if "decomposition" in d["samples"]["complex_sales"][i].lower()]
+ana = [i for i in ts_idx if i not in deco]
+ax2.annotate(f"「時系列の“分析”をせよ」×{len(ana)}",
+             xy=(P[ana, 0].mean(), P[ana, 1].mean()),
+             xytext=(0.12, -0.16), fontsize=9, color="#a33",
+             arrowprops=dict(arrowstyle="->", color="#a33"))
+ax2.annotate(f"「時系列の“分解”をせよ」×{len(deco)}\n（同じ時系列系。提案の具体性の違い）",
+             xy=(P[deco, 0].mean(), P[deco, 1].mean()),
+             xytext=(-0.02, 0.30), fontsize=9, color="#a33",
+             arrowprops=dict(arrowstyle="->", color="#a33"))
 ax2.legend(fontsize=9.5, loc="upper center")
 ax2.grid(alpha=0.3)
 ax2.text(0.5, 0.04, "※意味ラベルは回答全文を読んで確認（目視判定）",

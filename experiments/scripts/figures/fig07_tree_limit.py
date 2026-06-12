@@ -4,13 +4,13 @@
 左: 木展開の枝数 vs 深さ（3課題）。オープンエンド課題では冒頭が質問の
     復唱でほぼ決定的（枝1本）、分岐は7〜13語目から始まり、以後は毎語
     ×1.2〜1.3 で増殖する＝回答全文の深さでは木は計算不能になる。
-右: 複雑課題への14回のフル回答の hidden state（全文平均）を2D化。
+右: 複雑課題への14回のフル回答の hidden state（全文平均）をtoorPIAで2D化。
     文字列としては多数の枝に分岐していても、意味では「時系列分析」の
     1クラスタ＋例外1（顧客分析）に束ねられる。
     ※意味ラベルは回答全文を読んで付与した目視判定。
 
 入力: results/Qwen3-4B/complex_task.json, complex_task_vectors.npz
-      （12_complex_task.py の出力）
+      （12_complex_task.py の出力）, toorpia_sales_xy.npy（toorPIA座標）
 
 usage: python fig07_tree_limit.py
 """
@@ -22,7 +22,6 @@ import matplotlib
 
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-from sklearn.decomposition import PCA
 
 plt.rcParams["font.family"] = "IPAexGothic"
 EXP = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -67,8 +66,7 @@ ax1.grid(alpha=0.3)
 
 # ---- 右: 複雑課題の意味クラスタ ----
 V = vec["complex_sales"]
-Vn = V / (np.linalg.norm(V, axis=1, keepdims=True) + 1e-9)
-P = PCA(n_components=2).fit_transform(Vn)
+P = np.load(os.path.join(RES, "toorpia_sales_xy.npy"))  # toorPIA座標
 # 意味ラベル（回答全文を読んで付与した目視判定）
 is_ts = [("time se" in t.lower() or "time-se" in t.lower() or "trend" in t.lower()
           or "sales tr" in t.lower())
@@ -87,7 +85,7 @@ ax2.scatter(P[ot, 0], P[ot, 1], s=160, color="#1f77b4", marker="^",
 ax2.set_title("同じ複雑課題への14回のフル回答（全文の hidden state）\n"
               "文字列は多数に分岐しても、意味のまとまりに束ねられる",
               fontsize=10.5)
-ax2.set_xlabel("2次元化した hidden state（PCA／使用モデル: Qwen3-4B）")
+ax2.set_xlabel("toorPIAによる2次元化（使用モデル: Qwen3-4B）")
 
 # 赤の2つの小塊の正体（時系列「分析」と時系列「分解」）を注記
 deco = [i for i in ts_idx
@@ -95,11 +93,13 @@ deco = [i for i in ts_idx
 ana = [i for i in ts_idx if i not in deco]
 ax2.annotate(f"「時系列の“分析”をせよ」×{len(ana)}",
              xy=(P[ana, 0].mean(), P[ana, 1].mean()),
-             xytext=(0.12, -0.16), fontsize=9, color="#a33",
+             xytext=(35, -35), textcoords="offset points",
+             fontsize=9, color="#a33",
              arrowprops=dict(arrowstyle="->", color="#a33"))
 ax2.annotate(f"「時系列の“分解”をせよ」×{len(deco)}\n（同じ時系列系。提案の具体性の違い）",
              xy=(P[deco, 0].mean(), P[deco, 1].mean()),
-             xytext=(-0.02, 0.30), fontsize=9, color="#a33",
+             xytext=(-30, 40), textcoords="offset points",
+             fontsize=9, color="#a33",
              arrowprops=dict(arrowstyle="->", color="#a33"))
 ax2.legend(fontsize=9.5, loc="upper center")
 ax2.grid(alpha=0.3)

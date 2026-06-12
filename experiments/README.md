@@ -46,22 +46,24 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 | `11_tree_expansion.py` | 浅い木展開（厳密確率）vs サンプリング頻度の一致検証 | スライド14（木展開Q&A・浅い領域） |
 | `12_complex_task.py` | 複雑課題での木の枝数増殖と、フル回答の意味クラスタ | スライド14（木展開Q&A・壁1と壁2） |
 | `13_layer_sweep.py` | 立場・意味の分離度と言い回しノイズの層プロファイル | スライド17（開かれた問い・予備実験） |
+| `14_pooling_compare.py` | プーリング方式（出だし3語/全文平均/文末トークン × 最終層/中間層）の比較 | 検証スライドの精密化（出だし3語の妥当性） |
 
 ## 教材の図の再生成（scripts/figures/）
 
-教材の各図は、以下のスクリプトで `../images/` に再生成できます（`fig_e*` ＝本編用の平易図、`fig0*` ＝ADVANCED用）。いずれも **GPU不要**（`results/` の収録データから描画。fig03 は座標キャッシュ `toorpia_first3_xy.npy` があればオフラインで動作し、無ければ toorPIA API に投入して生成）。
+教材の各図は、以下のスクリプトで `../images/` に再生成できます（`fig_e*` ＝本編用の平易図、`fig0*` ＝ADVANCED用）。いずれも **GPU不要**（`results/` の収録データから描画。toorPIA系の図は座標キャッシュ（`toorpia_*_xy.npy`）があればオフラインで動作し、無ければ toorPIA API に投入して生成）。**2次元化はすべて toorPIA**（fig09 のみ比較のため PCA も併用）。
 
 | スクリプト | 生成する図 | 入力データ |
 |---|---|---|
 | `figures/fig01_determinism.py` | `images/01_determinism.png`（スライド4・鎖の模式図） | なし（純粋な模式図） |
-| `figures/fig02_spread_two_questions.py` | `images/02_spread_two_questions.png`（スライド7・2問の点群） | `full_first3.npz`, `full_texts.json` |
+| `figures/fig02_spread_two_questions.py` | `images/02_spread_two_questions.png`（スライド7・2問の点群） | `full_first3.npz`, `full_texts.json`, `toorpia_pair_first3_xy.npy` |
 | `figures/fig03_toorpia_map.py` | `images/03_toorpia_map.png`（スライド8・toorPIAマップ） | `first3_vectors.csv`, `toorpia_first3_xy.npy` |
 | `figures/fig04_consistency_standard.py` | `images/04_consistency_standard.png`（スライド12・3パネル） | 各モデルの `consistency.json`, `profile.json` |
 | `figures/fig06_validation.py` | `images/06_validation.png`（スライド13・検証散布図） | `validation_a.json` |
-| `figures/fig07_tree_limit.py` | `images/07_tree_limit.png`（スライド14・木展開の限界） | `complex_task.json`, `complex_task_vectors.npz` |
+| `figures/fig07_tree_limit.py` | `images/07_tree_limit.png`（スライド14・木展開の限界） | `complex_task.json`, `complex_task_vectors.npz`, `toorpia_sales_xy.npy` |
 | `figures/fig08_layer_sweep.py` | `images/08_layer_sweep.png`（スライド17・層スイープ予備実験） | `layer_sweep.json` |
 | `figures/fig_e01_chain.py` | `images/e01_chain.png`（本編3・サイコロの鎖） | なし（模式図） |
-| `figures/fig_e02_two_questions.py` | `images/e02_two_questions.png`（本編5・2問の点群） | `full_first3.npz`, `full_texts.json` |
+| `figures/fig_e02_two_questions.py` | `images/e02_two_questions.png`（本編5・2問の点群） | `full_first3.npz`, `full_texts.json`, `toorpia_pair_first3_xy.npy` |
+| `figures/fig09_pca_vs_toorpia.py` | `images/09_pca_vs_toorpia.png`（ADVANCED 8・PCAとの比較） | 上記の点群データ + toorPIA座標キャッシュ2点 |
 | `figures/fig_e03_map.py` | `images/e03_map.png`（本編6・頭の中の地図） | `first3_vectors.csv`, `toorpia_first3_xy.npy` |
 | `figures/fig_e04_stability.py` | `images/e04_stability.png`（本編8・安定性マップ） | 各モデルの `consistency.json` |
 
@@ -72,6 +74,7 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 - `consistency.json`: D_ref（意味的距離の単位）, d′（物差しの妥当性）, 規格化inconsistency（全体/カテゴリ別）
 - `profile.json`: カテゴリ別の出だし広がり, 事実正答率, 政治コミット指数
 - `validation_a.json`: hidden側の広がり vs 意味側の広がりの相関（Qwen ρ=0.54 / Mistral ρ=0.64）
+- `pooling_compare.json`: プーリング方式比較（出だし3語が最良、文末トークンは打ち切り回答では不成立）
 - `agreement.json` / `logit_lens.json` / `dispersion.json` / `window_spread.json` / `toorpia_spread.json`: 各実験の生数値
 
 注：`results/` には結果サマリ(JSON)に加え、教材図の再生成に必要なデータ（toorPIA入力CSV 2点、`full_first3.npz`、`complex_task_vectors.npz`、座標キャッシュ）を収録。これら以外の中間生成物はスクリプト再実行で再生成できるため同梱していない。

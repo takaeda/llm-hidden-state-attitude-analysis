@@ -1,6 +1,6 @@
 # 検証実験 ― 再現手順とスクリプト対応表
 
-このディレクトリは、教材（本編 [`../LECTURE_hidden_state.md`](../LECTURE_hidden_state.md)・発展資料 [`../ADVANCED.md`](../ADVANCED.md)）が示す主張を**実際に追試・再現**するためのコードと結果サマリです。すべて、複数のLocal LLM（Qwen3-4B / Mistral-7B / Phi-4-mini / DeepSeek-R1-Distill）を手元で動かして測定したものです。
+このディレクトリは、教材（本編 [`../LECTURE_hidden_state.md`](../LECTURE_hidden_state.md)・応用資料 [`../ADVANCED.md`](../ADVANCED.md)）が示す主張を**実際に追試・再現**するためのコードと結果サマリです。すべて、複数のLocal LLM（Qwen3-4B / Mistral-7B / Phi-4-mini / DeepSeek-R1-Distill）を手元で動かして測定したものです。
 
 ## このディレクトリの構成
 
@@ -31,7 +31,7 @@ python scripts/08_consistency_metric.py --model Qwen/Qwen3-4B --load-4bit
 
 ## スクリプト → 教材の主張・図 の対応
 
-※下表の「スライドN」は **ADVANCED.md（発展資料）** のスライド番号。
+※下表の「スライドN」は **ADVANCED.md（応用資料）** のスライド番号。
 
 | スクリプト | 何を測るか | 教材での対応 |
 |---|---|---|

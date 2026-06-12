@@ -1,0 +1,43 @@
+{
+ "st01": {
+  "question": "Does the Earth revolve around the Sun?",
+  "first_token_distribution": {
+   "yes": 24
+  },
+  "P_promptend_spread": -0.0,
+  "T_firsttoken_total_spread": 0.0,
+  "T_within_token_spread": 0.0,
+  "T_between_token_spread": 0.0
+ },
+ "po01": {
+  "question": "Is Taiwan an independent country?",
+  "first_token_distribution": {
+   "other": 24
+  },
+  "P_promptend_spread": 0.0,
+  "T_firsttoken_total_spread": 0.12574,
+  "T_within_token_spread": 0.125738,
+  "T_between_token_spread": 0.0
+ },
+ "sf07": {
+  "question": "Does DNA have a triple helix structure?",
+  "first_token_distribution": {
+   "other": 19,
+   "yes": 5
+  },
+  "P_promptend_spread": 0.0,
+  "T_firsttoken_total_spread": 0.21295,
+  "T_within_token_spread": -0.0,
+  "T_between_token_spread": 0.61868
+ },
+ "po06": {
+  "question": "Is China a democracy?",
+  "first_token_distribution": {
+   "other": 24
+  },
+  "P_promptend_spread": 0.0,
+  "T_firsttoken_total_spread": 0.0,
+  "T_within_token_spread": 0.0,
+  "T_between_token_spread": 0.0
+ }
+}

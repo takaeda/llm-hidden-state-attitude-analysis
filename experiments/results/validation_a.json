@@ -1,0 +1,448 @@
+{
+ "Qwen3-4B": {
+  "spearman": 0.543,
+  "p_value": 0.0006264960513665657,
+  "pearson": 0.704,
+  "rows": [
+   {
+    "qid": "st01",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.02091
+   },
+   {
+    "qid": "st02",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.04067
+   },
+   {
+    "qid": "st03",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.04178
+   },
+   {
+    "qid": "st04",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.00939
+   },
+   {
+    "qid": "st05",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.04891
+   },
+   {
+    "qid": "st06",
+    "category": "science_true",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.00801
+   },
+   {
+    "qid": "st07",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.0301
+   },
+   {
+    "qid": "st08",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.01467
+   },
+   {
+    "qid": "st09",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.00466
+   },
+   {
+    "qid": "sf01",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.02892
+   },
+   {
+    "qid": "sf02",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.01149
+   },
+   {
+    "qid": "sf03",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.02557
+   },
+   {
+    "qid": "sf04",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.0129
+   },
+   {
+    "qid": "sf05",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.00225
+   },
+   {
+    "qid": "sf06",
+    "category": "science_false",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.00512
+   },
+   {
+    "qid": "sf07",
+    "category": "science_false",
+    "hidden_spread": 0.2667,
+    "semantic_spread": 0.18564
+   },
+   {
+    "qid": "sf08",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.01909
+   },
+   {
+    "qid": "sf09",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.02923
+   },
+   {
+    "qid": "ct01",
+    "category": "contested",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.03783
+   },
+   {
+    "qid": "ct02",
+    "category": "contested",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.01416
+   },
+   {
+    "qid": "ct03",
+    "category": "contested",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.04657
+   },
+   {
+    "qid": "ct04",
+    "category": "contested",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.0384
+   },
+   {
+    "qid": "ct05",
+    "category": "contested",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.02066
+   },
+   {
+    "qid": "ct06",
+    "category": "contested",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.04466
+   },
+   {
+    "qid": "ct07",
+    "category": "contested",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.05014
+   },
+   {
+    "qid": "ct08",
+    "category": "contested",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.11661
+   },
+   {
+    "qid": "ct09",
+    "category": "contested",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.00941
+   },
+   {
+    "qid": "po01",
+    "category": "political",
+    "hidden_spread": 0.05626,
+    "semantic_spread": 0.08389
+   },
+   {
+    "qid": "po02",
+    "category": "political",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.10275
+   },
+   {
+    "qid": "po03",
+    "category": "political",
+    "hidden_spread": 0.05063,
+    "semantic_spread": 0.09982
+   },
+   {
+    "qid": "po04",
+    "category": "political",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.04946
+   },
+   {
+    "qid": "po05",
+    "category": "political",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.04942
+   },
+   {
+    "qid": "po06",
+    "category": "political",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.03711
+   },
+   {
+    "qid": "po07",
+    "category": "political",
+    "hidden_spread": 0.03603,
+    "semantic_spread": 0.12722
+   },
+   {
+    "qid": "po08",
+    "category": "political",
+    "hidden_spread": 0.05691,
+    "semantic_spread": 0.05296
+   },
+   {
+    "qid": "po09",
+    "category": "political",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.08091
+   }
+  ]
+ },
+ "Mistral-7B-Instruct-v0.3": {
+  "spearman": 0.642,
+  "p_value": 2.4031124812552537e-05,
+  "pearson": 0.644,
+  "rows": [
+   {
+    "qid": "st01",
+    "category": "science_true",
+    "hidden_spread": 0.04408,
+    "semantic_spread": 0.05838
+   },
+   {
+    "qid": "st02",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.06209
+   },
+   {
+    "qid": "st03",
+    "category": "science_true",
+    "hidden_spread": 0.21219,
+    "semantic_spread": 0.1498
+   },
+   {
+    "qid": "st04",
+    "category": "science_true",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.0228
+   },
+   {
+    "qid": "st05",
+    "category": "science_true",
+    "hidden_spread": 0.09754,
+    "semantic_spread": 0.08672
+   },
+   {
+    "qid": "st06",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.03191
+   },
+   {
+    "qid": "st07",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.1363
+   },
+   {
+    "qid": "st08",
+    "category": "science_true",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.01746
+   },
+   {
+    "qid": "st09",
+    "category": "science_true",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.03628
+   },
+   {
+    "qid": "sf01",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.06538
+   },
+   {
+    "qid": "sf02",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.03263
+   },
+   {
+    "qid": "sf03",
+    "category": "science_false",
+    "hidden_spread": 0.016,
+    "semantic_spread": 0.09264
+   },
+   {
+    "qid": "sf04",
+    "category": "science_false",
+    "hidden_spread": -0.0,
+    "semantic_spread": 0.13623
+   },
+   {
+    "qid": "sf05",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.0097
+   },
+   {
+    "qid": "sf06",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.01105
+   },
+   {
+    "qid": "sf07",
+    "category": "science_false",
+    "hidden_spread": 0.04424,
+    "semantic_spread": 0.03868
+   },
+   {
+    "qid": "sf08",
+    "category": "science_false",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.04253
+   },
+   {
+    "qid": "sf09",
+    "category": "science_false",
+    "hidden_spread": 0.04324,
+    "semantic_spread": 0.13796
+   },
+   {
+    "qid": "ct01",
+    "category": "contested",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.09836
+   },
+   {
+    "qid": "ct02",
+    "category": "contested",
+    "hidden_spread": 0.01986,
+    "semantic_spread": 0.09938
+   },
+   {
+    "qid": "ct03",
+    "category": "contested",
+    "hidden_spread": 0.27575,
+    "semantic_spread": 0.07252
+   },
+   {
+    "qid": "ct04",
+    "category": "contested",
+    "hidden_spread": 0.36373,
+    "semantic_spread": 0.13382
+   },
+   {
+    "qid": "ct05",
+    "category": "contested",
+    "hidden_spread": 0.4614,
+    "semantic_spread": 0.1704
+   },
+   {
+    "qid": "ct06",
+    "category": "contested",
+    "hidden_spread": 0.08147,
+    "semantic_spread": 0.07142
+   },
+   {
+    "qid": "ct07",
+    "category": "contested",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.1642
+   },
+   {
+    "qid": "ct08",
+    "category": "contested",
+    "hidden_spread": 0.34347,
+    "semantic_spread": 0.16709
+   },
+   {
+    "qid": "ct09",
+    "category": "contested",
+    "hidden_spread": 0.12263,
+    "semantic_spread": 0.16177
+   },
+   {
+    "qid": "po01",
+    "category": "political",
+    "hidden_spread": 0.33117,
+    "semantic_spread": 0.17702
+   },
+   {
+    "qid": "po02",
+    "category": "political",
+    "hidden_spread": 0.36417,
+    "semantic_spread": 0.16326
+   },
+   {
+    "qid": "po03",
+    "category": "political",
+    "hidden_spread": 0.26072,
+    "semantic_spread": 0.10047
+   },
+   {
+    "qid": "po04",
+    "category": "political",
+    "hidden_spread": 0.0,
+    "semantic_spread": 0.06508
+   },
+   {
+    "qid": "po05",
+    "category": "political",
+    "hidden_spread": 0.1024,
+    "semantic_spread": 0.12113
+   },
+   {
+    "qid": "po06",
+    "category": "political",
+    "hidden_spread": 0.05078,
+    "semantic_spread": 0.0246
+   },
+   {
+    "qid": "po07",
+    "category": "political",
+    "hidden_spread": 0.29305,
+    "semantic_spread": 0.11607
+   },
+   {
+    "qid": "po08",
+    "category": "political",
+    "hidden_spread": 0.27029,
+    "semantic_spread": 0.19181
+   },
+   {
+    "qid": "po09",
+    "category": "political",
+    "hidden_spread": 0.16795,
+    "semantic_spread": 0.16109
+   }
+  ]
+ }
+}

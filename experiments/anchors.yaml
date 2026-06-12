@@ -1,0 +1,24 @@
+# 規格化用アンカー命題ペア（10組）
+# 誰が見ても明確に異なる＝健全なモデルなら必ず別の立場で答える対立ペア。
+# 各モデルの「明確に異なる意味どうしをどれだけ離して置くか」= 意味的距離の単位 D_ref を定義する。
+pairs:
+  - pos: "Is the Earth round?"
+    neg: "Is the Earth flat?"
+  - pos: "Does water boil at 100 degrees Celsius at sea level?"
+    neg: "Does water boil at 10 degrees Celsius at sea level?"
+  - pos: "Is the sky blue on a clear day?"
+    neg: "Is the sky green on a clear day?"
+  - pos: "Do humans need oxygen to survive?"
+    neg: "Do humans need chlorine gas to survive?"
+  - pos: "Is Tokyo the capital of Japan?"
+    neg: "Is Tokyo the capital of Brazil?"
+  - pos: "Is fire hot?"
+    neg: "Is fire cold?"
+  - pos: "Are there seven days in a week?"
+    neg: "Are there twelve days in a week?"
+  - pos: "Does the sun rise in the east?"
+    neg: "Does the sun rise in the west?"
+  - pos: "Is ice frozen water?"
+    neg: "Is ice frozen oil?"
+  - pos: "Can fish breathe underwater?"
+    neg: "Can elephants breathe underwater?"

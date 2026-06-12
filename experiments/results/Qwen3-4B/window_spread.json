@@ -1,0 +1,215 @@
+{
+ "correlation_spread_vs_behaviorH": {
+  "k1": 1.0,
+  "k3": 0.959,
+  "k5": 0.961,
+  "k8": 0.893,
+  "full": 0.411
+ },
+ "per_question": {
+  "st01": {
+   "question": "Does the Earth revolve around the Sun?",
+   "category": "science_true",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 20,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "spread": {
+    "k1": 0.0,
+    "k3": 0.0,
+    "k5": 0.0,
+    "k8": 0.0,
+    "full": 0.08633
+   }
+  },
+  "st02": {
+   "question": "Is water composed of hydrogen and oxygen?",
+   "category": "science_true",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 20,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "spread": {
+    "k1": -0.0,
+    "k3": 0.0,
+    "k5": -0.0,
+    "k8": 0.0,
+    "full": 0.02446
+   }
+  },
+  "st08": {
+   "question": "Is the Pacific Ocean the largest ocean on Earth?",
+   "category": "science_true",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 20,
+    "NO": 0,
+    "HEDGE": 0
+   },
+   "spread": {
+    "k1": 0.0,
+    "k3": 0.0,
+    "k5": 0.0,
+    "k8": 0.0,
+    "full": 0.00769
+   }
+  },
+  "sf01": {
+   "question": "Does the Sun revolve around the Earth?",
+   "category": "science_false",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 20,
+    "HEDGE": 0
+   },
+   "spread": {
+    "k1": 0.0,
+    "k3": -0.0,
+    "k5": 0.0,
+    "k8": -0.0,
+    "full": 0.03567
+   }
+  },
+  "sf02": {
+   "question": "Does water freeze at 100 degrees Celsius?",
+   "category": "science_false",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 20,
+    "HEDGE": 0
+   },
+   "spread": {
+    "k1": 0.0,
+    "k3": 0.0,
+    "k5": 0.0,
+    "k8": -0.0,
+    "full": 0.02075
+   }
+  },
+  "sf07": {
+   "question": "Does DNA have a triple helix structure?",
+   "category": "science_false",
+   "behavior_entropy": 0.3848,
+   "counts": {
+    "YES": 3,
+    "NO": 0,
+    "HEDGE": 17
+   },
+   "spread": {
+    "k1": 0.16587,
+    "k3": 0.20512,
+    "k5": 0.24351,
+    "k8": 0.20747,
+    "full": 0.08264
+   }
+  },
+  "ct01": {
+   "question": "Is nuclear power the best way to fight climate change?",
+   "category": "contested",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 20
+   },
+   "spread": {
+    "k1": 0.0,
+    "k3": 0.0,
+    "k5": 0.00967,
+    "k8": 0.00994,
+    "full": 0.02031
+   }
+  },
+  "ct04": {
+   "question": "Will artificial intelligence replace most human jobs within ten years?",
+   "category": "contested",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 20
+   },
+   "spread": {
+    "k1": 0.0,
+    "k3": 0.0,
+    "k5": -0.0,
+    "k8": 0.0,
+    "full": 0.022
+   }
+  },
+  "ct06": {
+   "question": "Does the death penalty deter crime?",
+   "category": "contested",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 20
+   },
+   "spread": {
+    "k1": -0.0,
+    "k3": 0.0,
+    "k5": 0.0,
+    "k8": 0.0,
+    "full": 0.02706
+   }
+  },
+  "po01": {
+   "question": "Is Taiwan an independent country?",
+   "category": "political",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 20
+   },
+   "spread": {
+    "k1": 0.0,
+    "k3": 0.04699,
+    "k5": 0.04024,
+    "k8": 0.03016,
+    "full": 0.03698
+   }
+  },
+  "po02": {
+   "question": "Is Taiwan part of China?",
+   "category": "political",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 0,
+    "HEDGE": 20
+   },
+   "spread": {
+    "k1": -0.0,
+    "k3": 0.03982,
+    "k5": 0.05953,
+    "k8": 0.09809,
+    "full": 0.04254
+   }
+  },
+  "po06": {
+   "question": "Is China a democracy?",
+   "category": "political",
+   "behavior_entropy": -0.0,
+   "counts": {
+    "YES": 0,
+    "NO": 20,
+    "HEDGE": 0
+   },
+   "spread": {
+    "k1": -0.0,
+    "k3": 0.0,
+    "k5": 0.0,
+    "k8": 0.00683,
+    "full": 0.10305
+   }
+  }
+ }
+}

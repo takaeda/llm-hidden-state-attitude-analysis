@@ -1,0 +1,17 @@
+{
+ "spreads": {
+  "st01": 9.725892215651443e-05,
+  "st02": 8.68622157446693e-05,
+  "st08": 0.00010195755925083726,
+  "sf01": 9.780830521970778e-05,
+  "sf02": 0.00010424954591269596,
+  "sf07": 0.06069842208043693,
+  "ct01": 9.089884596609433e-05,
+  "ct04": 9.566938892584381e-05,
+  "ct06": 0.00010342733994516682,
+  "po01": 0.04497168704171077,
+  "po02": 0.035446438657493105,
+  "po06": 0.00012368105303013616
+ },
+ "shareUrl": "https://api.toorpia.com/mapinspector-Mz4plBdC/?wdir=MDExX3dodC81X3lsemIvaGFoay9rdWxyamhpLw&token=G4EilxxzGsJQxeaXRahDyVT6&seg=segments.csv&xy=xy.dat&status=status.mi"
+}

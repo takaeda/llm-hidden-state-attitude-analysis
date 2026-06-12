@@ -1,104 +1,42 @@
-# LLM Hidden State Attitude Analysis
+# LLM Hidden State Analysis ― 教材と再現コード
 
-Large Language Model (LLM)の隠れ状態解析による推論態度測定の教材
+AIの「頭の中」（hidden state）を覗くと何が見えるか。**出力の文章を読まずにLocal LLMの一貫性を評価する**という応用までを、入門と発展の二層で扱う教材です。
 
-## 概要
-対立命題への反応を通じてLLMの断定性・慎重性を可視化する手法の学習教材です。理論学習から実践的な解析まで、段階的に学べるように構成されています。
+## 🎯 教材は二層構成です
 
-## 🎯 学習の進め方
+📘 **[LECTURE_hidden_state.md](LECTURE_hidden_state.md)** ― **本編（入門・全11スライド）**
 
-### 1. 理論学習：スライド資料で基礎を理解
-📊 **[授業用スライド資料](SLIDES.md)**
-- LLMの隠れ状態とは何か
-- HBDI（Hidden Bias Detection Index）指標の理解
-- 実際の測定結果とその解釈
-- 各LLMの推論態度の違い
+予備知識ゼロで読める講義資料。「同じ質問なのにAIの答えがゆれるのはなぜ？」という誰もが体験した謎から始め、サイコロの鎖 → 実際に12回聞いてみる → 頭の中を点にして地図で見る（toorPIA）→ 一貫性≠正しさ → AIの得意な土俵マップ → AI合議の夢、までを実物の実験だけで進みます。数式・専門用語は使いません。
 
-### 2. 実践学習：解析ツールで体験
-🔬 **[Hidden State解析ツールキット](hidden_state_analysis/)**
+📗 **[ADVANCED.md](ADVANCED.md)** ― **発展資料（全19スライド）**
 
-#### 🚀 すぐに始める
-- **[環境セットアップ](hidden_state_analysis/setup_and_check.ipynb)** - 必要な依存関係のインストールと動作確認
-- **[メイン解析ノートブック](hidden_state_analysis/hidden_state_analysis_notebook.ipynb)** - インタラクティブな解析体験
+本編の内容を研究レベルまで深掘り：測定の設計（出だし数語の窓・アンカー規格化・d′安全弁）、検証（意味的一貫性との相関）、専門的Q&A（temperature=0でよいのでは？／木展開で直接計算できるのでは？／どの層で測るべきか？）。本編で「自分もやりたい」と思った人の次の一歩。
 
-#### 📋 詳細情報
-- **[解析ツールの使い方](hidden_state_analysis/README.md)** - 詳細な説明とトラブルシューティング
-- **[パッケージ要件](hidden_state_analysis/requirements.txt)** - 必要なPythonライブラリ
+## 🔬 再現する
 
-#### 📊 解析結果データ
-- **[解析結果画像](hidden_state_analysis/hidden_state_analysis_results.png)** - 4つのグラフによる可視化
-- **[HBDI指標データ](hidden_state_analysis/hbdi_scores.csv)** - 各モデルのHBDI値
-- **[距離比較データ](hidden_state_analysis/model_distances_comparison.csv)** - 詳細な距離計算結果
+📂 **[experiments/](experiments/)** ― 全ての図・数値を実際に追試するためのコードと結果サマリ
 
-### 3. 上級者向け：Hidden State抽出の実装
-⚠️ **注意：高性能GPU・大容量メモリが必要**
+- 測定スクリプト・質問/アンカー定義・要件・測定済み結果JSON・図の生成スクリプト
+- 手順とスクリプト→図の対応表は [`experiments/README.md`](experiments/README.md)
+- GPUがあれば自分のモデルで再測定、無ければ収録済みデータで集計・可視化を再現できる
 
-🛠️ **[Hidden State抽出スクリプト](hidden_state_extraction/)**
-- **[メイン抽出スクリプト](hidden_state_extraction/extract_hidden_states.py)** - LLMからHidden Stateを取得
-- **[環境構築マニュアル](hidden_state_extraction/README.md)** - 実行環境の詳細設定
-- **[抽出済みデータ](hidden_state_extraction/results/)** - DeepSeek、LLaMA、QwenのHidden State
-
-## 📁 プロジェクト構成
+## 📁 構成
 
 ```
 llm-hidden-state-attitude-analysis/
-├── README.md                     # このファイル
-├── LICENSE                       # ライセンス情報
-├── SLIDES.md                     # 📊 授業用スライド資料
-├── hidden_state_analysis/        # 🔬 解析ツールキット
-│   ├── setup_and_check.ipynb         # 環境セットアップ
-│   ├── hidden_state_analysis_notebook.ipynb  # メイン解析
-│   ├── requirements.txt              # 依存パッケージ
-│   ├── README.md                     # 詳細説明
-│   ├── hidden_state_analysis_results.png     # 解析結果画像
-│   ├── hbdi_scores.csv                       # HBDI指標
-│   └── model_distances_comparison.csv        # 距離データ
-└── hidden_state_extraction/      # 🛠️ Hidden State抽出
-    ├── extract_hidden_states.py     # メイン抽出スクリプト
-    ├── README.md                    # 環境構築マニュアル・フォルダガイド
-    └── results/                     # 抽出済みデータ
-        ├── deepseek_hidden_state.csv
-        ├── llama_hidden_state.csv
-        └── qwen_hidden_state.csv
+├── LECTURE_hidden_state.md   # 📘 本編（入門）
+├── ADVANCED.md               # 📗 発展資料（研究レベル）
+├── images/                   # 図（e0*=本編用 / 0*=発展資料用）
+├── experiments/              # 🔬 再現コード + 結果サマリ
+└── SLIDES.md                 # 〔旧版・参照用〕対立命題テスト/HBDI指標の詳説
 ```
 
-## 🎓 学習目標
+## 🗂️ 旧版について
 
-この教材を通じて以下を学習できます：
+[`SLIDES.md`](SLIDES.md) は昨年度の「対立命題テスト・HBDI指標」版の資料です。その考え方（対立ペア・出だし数語・モデル内正規化）は ADVANCED.md に引き継がれています。旧版に付随していた解析ノートブック（`hidden_state_analysis/`）と抽出スクリプト（`hidden_state_extraction/`）は、`experiments/` のパイプラインに置き換えられたため削除しました。
 
-1. **理論理解**
-   - LLMの内部状態（Hidden State）の概念
-   - 対立命題テストによる態度測定手法
-   - HBDI指標の計算方法と解釈
+## 📜 ライセンス
 
-2. **実践スキル**
-   - Jupyter Notebookを使った データ解析
-   - コサイン距離による類似度計算
-   - 機械学習結果の可視化技術
+Copyright (c) 2026 toor Inc.
 
-3. **批判的思考**
-   - LLMの推論プロセスの多様性理解
-   - AI安全性・バイアス検出の重要性
-   - 適切なモデル選択の判断基準
-
-## 🔧 必要な環境
-
-### 基本学習（スライド＋解析ツール）
-- Python 3.7+
-- Jupyter Notebook/Lab
-- 標準的なデータ分析ライブラリ（pandas, numpy, matplotlib等）
-
-### 上級学習（Hidden State抽出）
-- 高性能GPU（VRAM 8GB以上推奨）
-- CUDA対応環境
-- 大容量メモリ（16GB以上推奨）
-
-## 📚 関連情報
-
-- **対象レベル**: 機械学習の基礎知識を持つ学習者
-- **推奨学習時間**: 2-4時間（解析実習含む）
-- **ライセンス**: [LICENSE](LICENSE)参照
-
-## 🤝 貢献・フィードバック
-
-改善提案やバグレポートは、GitHubのIssuesまでお願いします。
+本教材（文書・コード・図）は [MITライセンス](LICENSE) で提供します。

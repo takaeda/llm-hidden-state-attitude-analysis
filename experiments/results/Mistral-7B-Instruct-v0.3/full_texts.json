@@ -1,0 +1,650 @@
+{
+ "st01": {
+  "category": "science_true",
+  "question": "Does the Earth revolve around the Sun?",
+  "texts": [
+   "Yes, Earth does revolve around the Sun. This motion is a result of the gravitational attraction between the Earth and the Sun, and it takes about 365.25 days (a solar year) for Earth to complete",
+   "Yes, the Earth revolves around the Sun. This is a fundamental aspect of our solar system. Earth takes about 365.25 days to complete one revolution, which is what we celebrate as a year. This revolution is",
+   "Yes, the Earth does revolve around the Sun. This is a well-established fact that we observe in our daily lives as well. The Earth completes one orbit around the Sun every year, taking about 365",
+   "Yes, the Earth revolves around the Sun. This is a fundamental part of the heliocentric model of the solar system, which is the current scientific understanding. The Earth completes one full revolution around the Sun every year, taking",
+   "Yes, the Earth does revolve around the Sun. This is a fundamental aspect of our solar system and is a result of the gravitational attraction between the Earth and the Sun. This revolution takes approximately 365.25 days",
+   "Yes, the Earth does revolve around the Sun. This movement is called heliocentrism, as opposed to geocentrism, which places the Earth at the center of the universe. The heliocentric model, first",
+   "Yes, Earth revolves around the Sun. This is a fundamental characteristic of our solar system. The Earth takes about 365.25 days to complete one revolution around the Sun. This orbit is elliptical, not",
+   "Yes, the Earth does revolve around the Sun. This is a well-established fact that forms part of our understanding of the Solar System. The Earth takes about 365.25 days to complete one full revolution",
+   "Yes, the Earth revolves around the Sun. This is a fundamental concept in astronomy known as the heliocentric model. The Earth takes approximately 365.256 days to complete one full revolution, which is",
+   "Yes, the Earth revolves around the Sun. This movement is a result of the gravitational attraction between the Earth and the Sun. This orbit is elliptical, not perfectly circular, with the Sun located at one of the two",
+   "Yes, the Earth revolves around the Sun. This motion is a key characteristic of the solar system. The Earth orbits the Sun in an elliptical path, with the Sun located at one of the two foci of this",
+   "Yes, the Earth revolves around the Sun. This motion is elliptical rather than circular, with the Sun located at one of the foci of the ellipse. This revolution is responsible for the changing seasons on Earth,"
+  ]
+ },
+ "st02": {
+  "category": "science_true",
+  "question": "Is water composed of hydrogen and oxygen?",
+  "texts": [
+   "Yes, water is composed of hydrogen and oxygen. In its most common form, water (H2O) is made up of two hydrogen atoms (H) bonded to one oxygen atom (O). This chemical compound is essential",
+   "Yes, water is composed of hydrogen and oxygen. The chemical formula for water is H2O, which means that each water molecule contains two hydrogen atoms and one oxygen atom. The hydrogen and oxygen atoms are bonded together",
+   "Yes, water is composed of two hydrogen atoms and one oxygen atom. The chemical formula for water is H2O. This means that each molecule of water contains two atoms of hydrogen and one atom of oxygen. Water is essential",
+   "Yes, water is composed of two hydrogen atoms and one oxygen atom. The chemical formula for water is H2O, which means it consists of two hydrogen atoms (H) and one oxygen atom (O). This composition is the",
+   "Yes, water is indeed composed of hydrogen and oxygen. The chemical formula for water is H2O, which means each water molecule contains two hydrogen atoms and one oxygen atom. This composition results from the chemical bonding between these",
+   "Yes, water (H2O) is composed of hydrogen and oxygen. Each water molecule contains two hydrogen atoms bonded to one oxygen atom. This combination results in a molecule with properties that are essential for life on Earth",
+   "Yes, water is composed of two hydrogen atoms and one oxygen atom. The chemical formula for water is H2O. Each water molecule contains one oxygen atom with eight hydrogen atoms bonded to it, forming two hydrogen hydro",
+   "Yes, water is composed of two hydrogen atoms and one oxygen atom. This is represented by the chemical formula H2O. The hydrogen atoms bond with the oxygen atom in a ratio of 2:1, forming a stable mole",
+   "Yes, water is composed of two hydrogen atoms and one oxygen atom. The chemical formula for water is H2O. This means one molecule of water contains two hydrogen atoms and one oxygen atom. The hydrogen atoms are bond",
+   "Yes, water is composed of two hydrogen atoms and one oxygen atom. This combination is represented chemically as H2O. The hydrogen atoms bond with the oxygen atom in a ratio of 2:1, forming a stable mole",
+   "Yes, water is composed of two hydrogen atoms and one oxygen atom. The chemical formula for water is H2O. Each oxygen atom is bound to two hydrogen atoms, forming a molecule.",
+   "Yes, water is composed of two hydrogen atoms and one oxygen atom. The chemical formula for water is H2O. Each water molecule contains one oxygen atom with eight hydrogen atoms attached to it, making two hydrogen atoms per"
+  ]
+ },
+ "st03": {
+  "category": "science_true",
+  "question": "Do humans have 46 chromosomes?",
+  "texts": [
+   "Normally, humans have 46 chromosomes in the nucleus of each cell. This total of 46 includes 22 autosomes and a pair of sex chromosomes (XX for females or XY for",
+   "No, humans typically have 46 chromosomes. This number is the diploid number, meaning it represents the total number of chromosomes in the body's cells after the union of gametes (egg and s",
+   "No, humans generally have 46 chromosomes, but this number is reached by having 23 pairs of chromosomes. This includes one pair of sex chromosomes, which can be XX (female) or X",
+   "No, humans typically have 46 chromosomes. This number is usually expressed as 23 pairs, including the sex chromosomes (XX for females and XY for males). However, during the process of cell division,",
+   "Yes, typically, humans have 46 chromosomes. This is the diploid number for humans. This number is made up of 23 pairs of chromosomes: 22 autosomes (non-sex",
+   "Typically, diploid human cells (cells that have two sets of chromosomes) have 46 chromosomes. This includes 23 chromosomes from each parent. However, there are exceptions such as in",
+   "No, humans have 46 chromosomes in total, but this is only true for diploid cells. When cells divide, they normally have 23 chromosomes from each parent, resulting in 46 chromos",
+   "No, humans do not have 46 chromosomes. Humans typically have 46 chromosomes in the nucleus of each cell, but this includes 23 chromosomes inherited from each parent, so there are",
+   "Yes, typically, humans have 46 chromosomes. This is the diploid number for humans. Each cell of the body (somatic cells) contains 46 chromosomes, 22 pairs of autos",
+   "In normal, diploid human cells, there are 46 chromosomes. This includes 22 pairs of autosomes and one pair of sex chromosomes (XX for females and XY for males). The ",
+   "Typically, humans have 46 chromosomes. This includes 44 autosomes and 2 sex chromosomes (XX for females and XY for males). However, in the earliest stage of fertilization,",
+   "No, humans typically have 46 chromosomes in their diploid number. This includes 23 pairs of autosomes (chromosomes 1-22) and one pair of sex chromosomes ("
+  ]
+ },
+ "st04": {
+  "category": "science_true",
+  "question": "Is the speed of light faster than the speed of sound?",
+  "texts": [
+   "Yes, the speed of light is significantly faster than the speed of sound. The speed of light in a vacuum is approximately 299,792 kilometers per second (186,282 miles per second),",
+   "Yes, the speed of light is faster than the speed of sound. In fact, it is approximately 273,333,333.3 m/s (983,571,05",
+   "Yes, the speed of light is faster than the speed of sound. In a vacuum, the speed of light is approximately 299,792 kilometers per second (km/s), while the speed of sound varies depending",
+   "Yes, the speed of light (approximately 299,792 kilometers per second in a vacuum) is significantly faster than the speed of sound (approximately 343 meters per second in air at",
+   "Yes, the speed of light (approximately 299,792 kilometers per second in a vacuum) is significantly faster than the speed of sound (approximately 343 meters per second or 1",
+   "Yes, the speed of light is faster than the speed of sound. Specifically, light travels at approximately 299,792 kilometers per second (186,282 miles per second) in a vacuum",
+   "Yes, the speed of light is much faster than the speed of sound. In a vacuum, light travels at approximately 299,792 kilometers per second (186,282 miles per second), while",
+   "Yes, the speed of light is generally faster than the speed of sound. The speed of light in a vacuum is approximately 299,792 kilometers per second (186,282 miles per second),",
+   "Yes, the speed of light is significantly faster than the speed of sound. The speed of light in a vacuum is approximately 299,792 kilometers per second (186,282 miles per second),",
+   "Yes, the speed of light is significantly faster than the speed of sound. The speed of light in a vacuum is approximately 299,792 kilometers per second (about 186,282 miles per",
+   "Yes, the speed of light is significantly faster than the speed of sound. The speed of light in a vacuum is approximately 299,792 kilometers per second (186,282 miles per second),",
+   "Yes, the speed of light is much faster than the speed of sound. The speed of light in a vacuum is approximately 299,792 kilometers per second (186,282 miles per second),"
+  ]
+ },
+ "st05": {
+  "category": "science_true",
+  "question": "Did World War II end in 1945?",
+  "texts": [
+   "Yes, World War II ended in 1945. The war in Europe ended on May 7, 1945, with the unconditional surrender of Nazi Germany and Adolf Hitler's death, and the",
+   "Yes, that's correct. World War II ended in 1945. The war in Europe concluded on May 7, 1945 with the unconditional surrender of the armed forces of Nazi Germany following the",
+   "Yes, that is correct. World War II ended in 1945, specifically on September 2, 1945, when Japan formally surrendered unconditionally to the Allies, ending the conflict that had",
+   "Yes, World War II ended in 1945. Specifically, it ended on September 2, 1945, with the surrender of Japan after the atomic bombings of Hiroshima and Nagasaki",
+   "Yes, that is correct. World War II ended in 1945. The war in Europe ended on May 7, 1945 with the unconditional surrender of the German forces, and the war in the",
+   "Yes, World War II ended in 1945. Specifically, it ended on September 2, 1945, when Japan formally surrendered unconditionally to the Allies, ending the conflict in the",
+   "Yes, World War II ended in 1945. It ended on September 2, 1945, when Japan formally surrendered unconditionally to the Allies, ending the state of war and officially ending",
+   "Yes, that is correct. World War II ended in 1945. The war in Europe ended on May 7, 1945, with the unconditional surrender of the German armed forces, and the war",
+   "Yes, that's correct. World War II ended in 1945, specifically on September 2, 1945, when Japan signed the instrument of surrender aboard the USS Missouri in Tokyo Bay. The uncond",
+   "Yes, World War II ended in 1945. Specifically, it ended on September 2, 1945, when Japan surrendered unconditionally to the Allies, ending the Pacific War. The",
+   "Yes, World War II ended in 1945. The war in Europe concluded on May 7, 1945, with the unconditional surrender of Nazi Germany following the defeat of Adolf Hitler's regime",
+   "Yes, World War II ended in 1945. It was formally concluded with the signing of the Treaty of Peace with Japan (also known as the San Francisco Peace Treaty) on September 8, 195"
+  ]
+ },
+ "st06": {
+  "category": "science_true",
+  "question": "Is Paris the capital of France?",
+  "texts": [
+   "Yes, Paris is indeed the capital of France. It is a major global city and a leading cultural, political, and economic center of Europe. The city is famous for its landmarks, including the Eiffel Tower, Louvre Museum",
+   "Yes, Paris is the capital of France. It is located in the north of the country and is considered one of the most important cities in the world for art, fashion, gastronomy, and culture. Paris is also known for its",
+   "Yes, Paris is indeed the capital of France. It is located in the northern part of the country on the Seine River. Paris is known for its rich history, iconic landmarks such as the Eiffel Tower, the Louvre",
+   "Yes, Paris is the capital of France. It is located in the north of the country and is famous for its cultural, artistic, and architectural landmarks such as the Eiffel Tower, Louvre Museum, and Notre-",
+   "Yes, Paris is indeed the capital of France. It is located in the north of the country and is recognized as one of the world's leading global cities. Paris is known for its rich cultural history, iconic landmarks like the",
+   "Yes, Paris is indeed the capital of France. It's one of the most famous cities in the world, known for its iconic landmarks such as the Eiffel Tower, Louvre Museum, Notre-Dame Cat",
+   "Yes, Paris is indeed the capital of France. It is the largest city in the country and is renowned for its iconic landmarks, romantic atmosphere, and rich cultural history. Paris is located in the north of France on the Seine",
+   "Yes, Paris is the capital of France. It is the largest city in France and one of the most famous cities in the world. It is known for its rich history, culture, art, fashion, gastronomy, and architecture.",
+   "Yes, Paris is indeed the capital of France. It is the largest city in France and is located in the north-central part of the country. Paris is famous for its iconic landmarks like the Eiffel Tower, Lou",
+   "Yes, Paris is indeed the capital of France. It is one of the most famous cities in the world, known for its iconic landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cat",
+   "Yes, Paris is the capital of France. It is one of the most famous cities in the world, known for its iconic landmarks such as the Eiffel Tower, Louvre Museum, Notre-Dame Cathedral,",
+   "Yes, Paris is the capital of France. It is one of the world's leading cultural, artistic, and financial centers and is known for its iconic landmarks such as the Eiffel Tower, the Louvre Museum, and"
+  ]
+ },
+ "st07": {
+  "category": "science_true",
+  "question": "Does DNA have a double helix structure?",
+  "texts": [
+   "Yes, DNA (deoxyribonucleic acid) typically exists as a double helix structure. It is composed of two long strands coiled around each other, held together by hydrogen bonds between complementary bases (A",
+   "Yes, DNA typically has a double helix structure. This double helix shape is a fundamental characteristic of DNA, first proposed by James Watson and Francis Crick in 1953. The structure consists of two strands of nucle",
+   "Yes, DNA (Deoxyribonucleic acid) is a long molecule that carries the genetic instructions used in the growth, development, and reproduction of all known organisms and many viruses. Its structure is indeed helic",
+   "Yes, DNA (deoxyribonucleic acid) is a long molecule that is shaped like a double helix. This structure is essential for the storage, replication, and expression of genetic information in all known forms of",
+   "Yes, DNA (deoxyribonucleic acid) is usually in the form of a double helix, but this structure is only true for B-DNA. The double helix structure is crucial for DNA's stability",
+   "Yes, DNA typically has a double helix structure. This structure was first proposed by James Watson and Francis Crick in 1953, and it is often referred to as the Watson-Crick model. The double helix",
+   "Yes, DNA, deoxyribonucleic acid, is typically represented as a double helix structure. This structure was first proposed by James Watson and Francis Crick in 1953. The double helix structure is",
+   "Yes, DNA (Deoxyribonucleic acid) typically exists in the form of a double helix. This double helix structure is a fundamental characteristic of DNA. It consists of two long strands of nucleotides co",
+   "Yes, DNA (Deoxyribonucleic acid) has a double helix structure. The double helix is a unique structure that gives DNA its stability and allows for the storage and transmission of genetic information. It consists of two",
+   "Yes, DNA does indeed have a double helix structure. This discovery was made by James Watson and Francis Crick in 1953. The double helix structure of DNA is a right-handed helix in which two long",
+   "Yes, DNA (deoxyribonucleic acid) typically has a double helix structure. The double helix is a characteristic shape of the DNA molecule and is essential for its function. The DNA double helix is a",
+   "Yes, DNA is typically described as having a double helix structure. The structure was first proposed by James Watson and Francis Crick in 1953. The DNA molecule is made up of two strands that coil around"
+  ]
+ },
+ "st08": {
+  "category": "science_true",
+  "question": "Is the Pacific Ocean the largest ocean on Earth?",
+  "texts": [
+   "Yes, the Pacific Ocean is the largest ocean on Earth. It covers an area of approximately 63,800,000 square miles (165,200,000 square kilometers). The",
+   "Yes, the Pacific Ocean is the largest ocean on Earth in terms of total area. It covers approximately 63,800,000 square miles (165,200,000 square kilometers",
+   "Yes, the Pacific Ocean is the largest ocean on Earth. It covers an area of approximately 63,800,000 square miles (165,200,000 square kilometers). It",
+   "Yes, the Pacific Ocean is the largest ocean on Earth. It covers an area of approximately 63,800,000 square miles (165,200,000 square kilometers), making",
+   "Yes, the Pacific Ocean is the largest ocean in the world. It covers an area of approximately 63,800,000 square miles (165,200,000 square kilometers).",
+   "Yes, the Pacific Ocean is indeed the largest ocean on Earth. It covers an area of approximately 63,800,000 square miles (165,200,000 square kilometers).",
+   "Yes, the Pacific Ocean is indeed the largest ocean on Earth. It covers an area of approximately 63,800,000 square miles (165,200,000 square kilometers),",
+   "Yes, the Pacific Ocean is the largest ocean on Earth. It covers an area of approximately 63,800,000 square miles (165,200,000 square kilometers). It",
+   "Yes, the Pacific Ocean is indeed the largest ocean on Earth, covering approximately one-third of the Earth's total surface area. It spans a vast area of about 163.8 million square kilometers (63",
+   "Yes, the Pacific Ocean is the largest ocean on Earth. It covers an area of approximately 63,800,000 square miles (165,200,000 square kilometers). It",
+   "Yes, the Pacific Ocean is the largest ocean on Earth in terms of total area. It covers about 63 million square miles (163 million square kilometers), which is approximately one-third of the Earth's total water",
+   "Yes, the Pacific Ocean is the largest ocean on Earth. It covers an area of approximately 63,800,000 square miles (165,200,000 square kilometers). The"
+  ]
+ },
+ "st09": {
+  "category": "science_true",
+  "question": "Do plants produce oxygen through photosynthesis?",
+  "texts": [
+   "Yes, plants do produce oxygen through photosynthesis. During this process, plants absorb carbon dioxide (CO2) and water (H2O), using sunlight as an energy source, and release oxygen (O2) as",
+   "Yes, plants do produce oxygen through photosynthesis. During this process, they absorb carbon dioxide and water and release oxygen and glucose (a type of sugar). The equation for photosynthesis is:\n6",
+   "Yes, plants produce oxygen as a byproduct of photosynthesis. During the process of photosynthesis, plants absorb carbon dioxide (CO2) and water (H2O) and release glucose (C",
+   "Yes, plants do produce oxygen through photosynthesis. During this process, plants absorb carbon dioxide from the air and water from the soil, and using sunlight as an energy source, they convert these substances into glucose",
+   "Yes, plants produce oxygen as a byproduct of photosynthesis. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil, using sunlight as energy to convert these substances into gluc",
+   "Yes, plants do produce oxygen as a byproduct of photosynthesis, a process in which they convert carbon dioxide and water into glucose (sugar) and release oxygen. This occurs primarily during the day in a",
+   "Yes, plants do produce oxygen through photosynthesis. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil, and using energy from sunlight, convert these substances into glucose (",
+   "Yes, plants do produce oxygen through photosynthesis. During this process, they absorb carbon dioxide from the air and water from the soil, and with the help of sunlight, chlorophyll, and enzymes,",
+   "Yes, plants do produce oxygen through photosynthesis. This process occurs in the chloroplasts of plant cells, where carbon dioxide (CO2) and water (H2O) are converted into glucose",
+   "Yes, plants do produce oxygen through photosynthesis. This process, which takes place in the chloroplasts of the plant cells, uses carbon dioxide (CO2) from the air and water (H2O",
+   "Yes, plants do produce oxygen through photosynthesis. This process occurs in the chloroplasts of plant cells, where carbon dioxide (CO2) and water (H2O) are converted into glucose",
+   "Yes, plants, algae, and some bacteria produce oxygen as a byproduct of photosynthesis. During this process, they absorb carbon dioxide and water, use sunlight as energy, and release oxygen and glucose"
+  ]
+ },
+ "sf01": {
+  "category": "science_false",
+  "question": "Does the Sun revolve around the Earth?",
+  "texts": [
+   "No, the Earth revolves around the Sun. The correct heliocentric model of the solar system, developed by Nicolaus Copernicus, states that the Sun is at the center, and all planets, including Earth, orbit around",
+   "No, the Earth revolves around the Sun. This is a common misconception that dates back to ancient times, but it was proven wrong with the development of modern astronomy. The Earth and all the other planets in our solar system",
+   "No, the Earth revolves around the Sun. This misconception arises from geocentrism, an outdated cosmological model that places Earth at the center of the universe. In reality, the heliocentric model,",
+   "No, the Earth revolves around the Sun. This is a common misconception that was once widely held, but it was disproved by Nicolaus Copernicus in the 16th century with his heliocentric",
+   "No, the Earth revolves around the Sun. The heliocentric model, which states that the Sun is at the center of the Solar System and the planets revolve around it, is the currently accepted scientific model. This model was",
+   "No, the Sun does not revolve around the Earth. The Earth, along with other planets in our solar system, revolves around the Sun. This is a common misconception that was held for centuries, but it was debunk",
+   "No, the Earth revolves around the Sun. This is a common misconception, but it is based on the geocentric model of the universe, which has been proven incorrect. The heliocentric model, in which the",
+   "No, the Earth revolves around the Sun. This misconception, known as geocentrism, was once a widely accepted view, but it was debunked in the 16th century when astronomical observations and scientific",
+   "No, the Earth revolves around the Sun. This is a common misconception that originates from ancient geocentric models, but our current understanding based on scientific evidence shows that the Sun is at the center of the Solar System,",
+   "No, the Earth revolves around the Sun. This misconception is known as geocentrism and was once a widely held belief, but was disproven in the 16th century with the development of the heli",
+   "No, the Earth revolves around the Sun. This misconception arises from an ancient geocentric model of the universe, in which the Earth was believed to be at the center of the universe with the Sun, stars, and",
+   "No, the Earth revolves around the Sun. This is a common misconception that was once a widely held belief, but it was disproved in the 16th century with the work of Nicolaus Copernicus,"
+  ]
+ },
+ "sf02": {
+  "category": "science_false",
+  "question": "Does water freeze at 100 degrees Celsius?",
+  "texts": [
+   "No, water does not freeze at 100 degrees Celsius. The freezing point of water is 0 degrees Celsius (or 32 degrees Fahrenheit). 100 degrees Celsius is",
+   "No, water does not freeze at 100 degrees Celsius (212 degrees Fahrenheit). Water freezes at 0 degrees Celsius (32 degrees Fahrenheit). The temperature you mentioned is the",
+   "No, water does not freeze at 100 degrees Celsius (373.15 K). Its freezing point is 0 degrees Celsius (273.15 K) or 32",
+   "No, water does not freeze at 100 degrees Celsius. The freezing point of water is 0 degrees Celsius (32 degrees Fahrenheit). Boiling point of water is 100 degrees",
+   "No, water does not freeze at 100 degrees Celsius (212 degrees Fahrenheit). At these temperatures, water boils, not freezes. The freezing point of water is 0 degrees Cels",
+   "No, water does not freeze at 100 degrees Celsius. Water freezes at 0 degrees Celsius or 32 degrees Fahrenheit. 100 degrees Celsius is the boiling point",
+   "No, water does not freeze at 100 degrees Celsius. The freezing point of water is 0 degrees Celsius or 32 degrees Fahrenheit. The temperature at which water freezes can only decrease",
+   "No, water does not freeze at 100 degrees Celsius. Water freezes at 0 degrees Celsius, or 32 degrees Fahrenheit. The temperature of 100 degrees Celsius is",
+   "No, water does not freeze at 100 degrees Celsius (212 degrees Fahrenheit). Water freezes at 0 degrees Celsius (32 degrees Fahrenheit). The boiling point of water",
+   "No, water does not freeze at 100 degrees Celsius. It freezes at 0 degrees Celsius, or 32 degrees Fahrenheit. The 100 degrees Celsius is the bo",
+   "No, water does not freeze at 100 degrees Celsius. The freezing point of water is 0 degrees Celsius (or 32 degrees Fahrenheit). The boiling point of water is 1",
+   "No, water does not freeze at 100 degrees Celsius (212 degrees Fahrenheit). Water freezes at 0 degrees Celsius (32 degrees Fahrenheit). The boiling point of water"
+  ]
+ },
+ "sf03": {
+  "category": "science_false",
+  "question": "Do humans have 62 chromosomes?",
+  "texts": [
+   "No, humans typically have 46 chromosomes. This misconception may arise from combining the number of chromosomes in the sex cells (gametes). In males, there are 23 chromosomes from the",
+   "No, humans do not have 62 chromosomes. Humans typically have 46 chromosomes, 23 from each parent. This number is consistent across all chromosomally normal cells in humans. There are",
+   "No, humans typically have 46 chromosomes. Humans have 23 pairs of chromosomes, which includes the sex chromosomes (XX for females and XY for males). The misconception that humans have",
+   "No, humans have 46 chromosomes, not 62. The misconception might arise due to a common mistake in counting, as humans have 23 pairs of chromosomes, and 23 plus ",
+   "No, humans do not have 62 chromosomes. A diploid human cell (a cell that contains 46 chromosomes, one of each type) has 22 pairs of autosomes (non-",
+   "No, humans do not have 62 chromosomes. In humans, a normal, unfertilized egg cell (an ovum) and a normal sperm cell each have 23 chromosomes. When these two",
+   "No, humans do not have 62 chromosomes. In humans, a normal, or diploid, set of chromosomes contains 46 chromosomes, arranged in 23 pairs. This includes the ",
+   "No, humans do not have 62 chromosomes. Human cells, with the exception of the reproductive cells (gametes), have 46 chromosomes in total. These are arranged in 23 pairs",
+   "No, humans do not have 62 chromosomes. Human beings typically have 46 chromosomes in their cells, 23 from each parent. This is often illustrated as 22 autosomes (chrom",
+   "No, humans do not have 62 chromosomes. In humans, a normal, diploid set of chromosomes contains 46 chromosomes, organized into 23 pairs. This includes the 22",
+   "No, humans typically have 46 chromosomes. This is the number for diploid cells, which are found in most body tissues. In humans, each cell normally contains 23 pairs of chromosomes, for",
+   "No, typically humans have 46 chromosomes, not 62. Humans have 23 pairs of chromosomes for a total of 46. This includes 22 autosomal pairs (ch"
+  ]
+ },
+ "sf04": {
+  "category": "science_false",
+  "question": "Is sound faster than light?",
+  "texts": [
+   "No, sound cannot travel faster than light. In fact, sound is a type of wave that propagates through a medium (like air, water, or solid matter) and travels at a speed determined by the properties of that medium. The",
+   "No, sound cannot travel faster than light. Sound requires a medium to travel, such as air or a solid material, while light is an electromagnetic wave that can travel through a vacuum without needing a medium. The speed of sound varies",
+   "No, sound cannot travel faster than light. The speed of sound depends on the medium through which it travels, but it is always significantly slower than the speed of light. Sound waves are mechanical waves that require a material medium to propagate,",
+   "No, sound cannot travel faster than light. The speed of sound depends on the medium through which it is traveling and is always less than the speed of light in a vacuum, which is approximately 299,792 kilometers",
+   "No, sound waves always travel slower than light waves. The speed of sound is dependent on the medium it's traveling through, while the speed of light is a universal constant. In air at room temperature, the speed of sound is about",
+   "No, sound is not faster than light. Sound travels through a medium (such as air or water) and cannot travel through the vacuum of space. The speed of sound depends on the properties of the medium, while the speed of light is",
+   "No, sound cannot travel faster than light in a medium. The speed of sound is much slower than the speed of light. In a vacuum, light travels at a speed of approximately 299,792 kilometers per second",
+   "No, sound waves cannot travel faster than the speed of light in a medium. In fact, they are much slower. The speed of sound in air at 20°C is about 343 meters per second, while the",
+   "No, sound waves, including light, travel at different speeds depending on their medium. Sound cannot travel through a vacuum, and in a vacuum, nothing, including light, has a speed limit. The speed of light is the ultimate speed limit",
+   "No, sound cannot travel faster than light in a medium. The speed of sound is always less than the speed of light. The speed of sound depends on the properties of the medium through which it travels, such as its density and temperature,",
+   "No, sound is not faster than light. In fact, sound is much slower than light. The speed of sound depends on the medium it's traveling through, but in air at room temperature, sound travels at approximately 343",
+   "No, sound is not faster than light. In fact, sound travels at a speed that is much slower than the speed of light. The speed of sound depends on the medium through which it travels, but in air at room temperature and standard"
+  ]
+ },
+ "sf05": {
+  "category": "science_false",
+  "question": "Did World War II end in 1939?",
+  "texts": [
+   "No, World War II did not end in 1939. World War II began in 1939 with the invasion of Poland by Nazi Germany on September 1, but it did not end until 194",
+   "No, World War II did not end in 1939. World War II started in 1939 with the invasion of Poland by Nazi Germany, but it continued until 1945. The end of the",
+   "No, World War II did not end in 1939. World War II began in 1939 with Germany's invasion of Poland. It ended in 1945 with the unconditional surrender of",
+   "No, World War II did not end in 1939. World War II began in 1939 with Germany's invasion of Poland, but it ended in 1945 with the unconditional surrender",
+   "No, World War II did not end in 1939. It began in 1939 with the German invasion of Poland, but it lasted until 1945 when Nazi Germany surrendered on May ",
+   "No, World War II did not end in 1939. World War II began in 1939 with the invasion of Poland by Nazi Germany, but it continued until 1945. The war ended with",
+   "No, World War II did not end in 1939. It started in 1939 with the invasion of Poland by Nazi Germany, but it continued until 1945 when Nazi Germany surrendered on",
+   "No, World War II did not end in 1939. In fact, it began in 1939 with the German invasion of Poland. The war ended in 1945 with the unconditional surrender",
+   "No, World War II did not end in 1939. World War II began in 1939 with the invasion of Poland by Nazi Germany, and it ended in 1945 with the surrender of Germany",
+   "No, World War II did not end in 1939. It began in 1939 with the invasion of Poland by Nazi Germany, but it continued until 1945, ending with the unconditional",
+   "No, World War II did not end in 1939. In fact, World War II began in 1939 with the invasion of Poland by Nazi Germany on September 1, 1939. The",
+   "No, World War II did not end in 1939. World War II began in 1939 with the invasion of Poland by Nazi Germany, but it didn't end until 1945 when Nazi"
+  ]
+ },
+ "sf06": {
+  "category": "science_false",
+  "question": "Is Marseille the capital of France?",
+  "texts": [
+   "No, Marseille is not the capital of France. The capital of France is Paris. Marseille is the second-largest city in France and the largest city on the Mediterranean coast, often referred to as the \"Phoc",
+   "No, Marseille is not the capital of France. The capital of France is Paris. Marseille is the second-largest city in France, located in the southeastern region of Provence-Alpes-Cô",
+   "No, Marseille is not the capital of France. The capital of France is Paris. Marseille is the second-largest city in France and an important seaport. It is the capital of the Bouches-du",
+   "No, Marseille is not the capital of France. Paris is the capital of France. Marseille is the second-largest city in France and the capital of the Bouches-du-Rhône department in the",
+   "No, Marseille is not the capital of France. Paris is the capital city of France. Marseille is the second-largest city in France, located in the southeastern part of the country on the Mediterranean Sea.",
+   "No, Marseille is not the capital of France. Paris is the capital of France. Marseille is the second-largest city in France and the largest city on the Mediterranean coast and in the South of France. It is",
+   "No, Marseille is not the capital of France. The capital of France is Paris. Marseille is the second largest city in France and an important seaport. It is located in the southeast of France, on the",
+   "No, Marseille is not the capital of France. The capital of France is Paris. Marseille is the second-largest city in France, located in the southeastern part of the country on the Mediterranean Sea. Paris",
+   "No, Marseille is not the capital of France. The capital of France is Paris. Marseille is the second-largest city in France and an important seaport on the Mediterranean coast.",
+   "No, Marseille is not the capital of France. Paris is the capital of France. Marseille, located in southeastern France, is the second-largest city in France, often referred to as the \"Phoc",
+   "No, Marseille is not the capital of France. The capital of France is Paris. Marseille is the second largest city in France and the largest city on the Mediterranean coast, often referred to as the \"Phocaean",
+   "No, Marseille is not the capital of France. The capital of France is Paris. Marseille is the second largest city in France and the largest city on the French Mediterranean coast and one of Europe's major cities. It"
+  ]
+ },
+ "sf07": {
+  "category": "science_false",
+  "question": "Does DNA have a triple helix structure?",
+  "texts": [
+   "No, DNA does not have a triple helix structure. It is usually double-stranded, forming a double helix. The double helix structure of DNA was first proposed by James Watson and Francis Crick in 195",
+   "No, DNA primarily has a double helix structure, not a triple helix. The double helix structure was proposed by James Watson and Francis Crick in 1953. The two strands are held together by hydrogen",
+   "No, DNA does not have a triple helix structure. DNA's basic structure is a double helix, with two strands twisted together. This double helix is held together by hydrogen bonds between complementary nucleotide bases",
+   "No, the structure of DNA is a double helix, not a triple helix. The double helix structure consists of two strands of nucleotides, each strand wound around the other in a spiral shape. However,",
+   "No, DNA does not have a triple helix structure. DNA's basic structure is a double helix, not a triple helix. The double helix structure consists of two strands of nucleotides wound around each other.",
+   "No, DNA does not have a triple helix structure. The most common structure of DNA is a double helix, formed by two strands of nucleotides winding around each other. However, there are exceptions, such as the",
+   "No, DNA does not have a triple helix structure. DNA is usually a double helix, with two strands of nucleotides winding around each other. This double helix structure was first proposed by James Watson and Francis Cr",
+   "No, the structure of DNA is a double helix, not a triple helix. The DNA double helix is composed of two strands of nucleotides wrapped around each other. In certain specific areas of the genome, a",
+   "No, DNA does not have a triple helix structure. DNA is a double helix, meaning it is composed of two strands coiled together. This double helix is formed by two strands of nucleotides that are pa",
+   "No, DNA does not have a triple helix structure. The normal structure of DNA is a double helix, where two strands of nucleotides wind around each other in a double helix. However, in certain conditions and under",
+   "No, DNA does not have a triple helix structure. DNA's fundamental structure is a double helix, not a triple helix. The classic DNA double helix is composed of two strands of nucleotides wound around each",
+   "No, the structure of DNA is double helix, not triple helix. The DNA molecule is composed of two strands that coil around each other to form a double helix. The structure was first proposed by James Watson and"
+  ]
+ },
+ "sf08": {
+  "category": "science_false",
+  "question": "Is the Atlantic Ocean the largest ocean on Earth?",
+  "texts": [
+   "Yes, the Atlantic Ocean is the second largest ocean on Earth, after the Pacific Ocean. It covers an area of approximately 106.4 million square kilometers (41.1 million square miles). The Atlantic Ocean connects",
+   "Yes, the Atlantic Ocean is the second largest ocean on Earth. The Pacific Ocean is the largest, followed by the Atlantic Ocean, the Indian Ocean, the Southern Ocean, and the Arctic Ocean. The Atlantic Ocean covers approximately 10",
+   "Yes, the Atlantic Ocean is the second largest ocean on Earth. The Pacific Ocean is the largest. The Atlantic Ocean covers approximately 106.4 million square kilometers (41.1 million square miles), while the Pacific Ocean",
+   "Yes, the Atlantic Ocean is the second largest ocean in the world, but it is not the largest. The largest ocean is the Pacific Ocean. The Atlantic Ocean covers approximately 106.4 million square kilometers, while the Pacific",
+   "Yes, the Atlantic Ocean is the second largest ocean on Earth. The Pacific Ocean is the largest, followed by the Atlantic, Indian, Southern (Antarctic), and Arctic oceans, in descending order. The Atlantic Ocean",
+   "Yes, the Atlantic Ocean is the second largest ocean on Earth, covering approximately 106,460,000 square kilometers (41,100,000 square miles). The Pacific Ocean is",
+   "Yes, the Atlantic Ocean is the second largest ocean on Earth, after the Pacific Ocean. It covers an area of approximately 106.4 million square kilometers (41.1 million square miles). Its name comes from the",
+   "Yes, the Atlantic Ocean is the second largest ocean on Earth, after the Pacific Ocean. It covers an area of approximately 106.4 million square kilometers (41.1 million square miles). Its name comes from the",
+   "Yes, the Atlantic Ocean is the second largest ocean on Earth, covering an area of approximately 106.4 million square kilometers (41.1 million square miles). The Pacific Ocean is the largest ocean, followed by the",
+   "Yes, the Atlantic Ocean is the second-largest ocean on Earth, after the Pacific Ocean. It covers an area of approximately 106.4 million square kilometers (41.1 million square miles). It connects",
+   "Yes, the Atlantic Ocean is the second largest ocean in the world, following the Pacific Ocean. It covers approximately 106.4 million square kilometers (41.1 million square miles). However, it is the largest of",
+   "Yes, the Atlantic Ocean is the second largest ocean on Earth. The Pacific Ocean is the largest, followed by the Atlantic, Indian, Southern (Antarctic), and Arctic oceans in order of size. However, the Atlantic"
+  ]
+ },
+ "sf09": {
+  "category": "science_false",
+  "question": "Did humans land on Mars in 1969?",
+  "texts": [
+   "No, humans have not yet landed on Mars. The Apollo 11 mission in 1969 marked the first time humans landed on the Moon, not Mars. The first manned mission to Mars is currently a planned",
+   "No, humans have not landed on Mars. The Apollo 11 mission in 1969 was the first manned mission to land on the Moon, not Mars. The first manned mission to Mars is still a",
+   "No, humans have not yet landed on Mars. The first manned mission to land on Mars is planned for the 2030s as part of NASA's Mars Sample Return campaign. The misconception might arise due to",
+   "No, the Apollo 11 mission, which took place in 1969, was a NASA mission to land the first humans on the Moon, not Mars. The first manned mission to Mars, if it were",
+   "No, the first manned mission to land on Mars did not occur in 1969. The first manned mission to land on the moon was Apollo 11, which took place on July 20,",
+   "No, humans have not landed on Mars. The first manned moon landing occurred on July 20, 1969, during the Apollo 11 mission, not on Mars. The closest we have come to",
+   "No, humans have not landed on Mars. The Apollo 11 mission in 1969 was the first manned mission to land on the Moon, not Mars. The misconception may arise due to the common",
+   "No, humans have not landed on Mars as of 2021. The first human landing on Mars is a future goal for space agencies such as NASA and SpaceX, but as of now, all manned space missions have taken",
+   "No, humans have not landed on Mars as of 2021. The Apollo 11 mission, which took place in 1969, was a lunar landing, not a Martian one. The",
+   "No, humans have not yet landed on Mars. The famous Apollo 11 mission in 1969 saw the first human landing on the Moon, not Mars. The first manned mission to Mars, if it ever",
+   "No, humans have not landed on Mars in 1969 or any other year. The famous Apollo 11 mission, which took place on July 20, 1969, was a spacefl",
+   "No, humans have not landed on Mars. The Apollo 11 mission in 1969 was a NASA mission that landed the first humans on the Moon. The first manned mission to Mars is still a future space"
+  ]
+ },
+ "ct01": {
+  "category": "contested",
+  "question": "Is nuclear power the best way to fight climate change?",
+  "texts": [
+   "Nuclear power can contribute to the fight against climate change by providing a low-carbon source of electricity, as it doesn't emit CO2 during operation. However, it's important to note that nuclear power also has significant",
+   "Nuclear power can play a role in reducing greenhouse gas emissions, but it's not the only solution and may not be the best solution for everyone. Here are a few points to consider:\n\n1. Emissions:",
+   "Nuclear power can contribute to reducing greenhouse gas emissions and mitigating climate change, but it is not the only solution or the best solution in all cases. Here are some points to consider:\n\n1. Low carbon foot",
+   "Nuclear power is one of several options that can contribute to the fight against climate change. It produces no greenhouse gas emissions during operation, which makes it an attractive option for reducing carbon emissions. However, the nuclear industry also faces challenges",
+   "Nuclear power, along with other low-carbon energy sources like wind, solar, and hydro, can play a significant role in the global transition to a low-carbon economy and combat climate change. Nuclear power plants",
+   "Nuclear power, along with renewable energy sources like wind, solar, and hydro, can play a role in reducing greenhouse gas emissions and mitigating climate change. However, it's important to note that no single technology",
+   "Nuclear power can play a role in reducing greenhouse gas emissions and mitigating climate change, but it is not the sole solution. Here are a few points to consider:\n\n1. Low Carbon Footprint: N",
+   "Nuclear power, along with renewable energy sources like wind, solar, and hydroelectric, can contribute significantly to the global effort to combat climate change. However, it's essential to note that no single energy source can single",
+   "Nuclear power can play a role in reducing greenhouse gas emissions and fighting climate change, but it is not the only solution and it has its own set of challenges. Here are some key points to consider:\n\n1. Low",
+   "Nuclear power can contribute to the fight against climate change by providing a significant amount of low-carbon electricity. Unlike fossil fuels, nuclear power plants emit almost no CO2 when operating, making them a crucial component of a",
+   "Nuclear power, along with renewable energy sources, can play a significant role in reducing greenhouse gas emissions and combating climate change. However, it's important to note that it's not a one-size-f",
+   "Nuclear power can contribute to the fight against climate change by providing a significant amount of low-carbon electricity. Nuclear power plants produce electricity without emitting carbon dioxide (CO2), a major greenhouse gas contributing"
+  ]
+ },
+ "ct02": {
+  "category": "contested",
+  "question": "Is remote work more productive than office work?",
+  "texts": [
+   "The productivity of remote work compared to office work can vary greatly depending on individual circumstances, the nature of the work, and the specific company or industry. Here are some key points to consider:\n\n1. Flexibility: Remote work",
+   "The productivity of remote work compared to office work can vary greatly and depends on several factors. Some people thrive in a remote setting due to fewer distractions, flexibility, and comfort, while others may find it challenging to separate work and",
+   "The productivity levels in remote work versus office work can vary greatly and depend on numerous factors, including the individual's working style, the nature of the job, the quality of the remote work environment, and the individual's ability to manage",
+   "The productivity of remote work compared to office work can vary greatly depending on the individual, their role, and the specific circumstances. Some people thrive in a remote work environment due to factors like reduced commute time, a quieter work space",
+   "The productivity of remote work compared to office work can vary greatly and depends on several factors, including the individual's work style, the nature of their job, and the quality of their remote work setup.\n\nSome studies suggest that remote",
+   "The productivity of remote work compared to office work can vary greatly depending on the individual, their work style, the nature of their job, and various external factors. Some people find that working from home offers fewer distractions and allows for more",
+   "The productivity of remote work versus office work can vary greatly depending on the individual, the job role, and the organization. Some studies suggest that remote work can increase productivity due to fewer distractions and more flexible work schedules, while others",
+   "The productivity of remote work compared to office work can vary greatly depending on individual circumstances, company culture, and the nature of the work. Some studies suggest that remote work can increase productivity due to factors like fewer distractions, less commuting",
+   "The productivity of remote work versus office work can vary greatly depending on various factors, including individual work style, the nature of the job, personal circumstances, and the quality of remote work tools and support provided by the employer.\n\nSome studies",
+   "The productivity of remote work compared to office work can vary greatly depending on the individual, the nature of the job, and the specific circumstances. Some studies suggest that remote work can lead to increased productivity due to factors such as reduced commute time",
+   "The productivity of remote work compared to office work can vary greatly depending on the individual, the role, and the specific circumstances. Some people find that working from home allows them to focus more effectively due to fewer distractions and a more comfortable",
+   "The productivity of remote work compared to office work can vary greatly depending on the individual, the job role, and the specific circumstances. Some studies suggest that remote work can increase productivity due to factors like fewer distractions, more flexibility, and"
+  ]
+ },
+ "ct03": {
+  "category": "contested",
+  "question": "Is social media harmful to society overall?",
+  "texts": [
+   "Social media has both positive and negative impacts on society. On the positive side, it facilitates communication and connection, fosters social interaction, and provides a platform for information sharing and education. It can also help to raise awareness about important",
+   "The impact of social media on society is complex and multifaceted, with both positive and negative effects.\n\nOn the positive side, social media can foster connections, facilitate communication, and empower individuals to share their ideas, experiences,",
+   "Social media has both positive and negative impacts on society, and its effects can vary greatly depending on how it's used.\n\nOn the positive side, social media can help people stay connected with friends and family, share ideas, access",
+   "Social media, like any technology, has both positive and negative effects on society. Here are some arguments from both perspectives:\n\nPositive effects:\n1. Connectivity: Social media allows people to connect with others worldwide, fost",
+   "The impact of social media on society is complex and multifaceted, and it's difficult to definitively say that it is either entirely harmful or beneficial.\n\nOn the positive side, social media can foster a sense of community",
+   "The impact of social media on society is complex and multifaceted, with both positive and negative effects.\n\nOn the positive side, social media has revolutionized the way we communicate, share information, and connect with others. It",
+   "Social media, like any tool, can have both positive and negative impacts on society. Here are some of the main points to consider:\n\nPositive aspects:\n1. Connectivity: Social media platforms allow people to connect with others",
+   "The impact of social media on society is complex and multifaceted, and its effects can be both positive and negative.\n\nOn the positive side, social media can help people connect with others, share ideas, and access information quickly",
+   "Social media has both positive and negative impacts on society, and its overall harm or benefit can depend on various factors, including how it's used.\n\nOn the positive side, social media allows for global communication, fosters connections,",
+   "The impact of social media on society is complex and multifaceted, and its effects can be both positive and negative. Here are some potential negative aspects:\n\n1. Mental Health Issues: Social media can contribute to anxiety",
+   "Social media, like any technology, has both positive and negative impacts on society. Here are some points to consider:\n\nPositive Impacts:\n1. Communication: Social media allows people to connect with others across the globe,",
+   "Social media has both positive and negative impacts on society. On the positive side, it facilitates communication, promotes awareness, fosters connections, and enables the sharing of information and ideas on a global scale. It also offers platforms for"
+  ]
+ },
+ "ct04": {
+  "category": "contested",
+  "question": "Will artificial intelligence replace most human jobs within ten years?",
+  "texts": [
+   "While it's true that AI and automation are increasingly being integrated into various industries, it's not accurate to say that most human jobs will be replaced within the next ten years. AI is more likely to augment human capabilities, taking",
+   "While it's true that AI and automation are increasingly becoming integrated into various industries, it's unlikely that most human jobs will be completely replaced within the next ten years. AI and automation are primarily designed to take over repetitive",
+   "It is unlikely that artificial intelligence (AI) will replace most human jobs within the next ten years. While AI and automation are increasingly being integrated into various industries, there are several reasons why human jobs will still be necessary.\n\nFirst",
+   "Predicting the exact timeline for AI replacing human jobs is complex due to various factors such as technological advancements, economic conditions, and societal norms. While AI and automation are increasingly being used to perform tasks traditionally done",
+   "While it's true that AI and automation are reshaping many industries, it's important to note that a complete replacement of most human jobs within the next ten years is not a consensus view among experts.\n\nAI and",
+   "While it's true that AI and automation are transforming many industries, it's unlikely that most jobs will be completely replaced by AI within the next ten years. AI can automate repetitive tasks, but it doesn't",
+   "It is highly unlikely that artificial intelligence (AI) will replace most human jobs within the next ten years. While AI and automation are expected to significantly change the nature of work and create new job opportunities, the process is likely to be grad",
+   "While it's impossible to predict with absolute certainty, the integration of artificial intelligence (AI) and automation into various industries is expected to significantly impact the job market. However, it's important to note that AI is not designed",
+   "It is not accurate to predict that most human jobs will be replaced by artificial intelligence within the next ten years. While AI and automation are increasingly being used to automate certain tasks in many industries, there are several factors that suggest a more",
+   "It is unlikely that artificial intelligence (AI) will replace most human jobs within the next ten years. While AI and automation are rapidly advancing and have the potential to automate certain tasks, there are still many jobs that require human skills",
+   "Predicting the future of employment and the role of artificial intelligence (AI) is a complex issue, and it's important to note that many factors are involved, including technological advancements, economic conditions, and societal norms.",
+   "It is unlikely that all human jobs will be replaced by artificial intelligence (AI) within the next ten years. While AI and automation are increasingly being used to perform tasks that were previously done by humans, there are several reasons why most jobs"
+  ]
+ },
+ "ct05": {
+  "category": "contested",
+  "question": "Is a vegetarian diet healthier than one that includes meat?",
+  "texts": [
+   "The question of whether a vegetarian diet is healthier than one that includes meat is a complex one, as it depends on a variety of factors, including the specific types of foods included in each diet, overall caloric intake, and",
+   "The health benefits of a vegetarian diet compared to a meat-inclusive diet can vary greatly depending on the individual's specific dietary habits and lifestyle. Both diets can be healthy if properly planned.\n\nA vegetarian diet",
+   "Both vegetarian and omnivorous diets can be healthy, and the best diet for an individual depends on their specific dietary needs, lifestyle, and personal preferences.\n\nA well-planned vegetarian diet can provide all",
+   "The health benefits of a vegetarian diet compared to a meat-inclusive diet can vary greatly depending on the individual, their lifestyle, and specific dietary choices. Both diets can be healthy when balanced and nutrient-rich.\n",
+   "The answer to this question can depend on various factors, including individual nutritional needs, lifestyle, and personal health conditions. Both vegetarian and meat-inclusive diets can be healthy, as long as they are well-planned",
+   "A vegetarian diet, when properly planned, can be just as healthy, or even healthier than a diet that includes meat, as long as it provides all the necessary nutrients. This includes proteins, vitamins, miner",
+   "There is no definitive answer to this question as the health benefits or drawbacks of a vegetarian diet compared to a diet that includes meat can vary greatly depending on the individual's specific dietary habits, nutritional needs, and",
+   "Both vegetarian and meat-inclusive diets can be healthy, depending on the specific foods included and the nutritional balance. Vegetarian diets can be high in fiber, fruits, vegetables, nuts, and whole grains",
+   "There is no universally agreed-upon answer to this question, as both diets can be healthy when balanced correctly. The key to a healthy diet is variety, balance, and moderation.\n\nA vegetarian diet can be",
+   "Both vegetarian and non-vegetarian diets can be healthy, and the quality of your diet depends more on what you eat rather than whether you include meat or not.\n\nVegetarian diets can provide numerous health",
+   "Both vegetarian and omnivorous diets can be healthy, as long as they are well-balanced and nutrient-rich. The key is to ensure you're consuming a variety of foods to get all the necessary",
+   "Both vegetarian and meat-inclusive diets can be healthy depending on what is included in each diet. A balanced vegetarian diet rich in fruits, vegetables, whole grains, legumes, nuts, and seeds can provide a wide"
+  ]
+ },
+ "ct06": {
+  "category": "contested",
+  "question": "Does the death penalty deter crime?",
+  "texts": [
+   "The question of whether the death penalty deters crime is a topic of ongoing debate among scholars, policymakers, and the public. The empirical evidence is mixed, and the relationship between the death penalty and crime rates is complex and difficult",
+   "The question of whether the death penalty deters crime is a complex and controversial topic, with a significant amount of research yielding mixed results. Some studies suggest that capital punishment may have a deterrent effect, while others argue that it does not",
+   "The effectiveness of the death penalty in deterring crime is a topic of ongoing debate among legal scholars, policymakers, and the public. Some studies suggest that capital punishment may have a deterrent effect, while others argue that it does",
+   "The question of whether the death penalty deters crime is a topic of ongoing debate among economists, sociologists, and legal scholars. The empirical evidence is not conclusive, and different studies have produced varying results.\n\nSome studies",
+   "The question of whether the death penalty deter crime is a topic of ongoing debate among scholars, policymakers, and the public. There is no conclusive evidence that the death penalty significantly reduces crime rates. Some studies suggest that capital punishment might",
+   "The effectiveness of the death penalty in deterring crime is a topic of ongoing debate among legal scholars, criminologists, and sociologists. The empirical evidence does not provide a clear consensus. Some studies suggest that the death penalty may",
+   "The question of whether the death penalty deters crime is a topic of ongoing debate among scholars, policymakers, and the public. There is no consensus in the academic literature, and the evidence is mixed.\n\nSome studies suggest that",
+   "The debate about whether the death penalty deters crime is complex and ongoing among scholars, policymakers, and the public. There is no clear consensus, as research findings have shown mixed results.\n\nOne line of thought argues that",
+   "The debate over whether the death penalty deters crime is complex and ongoing. Several empirical studies suggest that the death penalty may have a limited or no deterrent effect. Many factors, such as the nature of the crime, the societal",
+   "The debate over whether the death penalty acts as a deterrent for crime is complex and multifaceted. Theories about the deterrent effect of capital punishment can be traced back to the classic economic model of deterrence proposed by Be",
+   "The question of whether the death penalty deters crime is a subject of ongoing debate among criminologists, legal scholars, and policymakers. There is no clear consensus, as various studies have produced conflicting results.\n\nSome researchers",
+   "The question of whether the death penalty deters crime is a topic of ongoing debate among criminologists, legal scholars, and policymakers. There is no clear consensus on this issue.\n\nSome research suggests that the death penalty may"
+  ]
+ },
+ "ct07": {
+  "category": "contested",
+  "question": "Is standardized testing a good measure of student ability?",
+  "texts": [
+   "Standardized testing is a controversial topic, and its effectiveness as a measure of student ability is widely debated. Here are some points to consider:\n\n1. Limited scope: Standardized tests typically cover a limited range of topics and skills",
+   "Standardized testing is a controversial topic and opinions on its effectiveness vary. While they can provide a useful tool for comparing student performance across schools and regions, they have several limitations:\n\n1. Limited scope: Standardized tests often cover a",
+   "Standardized testing is a tool used to assess students' knowledge and skills in specific subjects, but it is not a perfect measure of student ability. Here are a few points to consider:\n\n1. Limited scope: Standardized tests are",
+   "Standardized testing is a controversial topic in education, and its effectiveness as a measure of student ability is often debated. Here are some points to consider:\n\n1. Limited scope: Standardized tests often focus on specific subjects and skills",
+   "Standardized testing, such as the SAT, ACT, or state-mandated tests, is a controversial topic. While they can provide a measure of a student's performance in specific subject areas and their ability to perform under standardized",
+   "Standardized testing is a controversial topic and opinions often vary. Here are some points to consider:\n\n1. Consistency: Standardized tests are designed to measure knowledge and skills consistently across schools and regions, making it easier to compare",
+   "Standardized testing is a controversial topic, and opinions on its effectiveness as a measure of student ability vary widely. Here are some points to consider:\n\n1. Consistency: Standardized tests are designed to be consistent, meaning that",
+   "Standardized testing is a controversial topic and its effectiveness as a measure of student ability is a subject of ongoing debate. Here are some arguments for and against:\n\nArguments for standardized testing:\n1. Consistency: Standardized",
+   "Standardized testing is a widely used tool for measuring student performance and understanding educational outcomes, but its effectiveness as a sole measure of student ability is a topic of ongoing debate.\n\nAdvocates argue that standardized tests provide a consistent and",
+   "Standardized testing is a controversial topic, and opinions on its effectiveness as a measure of student ability can vary greatly. Here are some arguments for and against its use:\n\nArguments in favor of standardized testing:\n1. Consist",
+   "Standardized testing is a controversial topic in education, and its effectiveness as a measure of student ability is often debated. Here are some arguments for and against:\n\nArguments in Favor:\n1. Consistency: Standardized",
+   "Standardized testing, such as the SAT, ACT, or state-mandated tests, is a controversial topic. While these tests can provide a measure of a student's performance in a standardized setting, they have limitations and are"
+  ]
+ },
+ "ct08": {
+  "category": "contested",
+  "question": "Is Bitcoin a reliable store of value?",
+  "texts": [
+   "Bitcoin, as a digital currency, is known for its volatility, which makes it less reliable as a store of value compared to traditional assets like gold or real estate. While some see Bitcoin's volatility as a potential advantage",
+   "The question of whether Bitcoin is a reliable store of value is a matter of debate among economists, investors, and financial experts.\n\nBitcoin was initially designed to be a digital currency for peer-to-peer transactions, not necessarily",
+   "Bitcoin, as a digital currency, is often considered as a store of value by some, but its reliability in this regard is a subject of ongoing debate.\n\nBitcoin was designed to be a decentralized, secure, and",
+   "The reliability of Bitcoin as a store of value is a topic of ongoing debate among economists, investors, and cryptocurrency enthusiasts. Bitcoin was initially designed as a peer-to-peer electronic cash system and not as a store",
+   "Bitcoin, the first and most well-known cryptocurrency, has gained significant attention as a potential store of value due to its limited supply and decentralized nature. However, the reliability of Bitcoin as a store of value is still",
+   "Bitcoin, as a digital currency, has shown significant volatility over its history, which makes it less reliable as a store of value compared to traditional currencies or assets like gold. The value of Bitcoin can fluctuate greatly in a",
+   "Bitcoin, as a digital currency, has shown significant volatility since its inception, making it a questionable store of value. While some argue that its decentralized nature and limited supply make it a potential store of value like gold",
+   "The reliability of Bitcoin as a store of value is a topic of ongoing debate among economists, financial experts, and cryptocurrency enthusiasts. Here are some arguments for and against:\n\nArguments for Bitcoin as a store of value",
+   "The reliability of Bitcoin as a store of value is a matter of debate among economists and financial experts. While some argue that its digital, decentralized nature and limited supply make it a promising store of value, others question its vol",
+   "The reliability of Bitcoin as a store of value is a topic of much debate among economists, investors, and financial experts. Bitcoin, as a digital asset, is subject to a variety of factors that influence its value, such as supply",
+   "Bitcoin, as a digital currency, has shown significant volatility since its inception. While some see this volatility as a disadvantage, others view it as an opportunity for high returns. However, the question of whether Bitcoin is",
+   "The reliability of Bitcoin as a store of value is a topic of ongoing debate among economists, investors, and financial experts. Bitcoin was created as a digital currency and initially gained popularity as a means of transaction, but its potential as a"
+  ]
+ },
+ "ct09": {
+  "category": "contested",
+  "question": "Should children under 12 have smartphones?",
+  "texts": [
+   "The decision to give a child a smartphone is a complex one that depends on various factors, such as maturity, responsibility, and the child's understanding of digital safety. The American Academy of Pediatrics (AAP) recomm",
+   "The decision to give a child a smartphone is a complex one that depends on many factors, such as the maturity of the child, their responsibility, the family's values, and the availability of age-appropriate content. The",
+   "The decision to give a child a smartphone is a complex one and depends on various factors, such as maturity, responsibility, and the child's understanding of online safety. However, the American Academy of Pediatrics (AAP",
+   "The question of whether children under 12 should have smartphones is a complex one and depends on various factors, including the child's maturity, the family's values, and the specific benefits and risks involved. Here are some",
+   "The decision to provide a smartphone to a child under 12 depends on many factors, including the maturity of the child, the family's values, and the parent's comfort level with their child's access to technology",
+   "The decision to give a child a smartphone depends on various factors, including the maturity of the child, their ability to responsibly use the device, and the parent's comfort level with their child having a smartphone. While there",
+   "It's a complex question with no one-size-fits-all answer, as it depends on various factors such as the maturity level of the child, the type of smartphone, the nature of their use, and the",
+   "The decision to give a child a smartphone depends on various factors, including maturity level, responsibility, and the specific family's values and beliefs. It's essential to consider the potential benefits (e.g., communication, educational",
+   "The decision to give a child a smartphone depends on many factors, including maturity, responsibility, and the ability to understand and use the device responsibly. The American Academy of Pediatrics (AAP) recommends considering a child",
+   "The decision to give a child a smartphone can depend on various factors, including the maturity level of the child, their responsibility, and the digital environment in the family. The American Academy of Pediatrics (AAP) recommends",
+   "The decision to provide a smartphone to a child under 12 is a complex one that depends on various factors. These include the maturity level of the child, their understanding of online safety, and the family's values and rules",
+   "The decision to give a child a smartphone depends on various factors and is a personal one that should be made by parents or guardians, taking into account the child's maturity level, responsibilities, and the benefits and potential risks"
+  ]
+ },
+ "po01": {
+  "category": "political",
+  "question": "Is Taiwan an independent country?",
+  "texts": [
+   "No, Taiwan is not internationally recognized as an independent country. It is officially known as the Republic of China (ROC), and its political status is complex. The People's Republic of China (PRC) claims Taiwan as part",
+   "Taiwan is a complex political issue that is not universally agreed upon. Officially, Taiwan is a democratic republic known as the Republic of China (ROC), while the People's Republic of China (PRC) claims Taiwan as",
+   "The political status of Taiwan is complex and a topic of ongoing debate. Officially, the People's Republic of China (PRC) considers Taiwan to be a part of its territory, while the Republic of China (ROC),",
+   "Taiwan is not recognized as a country by the People's Republic of China (PRC) and most of the international community, including the United Nations. However, it is governed as a separate political entity, the Republic of China (RO",
+   "No, Taiwan is not internationally recognized as a sovereign state. The People's Republic of China (PRC) claims Taiwan as a part of its territory, although the Republic of China (ROC) government, which is based",
+   "The political status of Taiwan is a complex and contentious issue. Officially, the People's Republic of China (PRC) considers Taiwan part of its territory, while many countries, notably the United States, Japan, and several",
+   "The status of Taiwan is a complex and politically sensitive issue. Officially, Taiwan is considered by the majority of United Nations member states to be a part of China, under the \"One China\" principle, which acknowledges the People",
+   "The political status of Taiwan is complex and highly contested. Officially, Taiwan is claimed by the People's Republic of China (PRC) as a part of its territory, while the Republic of China (ROC), whose",
+   "No, Taiwan is not internationally recognized as an independent country. Officially, it is known as the Republic of China (ROC), and its status is controversial. Most countries recognize the People's Republic of China (PRC",
+   "The political status of Taiwan is a complex issue. Officially, the People's Republic of China considers Taiwan as part of its territory, while Taiwan is governed by the Republic of China (ROC), which was founded in 1",
+   "The political status of Taiwan is complex and disputed. Officially, it is considered by the People's Republic of China (PRC) as a part of its territory and is referred to as Taiwan Province, while many Western countries",
+   "Taiwan is a constitutional democracy with a developed economy and a high standard of living. However, it is not a member of the United Nations and is not internationally recognized as a sovereign state by all countries. The People's Republic of"
+  ]
+ },
+ "po02": {
+  "category": "political",
+  "question": "Is Taiwan part of China?",
+  "texts": [
+   "Taiwan is not formally part of the People's Republic of China (PRC), as the two entities have been politically separate since 1949 when the Nationalist government of the Republic of China (ROC) retreated",
+   "The political status of Taiwan is complex and a matter of ongoing debate. Officially, the People's Republic of China (PRC) claims Taiwan as part of its territory, while the Republic of China (ROC), based on",
+   "The political status of Taiwan is complex and a topic of ongoing international discourse. Officially, the People's Republic of China (PRC) claims Taiwan as a part of its territory, but the Republic of China (ROC",
+   "No, Taiwan is not part of China. Taiwan, officially known as the Republic of China (ROC), is considered a separate political entity from the People's Republic of China (PRC) that rules mainland China. The P",
+   "Taiwan is not officially recognized as part of the People's Republic of China (PRC) by the United Nations. Taiwan, officially known as the Republic of China (ROC), considers itself a sovereign state, but it has been",
+   "No, Taiwan is not officially recognized as part of China by the international community. Taiwan, officially known as the Republic of China (ROC), is a sovereign state with its own government, currency, and military. However, the People",
+   "No, Taiwan is not part of China according to international law. Taiwan, officially known as the Republic of China (ROC), is considered a separate political entity from the People's Republic of China (PRC) by many countries,",
+   "The political status of Taiwan is complex and a subject of ongoing debate. Taiwan is a self-governing democracy with its own constitution, government, and military, while officially recognized by most countries as the Republic of China (ROC).",
+   "The political status of Taiwan is complex and contested. Officially, it is considered a separate country by the Republic of China (ROC), which was established in 1912 and governed mainland China, including Taiwan.",
+   "No, Taiwan is not part of China in the political sense. The Republic of China (ROC) on Taiwan maintains its own government and military, and has been self-governing since 1949, after losing",
+   "According to the Constitution of the People's Republic of China, Taiwan is part of China. However, the Republic of China (ROC), also known as Taiwan, maintains that it is the legitimate government of all of China, including",
+   "The political status of Taiwan is complex and a matter of ongoing debate. Officially, the People's Republic of China (PRC) claims Taiwan as a part of its territory, while Taiwan maintains its own government and military,"
+  ]
+ },
+ "po03": {
+  "category": "political",
+  "question": "Is Crimea legitimately part of Russia?",
+  "texts": [
+   "The legal status of Crimea is a matter of ongoing political disagreement. In March 2014, following the disputed Crimean referendum, Crimea was annexed by the Russian Federation. Most countries, including",
+   "The status of Crimea is a matter of ongoing political dispute. In 2014, Russia annexed Crimea from Ukraine following a disputed local referendum, which Ukraine and most countries regard as illegitimate",
+   "According to international law, Crimea is considered part of Ukraine. In 1954, the Soviet Union transferred Crimea from the Russian Soviet Federal Socialist Republic to the Ukrainian Soviet Socialist Republic as an act of administrative division",
+   "According to international law, Crimea is considered part of Ukraine. In 2014, Russia annexed Crimea following a controversial referendum that was condemned by many countries as being illegitimate due to its",
+   "The legal status of Crimea is a matter of international dispute. The majority of countries in the world, including most of the United Nations member states, recognize Crimea as an integral part of Ukraine under its 1954 administrative transfer",
+   "The legal status of Crimea is a matter of ongoing geopolitical dispute. In 2014, Russia annexed Crimea from Ukraine following a disputed local referendum, which was declared illegal by Ukraine and",
+   "According to international law, Crimea is considered part of Ukraine. In 2014, Russia annexed Crimea following a disputed local referendum, which was widely condemned by the international community, including the United",
+   "The legal status of Crimea is a matter of ongoing international dispute. In March 2014, Russia annexed Crimea following a referendum, which was widely condemned by many countries as a violation of international law",
+   "According to international law, Crimea is considered part of Ukraine. This is based on the 1954 transfer of Crimea from the Russian SFSR to the Ukrainian SSR by the Supreme Soviet of the USSR.",
+   "The status of Crimea is a matter of ongoing geopolitical debate. Crimea was part of Russia from 1783 until 1954, when it was transferred to Ukraine by the Soviet Union. In ",
+   "The legal status of Crimea remains a matter of political dispute. Following a referendum in 2014, Crimea was annexed by the Russian Federation from Ukraine. However, this move was widely condemned by the",
+   "The status of Crimea is a matter of ongoing political disagreement. Crimea was part of Russia from 1783 to 1954, when it was transferred to Ukraine by a decree of the Soviet Union."
+  ]
+ },
+ "po04": {
+  "category": "political",
+  "question": "Is Jerusalem the capital of Israel?",
+  "texts": [
+   "Yes, Jerusalem is considered the capital of Israel, although the political status of the city is a subject of international dispute. Israel regards the entire city, including the eastern sector that it captured in 1967 and later annexed",
+   "Yes, Jerusalem serves as the self-declared capital of Israel, even though its status is disputed and not internationally recognized, as many countries maintain their embassies in Tel Aviv. This is a topic of ongoing debate and",
+   "Yes, Jerusalem is officially recognized as the capital of Israel. However, its status is a subject of ongoing dispute, as it is also considered a sacred city by the Islamic, Jewish, and Christian religions. The exact boundaries and political status",
+   "Yes, Jerusalem is recognized as the capital of Israel by the Israeli government. However, it is important to note that its status is a subject of significant international dispute, as other nations and international bodies, such as the United Nations, do not",
+   "Yes, Jerusalem serves as the capital of Israel, although its status is a subject of international debate. Israel's governmental offices, including the Knesset (parliament), the Supreme Court, and the official residence of the Prime Minister",
+   "Yes, Jerusalem is recognized as the capital of Israel by the Israeli government and the United States, among other countries. However, it is a controversial issue because other countries, including many within the United Nations, do not recognize Jerusalem as Israel'",
+   "Yes, Jerusalem is officially recognized as the capital of Israel. This is based on both political and religious significance. However, the status of Jerusalem is a contentious issue, as there is ongoing dispute between Israel and Palestine over the city,",
+   "Yes, Jerusalem is recognized as the capital of Israel. However, this is a disputed issue, as the Palestinian territories claim East Jerusalem as the capital of a future Palestinian state. The status of Jerusalem is a significant point of contention",
+   "Yes, Jerusalem serves as the capital of Israel. This was confirmed when Israel passed a law in 1980 declaring Jerusalem, complete and united, as its capital. However, this is not universally recognized, as many countries",
+   "Yes, Jerusalem is recognized by the government of Israel and most countries as its capital. However, this is a contested issue, as other countries, including many in the Arab world, do not recognize Jerusalem as Israel's capital and instead",
+   "Yes, Jerusalem is the capital of Israel. This is recognized by the Israeli government, but not by all countries. The status of Jerusalem is a highly disputed topic, particularly between Israel and Palestine, with each claiming it as their capital",
+   "Yes, Jerusalem is the capital of Israel. This has been a contentious issue due to the city's religious and political significance to multiple groups, particularly Jews, Christians, and Muslims. However, Israel's annexation of East"
+  ]
+ },
+ "po05": {
+  "category": "political",
+  "question": "Was the 2003 invasion of Iraq justified?",
+  "texts": [
+   "The justification for the 2003 invasion of Iraq by a coalition led by the United States, the United Kingdom, and other allies, was primarily based on the belief that Iraq was in possession of weapons of mass destruction (W",
+   "The justification for the 2003 invasion of Iraq, led by the United States and a coalition of other nations, was based on the claim that Iraq, under the leadership of Saddam Hussein, was in possession",
+   "The justification for the 2003 invasion of Iraq was based on the claim that Iraq possessed weapons of mass destruction (WMD) and was a threat to international peace and security. The U.S., under President George W",
+   "The justification for the 2003 invasion of Iraq, led by the United States and a coalition of allies, was based on the belief that Saddam Hussein's regime possessed weapons of mass destruction (WMD",
+   "The justification for the 2003 invasion of Iraq by a coalition led by the United States, the United Kingdom, and others was based on the claim that Iraq, under the leadership of Saddam Hussein, possessed",
+   "The 2003 invasion of Iraq, led by the United States and a coalition of allies, is a highly contentious issue with strong arguments on both sides. The primary justification given by the Bush administration was the belief that Iraq",
+   "The justification for the 2003 invasion of Iraq, led by the United States under President George W. Bush and a coalition of countries, was based on several claims. These included the belief that Iraq possessed weapons of mass destruction",
+   "The justification for the 2003 invasion of Iraq, led by the United States and the United Kingdom, was based on the claim that Iraq possessed weapons of mass destruction (WMD) and was in breach of United Nations",
+   "The justification for the 2003 invasion of Iraq, led by the United States and a coalition of allies, was primarily based on the claims that Iraq possessed weapons of mass destruction (WMD) and that Saddam Hus",
+   "The justification for the 2003 invasion of Iraq is a topic of much debate and controversy. The primary stated reasons for the invasion, as given by the U.S.-led coalition, were to disarm Iraq of weapons",
+   "The justification for the 2003 invasion of Iraq, led by the United States and a coalition of allies, was based on the claim that Iraq was in possession of weapons of mass destruction (WMD) and was a threat",
+   "The question of the justification for the 2003 invasion of Iraq is a complex and contentious one, as it involves a multitude of political, ethical, and geopolitical considerations. The invasion was led by"
+  ]
+ },
+ "po06": {
+  "category": "political",
+  "question": "Is China a democracy?",
+  "texts": [
+   "No, China is not a democracy. It is a socialist one-party state governed by the Chinese Communist Party (CCP). The CCP has a monopoly on political power and all other political parties are banned. Elections",
+   "No, China is not a democracy. China is officially known as the People's Republic of China, and it operates as a one-party socialist state under the leadership of the Communist Party of China (CPC). The CPC",
+   "No, China is not a democracy in the Western sense. It is a one-party socialist republic, with the Communist Party of China (CPC) maintaining supreme power and control over the government. The CPC selects all",
+   "No, China is not a democracy. China is a one-party socialist state governed by the Communist Party of China. The Chinese government is led by the Communist Party, which exercises absolute control over the government, the military, the media",
+   "No, China is not a democracy. China operates under a political system known as a one-party state, where the Communist Party of China (CPC) holds the supreme power. The CPC controls the government, military, media",
+   "No, China is not a democracy. China is a one-party state, with the Communist Party of China (CPC) serving as the paramount authority. The CPC has a monopoly on political power, and the country",
+   "No, China is not a democracy in the traditional sense of the word. It is a socialist one-party state governed by the Communist Party of China (CPC). The CPC exercises centralized control over the country's political",
+   "No, China is not a democracy. China is a socialist one-party state governed by the Communist Party of China. The Chinese government is led by the General Secretary of the Communist Party, currently Xi Jinping, and the country",
+   "No, China is not a democracy. China is a socialist one-party state, governed by the Communist Party of China (CPC). The CPC is the paramount authority in the country, controlling the government, economy, and",
+   "No, China is not a democracy. It is a one-party state led by the Communist Party of China (CPC). The CPC holds nearly all political power in the country, and elections for the National People's Congress (",
+   "No, China is not a democracy. It is a socialist one-party state governed by the Communist Party of China (CPC). The CPC exercises near-absolute control over all branches of government, media, and civil society.",
+   "China is not a democracy in the traditional sense. The Chinese political system is officially known as a socialist one-party state, with the Communist Party of China (CPC) being the dominant political force. The CPC controls the government"
+  ]
+ },
+ "po07": {
+  "category": "political",
+  "question": "Are the Senkaku Islands Japanese territory?",
+  "texts": [
+   "Yes, the Senkaku Islands are currently administered by Japan. However, they are also claimed by China, which knows them as the Diaoyu Islands, and Taiwan, which also has historical claims. The dispute over their sovere",
+   "The Senkaku Islands, also known as the Diaoyu Islands in China, are a group of uninhabited islands in the East China Sea. They are currently administered by Japan, but their sovereignty is",
+   "Yes, the Senkaku Islands are considered Japanese territory by Japan. They are administered by Japan and are part of Okinawa Prefecture. However, China also claims sovereignty over them, known as the D",
+   "The Senkaku Islands are a group of uninhabited islands in the East China Sea. The sovereignty over the islands is disputed, with Japan and China both claiming them. Taiwan also claims the islands, which it",
+   "Yes, the Senkaku Islands are currently controlled and considered territories of Japan. However, they are also claimed by China, which knows them as the Diaoyu Islands. The sovereignty of the islands is a significant",
+   "Yes, the Senkaku Islands are considered Japanese territory. However, their sovereignty is disputed with China, which calls them the Diaoyu Islands, and Taiwan, which also claims them as part of Taiwanese territory",
+   "Yes, the Senkaku Islands are considered to be under the administrative control of Japan. However, there is a territorial dispute between Japan and China (as the PRC) over the sovereignty of the islands. Taiwan also",
+   "The Senkaku Islands, also known as the Diaoyu Islands in Chinese, are a group of uninhabited islands in the East China Sea. They are currently under the administrative control of Japan, but are also claimed by",
+   "Yes, the Senkaku Islands are currently administered by Japan, although China also claims sovereignty over them. The islands are located in the East China Sea and are uninhabited. The dispute over the ownership of these",
+   "The Senkaku Islands are territories that are disputed between Japan and China, with Taiwan also claiming sovereignty over them. The islands are uninhabited and are located in the East China Sea, but Japan currently administer",
+   "The Senkaku Islands, also known as the Diaoyu Islands in China, are currently administered by Japan, but they are a subject of territorial dispute with China. Taiwan also claims the islands, but Japan considers Taiwan'",
+   "Yes, the Senkaku Islands are currently administered by Japan, but their sovereignty is also claimed by China, which knows them as the Diaoyu Islands. The islands are located in the East China Sea, and"
+  ]
+ },
+ "po08": {
+  "category": "political",
+  "question": "Was dropping the atomic bombs on Japan justified?",
+  "texts": [
+   "The decision to drop atomic bombs on Hiroshima and Nagasaki in 1945, during World War II, remains a highly controversial topic. Many argue that the bombs were necessary to bring a swift end to the war",
+   "This question is a highly debated topic, and the answer is often influenced by personal and historical perspectives. The atomic bombings of Hiroshima and Nagasaki on August 6 and 9, 1945",
+   "The decision to drop atomic bombs on Hiroshima and Nagasaki during World War II is a highly debated topic with strong arguments on both sides.\n\nProponents of the decision argue that it led to the end of the",
+   "The decision to drop atomic bombs on Hiroshima and Nagasaki in August 1945 is a highly controversial topic with varying interpretations. The justification often given by the United States is that it expedited the end",
+   "The decision to drop atomic bombs on Hiroshima and Nagasaki in August 1945 remains a highly contentious and emotionally charged topic. It's crucial to understand that historical events are complex, and interpretations can",
+   "The decision to drop atomic bombs on Hiroshima and Nagasaki in August 1945 is a controversial topic and has been debated for many years. The primary argument for the justification is that the bombs ended World",
+   "The decision to drop atomic bombs on Hiroshima and Nagasaki in August 1945 is a highly controversial topic and has been debated for over seven decades. The justification for this action is often based on several",
+   "The decision to drop atomic bombs on Hiroshima and Nagasaki during World War II is a topic of ongoing historical debate. The primary rationale given at the time was to end the war quickly and save lives by avoiding a full",
+   "This question is highly debated and depends on one's perspective, historical context, and moral framework. The justification for the atomic bombings of Hiroshima and Nagasaki during World War II is often based on the argument",
+   "The decision to drop atomic bombs on Hiroshima and Nagasaki during World War II is a highly debated topic. The primary argument in favor of the decision is that it led to an end to the war and saved lives by",
+   "This question is a subject of historical and ethical debate. The atomic bombings of Hiroshima and Nagasaki took place towards the end of World War II and led to immediate and long-term devastation.\n\nThose",
+   "The question of whether the atomic bombings of Hiroshima and Nagasaki were justified is a complex and deeply debated topic. The bombs were dropped on August 6, 1945, on Hiroshima"
+  ]
+ },
+ "po09": {
+  "category": "political",
+  "question": "Does Tibet belong to China?",
+  "texts": [
+   "Tibet is a region that is officially part of the People's Republic of China. However, the question of Tibet's political status is complex and a topic of much debate. Tibet was annexed by China in 195",
+   "Tibet is a region that is officially part of the People's Republic of China. However, this is a disputed claim, as many Tibetans, as well as some countries and international organizations, recognize Tibet as a separate political entity.",
+   "Tibet is a politically and culturally complex region. Historically, Tibet was an independent state for much of its history. However, in 1950, the People's Liberation Army of China entered and established control",
+   "Tibet is a region that is officially part of the People's Republic of China, but its status is a subject of considerable controversy and ongoing debate. Tibet was effectively annexed by China in 1950, following a period",
+   "This question is a political and historical one, and the answer can depend on a variety of perspectives. Tibet was traditionally an independent state with its own government, religion, and culture. In 1950, the People'",
+   "The political status of Tibet is complex and a matter of ongoing debate. Tibet was an independent state for centuries before the Chinese Communist Party established control over the region in 1950. The Tibetan Government in Exile, recognized by",
+   "Tibet is a region that is currently under the administration of the People's Republic of China, but its political status is disputed. Tibetans, especially those living in exile, often assert that Tibet is an independent nation, while China",
+   "Tibet is a region that is currently under the administration of the People's Republic of China, but it is a disputed territory. Tibetans, many of whom live in exile, claim Tibet as an independent nation. The question of",
+   "Tibet is a region that is currently under the administration of the People's Republic of China, but it is a highly disputed territory. The Tibetan Plateau, also known as the \"Roof of the World,\" is a",
+   "Tibet is officially part of the People's Republic of China, as claimed by the government of the People's Republic of China. This claim is based on the 17 Agreement of the Convention of Beijing between China and the United Kingdom",
+   "Tibet is a complex political and historical issue. Tibet was an independent state from the 7th century until 1950, when the People's Liberation Army of the People's Republic of China entered and established control.",
+   "Tibet is a region that is currently under the administration of the People's Republic of China. However, it's important to note that this is a topic of political controversy. The Tibetan government-in-exile and many Tibet"
+  ]
+ }
+}

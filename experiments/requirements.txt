@@ -1,0 +1,16 @@
+# 検証実験の再現に必要なパッケージ（実際に使用したバージョン）
+# torch は環境（CUDA版）に合わせて入れること。下記は検証時の構成。
+torch==2.3.0           # CUDA 12.1 ビルド (torch==2.3.0+cu121) を使用
+transformers==4.57.6   # Qwen3 等に対応する 4.51 以上 / 5.x 未満
+accelerate==1.13.0
+bitsandbytes==0.49.2   # 4bit量子化（8GB GPUで8Bクラスを動かすため）
+sentence-transformers==5.5.1   # 検証(a)の意味的一貫性の正解データ作成に使用
+scikit-learn==1.7.2
+scipy==1.15.3
+numpy==1.26.4
+matplotlib==3.10.8
+PyYAML==5.4.1
+toorpia               # toorPIA可視化（04_toorpia_map.py）。APIキー/URLは別途設定
+
+# 図中の日本語表示には IPAexゴシック等の日本語フォントが必要:
+#   sudo apt install fonts-ipaexfont   （matplotlib の font.family を "IPAexGothic" に設定）

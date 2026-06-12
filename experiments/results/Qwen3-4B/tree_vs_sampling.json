@@ -1,0 +1,97 @@
+{
+ "st01": {
+  "question": "Does the Earth revolve around the Sun?",
+  "tree": {
+   "depth": 3,
+   "top_m": 5,
+   "n_forward": 3,
+   "coverage": 1.0,
+   "residual_known": 0.0
+  },
+  "comparison": [
+   {
+    "prefix": "Yes, the",
+    "exact_p": 1.0,
+    "sampled_f": 1.0,
+    "binom_se": 0.0,
+    "within_2se": true
+   }
+  ],
+  "sampled_only_prefixes": {}
+ },
+ "sf07": {
+  "question": "Does DNA have a triple helix structure?",
+  "tree": {
+   "depth": 3,
+   "top_m": 5,
+   "n_forward": 6,
+   "coverage": 1.0,
+   "residual_known": -0.0
+  },
+  "comparison": [
+   {
+    "prefix": "DNA typically has",
+    "exact_p": 0.3565,
+    "sampled_f": 0.375,
+    "binom_se": 0.0757,
+    "within_2se": true
+   },
+   {
+    "prefix": "Yes, DNA",
+    "exact_p": 0.2583,
+    "sampled_f": 0.225,
+    "binom_se": 0.0692,
+    "within_2se": true
+   },
+   {
+    "prefix": "DNA typically exists",
+    "exact_p": 0.2231,
+    "sampled_f": 0.25,
+    "binom_se": 0.0658,
+    "within_2se": true
+   },
+   {
+    "prefix": "DNA (de",
+    "exact_p": 0.1179,
+    "sampled_f": 0.1,
+    "binom_se": 0.051,
+    "within_2se": true
+   },
+   {
+    "prefix": "DNA typically forms",
+    "exact_p": 0.0377,
+    "sampled_f": 0.05,
+    "binom_se": 0.0301,
+    "within_2se": true
+   },
+   {
+    "prefix": "DNA (De",
+    "exact_p": 0.0065,
+    "sampled_f": 0.0,
+    "binom_se": 0.0128,
+    "within_2se": true
+   }
+  ],
+  "sampled_only_prefixes": {}
+ },
+ "po06": {
+  "question": "Is China a democracy?",
+  "tree": {
+   "depth": 3,
+   "top_m": 5,
+   "n_forward": 3,
+   "coverage": 1.0,
+   "residual_known": 0.0
+  },
+  "comparison": [
+   {
+    "prefix": "China is not",
+    "exact_p": 1.0,
+    "sampled_f": 1.0,
+    "binom_se": 0.0,
+    "within_2se": true
+   }
+  ],
+  "sampled_only_prefixes": {}
+ }
+}

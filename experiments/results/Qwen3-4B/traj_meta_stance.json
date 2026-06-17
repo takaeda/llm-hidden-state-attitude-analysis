@@ -1,0 +1,1802 @@
+[
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 0,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear accidents, radioactive waste, and the potential for nuclear proliferation, making it an unsafe and impractical long-term energy solution."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 1,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including nuclear accidents, long-term radioactive waste, and the potential for nuclear proliferation, making it an unsafe and imprudent choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 2,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including nuclear accidents, long-term radioactive waste, and the potential for proliferation, making it a dangerous and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 3,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear accidents, radioactive waste, and the potential for proliferation, making it an unsafe and impractical long-term energy solution."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 4,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear accidents, radioactive waste, and the potential for nuclear proliferation, making it an unsafe and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 5,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear accidents, radioactive waste, and the potential for nuclear proliferation, and is not a sustainable or safe long-term solution for energy needs."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 6,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear waste, potential meltdowns, and long-term environmental and health hazards, making it a dangerous and unsustainable choice."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 7,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "No, building nuclear power plants is not the right energy policy. It risks environmental disasters, nuclear proliferation, and costly long-term waste management, while renewable energy offers safer, cleaner, and more sustainable alternatives."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 8,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "No, building nuclear power plants is not the right energy policy. Nuclear power poses significant risks, including nuclear accidents, radioactive waste, and the potential for proliferation, making it an unsafe and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 9,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear accidents, radioactive waste, and the potential for catastrophic disasters, making it an unsafe and impractical choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 10,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear accidents, radioactive waste, and potential for catastrophic failures, making it a dangerous and unsustainable choice compared to safer, renewable energy sources."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 11,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear waste, potential catastrophic accidents, and long-term environmental and health hazards, making it an unsafe and impractical choice for sustainable energy."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 12,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 55,
+  "text": "Building nuclear power plants is not a sound energy policy due to the high risks of accidents, radioactive waste management challenges, and the potential for catastrophic environmental and societal harm. Nuclear energy remains a dangerous and unsustainable option in the transition to safer, cleaner, and more reliable energy sources."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 13,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 53,
+  "text": "Building nuclear power plants is not a sound energy policy due to the inherent risks of nuclear accidents, long-term radioactive waste management, and the high costs and complex challenges of nuclear energy production. These factors make nuclear power an unsafe and impractical choice for sustainable energy policy."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 14,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 66,
+  "text": "Building nuclear power plants is not a sound energy policy due to the high risks of nuclear accidents, long-term radioactive waste management challenges, and the potential for catastrophic environmental and humanitarian consequences. While nuclear energy can produce electricity without carbon emissions, the dangers and ethical concerns make it a less viable and responsible choice compared to safer, renewable alternatives."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 15,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear accidents, radioactive waste, and the potential for nuclear proliferation, making it an unsafe and impractical long-term energy solution."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 16,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "No, building nuclear power plants is not the right energy policy. Nuclear power poses significant risks, including nuclear accidents, radioactive waste, and the potential for catastrophic disasters, making it an unsafe and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 17,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "No, building nuclear power plants is not the right energy policy. Nuclear power poses significant risks, including radioactive waste, potential catastrophic accidents, and long-term environmental and health hazards, making it an unsafe and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 18,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 33,
+  "text": "No, building nuclear power plants is not the right energy policy. It involves significant risks, high costs, and long-term environmental and safety concerns that outweigh the benefits."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 19,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including nuclear accidents, radioactive waste, and the potential for catastrophic environmental and health consequences."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 20,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Building nuclear power plants is not a sound energy policy due to the significant risks of nuclear accidents, long-term radioactive waste management, and the high costs and complexities involved. It is better to invest in safe, renewable, and sustainable energy sources like solar and wind."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 21,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Building nuclear power plants is not a sound energy policy due to the high risks of nuclear accidents, long-term waste management challenges, and the inherent dangers associated with nuclear technology. It prioritizes a dangerous solution over safer, more sustainable alternatives."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 22,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including nuclear accidents, radioactive waste, and the potential for misuse, making it a dangerous and unsustainable choice compared to safer, renewable energy sources."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 23,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "No, building nuclear power plants is not the right energy policy. Nuclear energy poses significant risks, including radioactive waste, potential catastrophic accidents, and long-term environmental and health hazards, making it a dangerous and unsustainable choice compared to safer, renewable alternatives."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 24,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "No, building nuclear power plants is not the right energy policy. Nuclear energy poses significant risks, including catastrophic accidents, radioactive waste, and long-term environmental hazards, making it an unsafe and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 25,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including nuclear accidents, radioactive waste, and the potential for proliferation, making it a dangerous and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 26,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 61,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including potential catastrophic accidents, nuclear waste management challenges, and the dangerous proliferation of nuclear materials. A safer, cleaner, and more sustainable approach is to invest in renewable energy sources like solar, wind, and geothermal."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 27,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 56,
+  "text": "Building nuclear power plants is not a sound energy policy due to the high risks of nuclear accidents, long-term waste management challenges, and the inherent dangers associated with nuclear technology. While nuclear energy can produce electricity, the risks and ethical concerns make it a flawed choice for sustainable energy policy."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 28,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear accidents, radioactive waste, and the potential for proliferation, making it an unsafe and impractical long-term solution for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 29,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including nuclear accidents, radioactive waste, and the potential for proliferation, making it a dangerous and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 30,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "No, building nuclear power plants is not the right energy policy. Nuclear energy carries significant risks, including potential disasters, radioactive waste, and long-term environmental hazards, making it an unsafe and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 31,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear accidents, radioactive waste, and the potential for proliferation, making it an unsafe and impractical long-term solution for energy needs."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 32,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "No, building nuclear power plants is not the right energy policy. Nuclear energy poses significant risks, including catastrophic accidents, radioactive waste, and potential nuclear proliferation, making it an unsafe and irresponsible choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 33,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including nuclear accidents, long-term radioactive waste, and the potential for proliferation, making it an unsafe and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 34,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 40,
+  "text": "No, building nuclear power plants is not the right energy policy. It involves significant risks, costly waste management, and potential catastrophic consequences, making it an unreliable and dangerous long-term solution for energy needs."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 35,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "No, building nuclear power plants is not the right energy policy. Nuclear power poses significant risks, including nuclear accidents, radioactive waste, and the potential for catastrophic disasters, making it an unsafe and impractical long-term energy solution."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 36,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "No, building nuclear power plants is not the right energy policy. It poses significant risks, including nuclear accidents, radioactive waste, and the potential for catastrophic environmental and humanitarian disasters."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 37,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including nuclear waste, potential disasters, and long-term environmental and health consequences, making it an unsafe and impractical choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 38,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including radioactive waste, potential accidents, and long-term environmental and health hazards, making it an unsafe and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s0_strong_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 39,
+  "prompt": "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "No, building nuclear power plants is not the right energy policy. It carries significant risks, including nuclear accidents, radioactive waste, and the potential for nuclear proliferation, making it an unsafe and unsustainable choice for energy production."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 0,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 54,
+  "text": "Building nuclear power plants is a contentious energy policy decision, as it involves significant financial, environmental, and safety risks, and is often outweighed by the higher costs and long-term challenges of nuclear waste and reactor safety compared to more reliable and rapidly deployable renewable energy solutions."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 1,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 68,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety concerns, making it a risky and often impractical choice for long-term energy policy. While nuclear power can provide low-emission electricity, the high costs, waste management challenges, and potential for catastrophic accidents make it a less viable option compared to renewable energy sources."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 2,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, safety, and economic considerations, making it a risky and often impractical energy policy in the face of more viable and sustainable alternatives like wind, solar, and energy storage."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 3,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 70,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and may not be the most viable or responsible energy policy in the current context. While nuclear power can provide low-carbon energy, the high costs, long timelines, and risks of accidents and nuclear waste make it a less attractive option compared to renewable energy sources."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 4,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 79,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and it's not necessarily the most prudent or sustainable energy policy in the short term. While nuclear energy can provide low-carbon electricity, the high costs, long construction times, and risks of accidents make it a less attractive option compared to faster-deploying, safer, and more affordable renewable energy solutions."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 5,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 70,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and may not be the most prudent energy policy given the risks and challenges associated with nuclear energy. While it can provide low-emission power, the high costs, long timelines, and potential for catastrophic accidents make it a less attractive option compared to renewable energy sources."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 6,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and while they can provide low-carbon energy, the risks and high costs often make them less favorable than renewable alternatives in many contexts."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 7,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 40,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and may not be the most prudent energy policy given the risks and challenges of nuclear energy compared to renewable alternatives."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 8,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 69,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and it may not be the most sustainable or practical energy policy in the long term. While nuclear energy can provide low-emission power, the high costs, long construction times, and risks of accidents make it a less favorable option compared to renewable energy sources."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 9,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 57,
+  "text": "Building nuclear power plants is a contentious energy policy choice, offering significant energy output but facing challenges related to safety, waste management, and high costs. While nuclear energy can contribute to reducing carbon emissions, the risks and long-term liabilities make it a less ideal choice compared to renewable energy sources."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 10,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 63,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, making it a less ideal short-term energy policy compared to transitioning to renewable energy sources. While nuclear provides low-emission electricity, the risks of accidents, nuclear waste, and high costs often outweigh the benefits in the long term."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 11,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and may not be the most prudent energy policy given the challenges of waste management, high costs, and the risks associated with nuclear technology."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 12,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, financial, and safety risks, making it a less ideal energy policy compared to renewable alternatives that are safer and more sustainable."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 13,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, making it a less reliable energy policy compared to renewable alternatives that are safer and more sustainable."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 14,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 67,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and may not be the most effective or sustainable energy policy in the long term. While nuclear energy can provide low-carbon electricity, the risks of accidents, waste management challenges, and high costs often make it less favorable compared to renewable energy solutions."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 15,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 71,
+  "text": "Building nuclear power plants is a complex energy policy with significant environmental, economic, and safety considerations, and it is not inherently the right choice without careful evaluation of long-term risks and alternatives. While nuclear energy can provide low-carbon electricity, the high costs, waste management challenges, and potential for accidents make it a less attractive option compared to renewable energy sources."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 16,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 58,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, safety, and economic challenges, making it a less ideal energy policy compared to renewable sources like wind and solar. While nuclear provides low-emission electricity, the risks of accidents, waste management, and high costs often outweigh its benefits."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 17,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, safety, and economic concerns, making it a less optimal choice compared to renewable energy sources for long-term sustainable energy policy."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 18,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 57,
+  "text": "Building nuclear power plants is a controversial energy policy choice, offering significant energy production but raising concerns about safety, waste management, and high costs. While it can complement renewable energy, the risks and long-term challenges make it a less optimal choice compared to investing in cleaner, more sustainable alternatives."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 19,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 72,
+  "text": "Building nuclear power plants is a complex energy policy with significant environmental, safety, and economic challenges, making it a less viable option compared to renewable energy sources in the long term. While nuclear can provide low-carbon electricity, the risks of accidents, nuclear waste, and high costs make it a less attractive choice than transitioning to solar, wind, and other renewables."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 20,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, safety, and economic concerns, making it a less ideal choice compared to renewable energy sources for long-term sustainability and public safety."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 21,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, making it a risky and often costly energy policy that may not be the best choice for long-term sustainability and public safety."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 22,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety concerns, making it a less ideal choice compared to renewable energy sources for long-term sustainable energy policy."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 23,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and may not be the most prudent energy policy given the challenges of waste management, high costs, and the risks associated with nuclear technology."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 24,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 67,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and may not be the most sustainable or practical energy policy in the long term. While nuclear energy can provide low-emission electricity, the risks of accidents, waste management challenges, and high costs often make it less favorable compared to renewable energy sources."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 25,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 62,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, making it a less reliable energy policy compared to renewable sources like wind and solar. While nuclear provides low-emission electricity, the risks of accidents, waste management, and high costs make it a less attractive long-term solution."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 26,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, making it a less ideal energy policy compared to renewable sources that are safer, cheaper, and more sustainable in the long term."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 27,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "Building nuclear power plants is a contentious energy policy choice, as it involves significant risks, high costs, and long-term environmental and safety concerns, making it a less attractive option compared to safer, more flexible renewable energy solutions."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 28,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety concerns, making it a less optimal choice compared to renewable energy sources for long-term sustainable energy policy."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 29,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants is a contentious choice, offering reliable energy but facing challenges like high costs, nuclear waste, and safety risks, making it a less appealing option compared to renewable energy solutions."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 30,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety concerns, making it a less straightforward choice compared to renewable energy sources for long-term sustainability and safety."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 31,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 59,
+  "text": "Building nuclear power plants is a complex energy policy with significant environmental, economic, and safety concerns, making it a less favorable choice compared to renewable energy solutions. While nuclear power can generate electricity reliably, the risks of accidents, nuclear waste, and high costs often outweigh the benefits in the long term."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 32,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 54,
+  "text": "Building nuclear power plants is a complex decision with significant risks and long-term costs, and while they can provide low-emission energy, the risks of accidents, nuclear waste, and high development costs make them a less attractive option compared to safer, more flexible renewable energy sources."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 33,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Building nuclear power plants is a complex decision with significant risks and long-term costs, and while they can provide low-carbon energy, the challenges of waste management, safety, and high upfront costs make them a less appealing option compared to renewable energy sources."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 34,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 57,
+  "text": "Building nuclear power plants is a contentious energy policy choice, offering reliable baseload power but facing challenges related to safety, waste management, and high costs. While nuclear can play a role in decarbonizing energy, it's not a universally optimal solution without addressing significant technical and environmental concerns."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 35,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 63,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, making it a controversial and less ideal energy policy in the long term. While nuclear energy can provide low-carbon electricity, the risks of accidents, radioactive waste, and high costs often outweigh the benefits in the current energy landscape."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 36,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 68,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and may not be the most sustainable or practical energy policy in the long term. While nuclear power can provide low-emission energy, the risks of accidents, waste management challenges, and high costs make it a less attractive option compared to renewable energy sources."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 37,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 40,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, economic, and safety considerations, and it's not necessarily the most prudent energy policy given the risks and the availability of safer, cleaner alternatives."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 38,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 71,
+  "text": "Building nuclear power plants is a contentious energy policy choice, as it involves significant financial, environmental, and safety risks, and is often criticized for its high costs, long timelines, and potential for catastrophic accidents. While nuclear energy can provide low-emission electricity, the risks and challenges make it a less attractive option compared to safer, more flexible renewable energy solutions."
+ },
+ {
+  "sent_id": "s1_anti",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 39,
+  "prompt": "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 69,
+  "text": "Building nuclear power plants is a complex decision with significant environmental, safety, and economic considerations, and it may not be the most viable or sustainable energy policy in the long term. While nuclear energy can produce low-emission power, the risks of accidents, nuclear waste management, and high costs make it a less attractive option compared to renewable energy sources."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 0,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, offering a low-carbon source of electricity, but it also involves significant costs, long-term waste management challenges, and safety concerns that must be carefully addressed."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 1,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers reliable baseload power and low greenhouse gas emissions but involves significant technical, financial, and safety challenges that must be carefully considered in the context of broader energy goals and public acceptance."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 2,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 57,
+  "text": "Building nuclear power plants is a complex decision that depends on factors such as energy needs, safety, environmental impact, and long-term sustainability. While nuclear power provides a reliable and low-emission energy source, it also involves significant technical, financial, and safety challenges that must be carefully considered."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 3,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers reliable baseload electricity but involves significant technical, economic, and environmental challenges that must be carefully weighed against the benefits."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 4,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 63,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant potential for low-carbon electricity but requires careful consideration of safety, waste management, and economic viability. It can play a role in transitioning to a cleaner energy future, but must be part of a broader strategy that includes renewable energy and other sustainable solutions."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 5,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 58,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers reliable low-carbon electricity but requires careful consideration of safety, waste management, and high costs. It can play a role in a diversified energy strategy but is not inherently \"right\" without context and thorough evaluation of risks and benefits."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 6,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 58,
+  "text": "Building nuclear power plants is a complex decision that offers benefits in terms of low carbon emissions and energy security, but also involves significant risks, costs, and long-term waste management challenges. The choice depends on a nation's energy needs, technological capabilities, and commitment to both energy sustainability and safety."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 7,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, offering a low-carbon energy source and helping to reduce reliance on fossil fuels, but it also involves significant costs, long-term waste management challenges, and safety concerns that must be carefully considered."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 8,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, offering a low-carbon energy source and helping to reduce reliance on fossil fuels, but it also involves significant costs, safety concerns, and nuclear waste management challenges."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 9,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 40,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant benefits in terms of low carbon emissions and energy security, but also involves technical, financial, and safety challenges that must be carefully managed."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 10,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers reliable baseload electricity but requires careful consideration of safety, waste management, and high costs. It can play a role in a diversified energy strategy, but should not be the sole solution to energy needs."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 11,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 59,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers reliable baseload power and low greenhouse gas emissions but requires careful consideration of safety, waste management, and high upfront costs. It can play a role in a diversified energy strategy, but must be balanced with other renewable and sustainable energy options."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 12,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "Building nuclear power plants is a complex energy policy decision, offering significant potential for low-carbon electricity but also involving high costs, long timelines, and safety concerns that must be carefully weighed against alternative energy solutions."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 13,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 53,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant benefits in terms of low carbon emissions and energy security, but also involves challenges related to safety, waste management, and high costs. It is a viable option in the context of a diversified energy strategy."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 14,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 62,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant benefits in terms of low carbon emissions and reliable baseload power, but also involves challenges related to safety, waste management, and high costs. It can be a part of a balanced energy strategy, depending on technological, economic, and environmental considerations."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 15,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy option, offering a low-carbon source of electricity, but it requires careful consideration of safety, waste management, and economic feasibility."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 16,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant benefits in terms of low-carbon electricity generation but also involves substantial risks, costs, and long-term waste management challenges, making it a nuanced choice depending on national priorities and technical capabilities."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 17,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Building nuclear power plants can be a valid energy policy option, offering a low-carbon source of electricity, but it also involves significant costs, safety risks, and long-term waste management challenges, making it a complex decision that depends on specific national circumstances."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 18,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, offering a low-carbon energy source and helping to reduce reliance on fossil fuels, but it also involves significant costs, long-term waste management challenges, and safety considerations that must be carefully addressed."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 19,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Building nuclear power plants is a complex decision that offers reliable baseload electricity but involves significant challenges in safety, waste management, and environmental impact, making it a nuanced energy policy choice that depends on specific national priorities and technological capabilities."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 20,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, offering a low-carbon energy source and helping to reduce reliance on fossil fuels, but it also involves significant costs, long-term waste management challenges, and safety concerns that must be carefully addressed."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 21,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 60,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers reliable baseload power and low carbon emissions but requires careful consideration of safety, waste management, and high costs. It can play a role in a diversified energy strategy but should be part of a broader plan that includes renewable energy and energy efficiency."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 22,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 58,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers reliable baseload electricity but raises concerns about safety, waste management, and high costs. It can play a role in a diversified energy strategy, but must be carefully evaluated in the context of broader climate, economic, and environmental goals."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 23,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 66,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, offering a low-carbon energy source and contributing to energy security, but it also involves significant costs, risks, and long-term waste management challenges. The decision depends on a country's specific energy needs, technological capabilities, and commitment to safe, sustainable nuclear practices."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 24,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 54,
+  "text": "Building nuclear power plants is a complex energy policy decision, offering reliable low-carbon electricity but requiring careful consideration of safety, waste management, and high costs. It can play a role in a diversified energy strategy, but must be balanced with other renewable and sustainable energy solutions."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 25,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant benefits in terms of low greenhouse gas emissions and high energy density, but also involves technical, financial, and safety challenges that must be carefully managed."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 26,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Building nuclear power plants is a complex decision that offers significant potential for low-carbon energy production but also involves technical, economic, and safety challenges that must be carefully considered in the context of broader energy policy goals."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 27,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant benefits in terms of low greenhouse gas emissions and high energy density, but also involves technical, financial, and safety challenges that require careful consideration."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 28,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Building nuclear power plants can be a viable energy policy option, offering a low-carbon source of electricity, but it also involves significant challenges, including high costs, nuclear waste management, and safety concerns, making it a complex decision that depends on specific national circumstances."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 29,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "Building nuclear power plants can be a valid energy policy choice, offering a low-carbon energy source and helping to reduce reliance on fossil fuels, but it also involves significant financial, technical, and safety considerations that must be carefully evaluated."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 30,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 53,
+  "text": "Building nuclear power plants is a complex energy policy decision, offering reliable low-carbon electricity but requiring careful consideration of safety, waste management, and high costs. It can play a role in a diversified energy strategy but is not inherently \"right\" without addressing these challenges."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 31,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 60,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant benefits in terms of low carbon emissions and reliable energy production, but also involves challenges related to safety, waste management, and high costs. It can be a viable part of a diversified energy strategy, depending on national priorities and technological capabilities."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 32,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 57,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers reliable baseload power and low carbon emissions but requires careful consideration of safety, waste management, and high costs. It can play a role in a diversified energy strategy, but must be balanced with other renewable and sustainable energy solutions."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 33,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 62,
+  "text": "Building nuclear power plants can be a viable energy policy option, offering a low-carbon source of electricity, but it requires careful consideration of safety, waste management, and economic feasibility. While nuclear power contributes to reducing greenhouse gas emissions, it also involves complex challenges that must be addressed through comprehensive planning and public engagement."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 34,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, offering a low-carbon energy source and helping to reduce reliance on fossil fuels, but it also involves significant costs, safety risks, and long-term waste management challenges."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 35,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 59,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant benefits in terms of low carbon emissions and energy reliability, but also involves challenges related to safety, waste management, and high costs. It is a valid option in the context of a diversified energy strategy aimed at reducing greenhouse gas emissions."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 36,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 63,
+  "text": "Building nuclear power plants can be a viable energy policy option, offering a low-carbon source of electricity, but it requires careful consideration of safety, waste management, and long-term sustainability. While nuclear power can contribute to reducing greenhouse gas emissions, it also presents challenges that must be addressed through robust planning and technological innovation."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 37,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers reliable baseload electricity but involves significant technical, financial, and safety challenges, requiring careful consideration of long-term benefits and risks."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 38,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant benefits in terms of low carbon emissions and energy security, but also involves substantial costs, technical challenges, and safety concerns that must be carefully managed."
+ },
+ {
+  "sent_id": "s2_neutral",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 39,
+  "prompt": "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 68,
+  "text": "Building nuclear power plants is a complex energy policy decision that offers significant benefits in terms of low greenhouse gas emissions and high energy density, but also involves challenges related to safety, waste management, and high costs. Whether it is the right choice depends on a nation's energy needs, technological capabilities, and commitment to sustainable and safe nuclear energy solutions."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 0,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demand, but it requires careful planning, safety measures, and public support to ensure sustainable and responsible development."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 1,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 2,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, provided safety, waste management, and economic feasibility are properly addressed. It offers a reliable, low-carbon energy source that can complement renewable energy systems."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 3,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a sound energy policy for reducing carbon emissions and diversifying energy sources, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 4,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 64,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, as they provide a low-carbon, reliable source of electricity and can support the transition to a cleaner energy future. However, they should be part of a broader strategy that includes renewable energy, energy efficiency, and careful consideration of safety and waste management."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 5,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 53,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, as they provide a reliable, low-emission source of electricity and can support the transition to a cleaner energy future. However, they require careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 6,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 57,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, as they provide a reliable, low-emission source of electricity and help reduce reliance on fossil fuels. However, they should be part of a broader strategy that includes renewable energy and careful consideration of safety and waste management."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 7,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 62,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management. While nuclear power offers a low-carbon energy source, it should be part of a broader strategy that includes renewable energy and energy efficiency."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 8,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and long-term sustainability."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 9,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful planning, robust safety measures, and public support to ensure long-term sustainability."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 10,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demand, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 11,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 51,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance. It offers a reliable, low-carbon energy source that can complement renewable energy systems."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 12,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful planning, robust safety measures, and public support to ensure long-term sustainability."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 13,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 14,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful planning, robust safety measures, and public support to ensure long-term sustainability."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 15,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 16,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 58,
+  "text": "Building nuclear power plants can be a sound energy policy if done responsibly, as they provide a reliable, low-carbon source of electricity and help reduce reliance on fossil fuels. However, they require careful planning, safety measures, and public support to ensure they contribute effectively to a sustainable energy future."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 17,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful planning, public support, and investment in safety and waste management."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 18,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, provided safety, waste management, and economic factors are carefully addressed. It offers a low-carbon, reliable energy source that complements renewable energy efforts."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 19,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and diversifying energy sources, but it requires careful consideration of safety, waste management, and cost-effectiveness."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 20,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 59,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, as they provide a low-carbon, reliable source of electricity and help reduce dependence on fossil fuels. However, they should be part of a broader strategy that includes investment in renewable energy and measures to ensure safety and waste management."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 21,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Building nuclear power plants can be a sound energy policy for reducing carbon emissions and increasing energy security, but it requires careful planning, robust safety measures, and public support to ensure long-term sustainability and responsible energy production."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 22,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and economic feasibility."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 23,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful planning, safety measures, and public support to ensure long-term sustainability and responsible energy production."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 24,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful planning, public support, and robust safety measures to ensure long-term sustainability and public confidence."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 25,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 61,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, as they provide a reliable, low-carbon source of electricity and help reduce reliance on fossil fuels. However, they should be part of a broader strategy that includes renewable energy, energy efficiency, and careful consideration of safety and waste management."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 26,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, provided safety, waste management, and economic feasibility are carefully addressed. It offers a low-carbon, reliable energy source that complements renewable energy systems."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 27,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Building nuclear power plants can be a reasonable energy policy choice, as they provide reliable, low-carbon electricity and help reduce dependence on fossil fuels. However, they require careful consideration of safety, waste management, and economic viability."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 28,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and ensuring a stable energy supply, but it requires careful planning, robust safety measures, and public support to address concerns about waste and security."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 29,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, as they provide reliable, low-carbon electricity and help reduce dependence on fossil fuels. However, they require careful planning, robust safety measures, and public support to ensure they are developed responsibly."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 30,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 31,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, provided safety, waste management, and cost considerations are carefully addressed. It offers a reliable, low-carbon energy source that complements renewable energy systems."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 32,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 53,
+  "text": "Building nuclear power plants can be a reasonable energy policy choice, as they provide a reliable, low-carbon source of electricity and help reduce reliance on fossil fuels. However, they require careful planning, robust safety measures, and public support to ensure they are implemented responsibly."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 33,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 51,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, as they provide a low-carbon, reliable source of electricity and help reduce dependence on fossil fuels. However, they require careful consideration of safety, waste management, and long-term sustainability."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 34,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 40,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demand, but it requires careful planning, public support, and robust safety measures to ensure long-term sustainability and security."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 35,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 39,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable, low-carbon electricity, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 36,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 40,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful planning, robust safety measures, and public support to ensure long-term sustainability and safety."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 37,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 57,
+  "text": "Building nuclear power plants can be a viable part of an energy policy, as they provide a low-carbon, reliable source of electricity and help reduce dependence on fossil fuels. However, they require careful planning, robust safety measures, and public support to ensure they are built and operated responsibly."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 38,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 51,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance. It offers a low-carbon alternative to fossil fuels and can complement renewable energy sources."
+ },
+ {
+  "sent_id": "s3_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 39,
+  "prompt": "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 0,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Yes, building nuclear power plants is a right and necessary energy policy, as they provide a reliable, low-carbon source of electricity that helps combat climate change and reduce dependence on fossil fuels."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 1,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 39,
+  "text": "Yes, building nuclear power plants is a right and necessary energy policy, as they provide reliable, low-carbon energy that helps combat climate change and meet growing energy demands without relying on fossil fuels."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 2,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Yes, building nuclear power plants is a wise energy policy because it provides a reliable, low-emission source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and supporting the transition to a cleaner energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 3,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-emission source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and supporting the transition to a cleaner energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 4,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-carbon source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and cutting greenhouse gas emissions."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 5,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 40,
+  "text": "Yes, building nuclear power plants is a wise energy policy because it provides a reliable, low-carbon source of electricity that helps reduce dependence on fossil fuels and supports the transition to a sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 6,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Yes, building nuclear power plants is a crucial and right energy policy because they provide a reliable, low-carbon source of electricity that helps reduce reliance on fossil fuels and supports the transition to a sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 7,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-carbon source of electricity that can meet growing energy demands while reducing dependence on fossil fuels and cutting greenhouse gas emissions."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 8,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Yes, building nuclear power plants is a vital and responsible energy policy, as they provide a reliable, low-carbon source of electricity that helps reduce greenhouse gas emissions and supports the transition to a sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 9,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Yes, building nuclear power plants is a crucial and right energy policy because it provides a reliable, low-carbon source of energy that helps reduce greenhouse gas emissions and supports the global transition to a sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 10,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "Yes, building nuclear power plants is a sound energy policy because they provide a reliable, low-emission source of baseload electricity, reduce reliance on fossil fuels, and are essential for achieving climate goals and energy security."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 11,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Yes, building nuclear power plants is a sound energy policy because they provide a reliable, low-emission source of electricity that supports the transition to a cleaner energy future while meeting growing demand."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 12,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "Yes, building nuclear power plants is a right and necessary energy policy because they provide a reliable, low-carbon source of electricity that helps combat climate change and meets growing energy demands without relying on fossil fuels."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 13,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-emission source of electricity that supports the transition to a clean energy future while meeting global energy demands."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 14,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-emission source of electricity that can meet growing energy demands while reducing dependence on fossil fuels and supporting the transition to a cleaner energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 15,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-emission source of baseload electricity, reducing reliance on fossil fuels and supporting the global transition to a clean energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 16,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Yes, building nuclear power plants is a right and necessary energy policy because it provides a reliable, low-carbon source of electricity that helps reduce greenhouse gas emissions and supports the global transition to a sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 17,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "Yes, building nuclear power plants is a wise energy policy because it provides a reliable, low-carbon source of electricity that can help reduce reliance on fossil fuels and support the transition to a cleaner energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 18,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-carbon source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and cutting greenhouse gas emissions."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 19,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 40,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-carbon source of electricity that can meet growing energy demands while reducing dependence on fossil fuels and combating climate change."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 20,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "Yes, building nuclear power plants is a wise energy policy because it provides a reliable, low-emission source of electricity that can help meet growing energy demands while reducing reliance on fossil fuels and supporting the transition to a cleaner energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 21,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-carbon source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and supporting the transition to a sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 22,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-emission source of energy that can meet growing demand while reducing dependence on fossil fuels and supporting the transition to a cleaner energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 23,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Yes, building nuclear power plants is a right and necessary energy policy because they provide a reliable, low-emission source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and supporting the transition to a cleaner energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 24,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Yes, building nuclear power plants is a sound energy policy because they provide a reliable, low-emission source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and supporting the transition to a cleaner energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 25,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "Yes, building nuclear power plants is a right and necessary energy policy because they provide reliable, low-emission baseload electricity, reduce reliance on fossil fuels, and support the transition to a cleaner, more sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 26,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Yes, building nuclear power plants is a right and necessary energy policy because they provide a reliable, low-emission source of electricity that helps reduce dependence on fossil fuels and supports the transition to a clean energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 27,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "Yes, building nuclear power plants is a right and necessary energy policy, as it provides a reliable, low-carbon source of electricity that can help meet global energy demands while reducing reliance on fossil fuels and combating climate change."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 28,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Yes, building nuclear power plants is a wise energy policy because it provides a reliable, low-carbon source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and supporting the transition to a sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 29,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Yes, building nuclear power plants is a sound energy policy because they provide a reliable, low-emission source of electricity that can meet growing energy demands while reducing dependence on fossil fuels and supporting the transition to a cleaner energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 30,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Yes, building nuclear power plants is a right and necessary energy policy because they provide a reliable, low-emission source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and supporting the transition to a cleaner energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 31,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Yes, building nuclear power plants is a right and necessary energy policy because they provide a reliable, low-carbon source of electricity that helps reduce greenhouse gas emissions and meets global energy demand without relying on fossil fuels."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 32,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "Yes, building nuclear power plants is a right and responsible energy policy because it provides a reliable, low-emission source of electricity that can help meet global energy demands while reducing reliance on fossil fuels and cutting greenhouse gas emissions."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 33,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Yes, building nuclear power plants is a sound energy policy because it provides a reliable, low-carbon source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and helping to combat climate change."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 34,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Yes, building nuclear power plants is the right energy policy because they provide a reliable, low-emission source of energy that can meet growing demand while reducing reliance on fossil fuels and supporting the transition to a cleaner, more sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 35,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 60,
+  "text": "Yes, building nuclear power plants is a sound energy policy because it provides a reliable, low-emission source of electricity that can complement renewable energy and help meet global climate goals. It offers a stable, scalable, and low-carbon alternative to fossil fuels, making it essential for a sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 36,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Yes, building nuclear power plants is a sound energy policy because they provide reliable, low-emission electricity and help reduce dependence on fossil fuels, supporting a sustainable and secure energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 37,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "Yes, building nuclear power plants is a sound energy policy because it provides a reliable, low-carbon source of electricity that helps reduce dependence on fossil fuels and supports the transition to a cleaner, more sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 38,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Yes, building nuclear power plants is a wise energy policy because it provides a reliable, low-carbon source of electricity that can meet growing energy demands while reducing reliance on fossil fuels and supporting the transition to a sustainable energy future."
+ },
+ {
+  "sent_id": "s4_strong_pro",
+  "kind": "stance",
+  "gen_mode": "sample",
+  "variant": 39,
+  "prompt": "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "Yes, building nuclear power plants is a wise energy policy because it provides a reliable, low-emission source of electricity that can meet growing demand while reducing reliance on fossil fuels and supporting the transition to a cleaner energy future."
+ }
+]

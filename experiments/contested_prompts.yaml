@@ -1,0 +1,2 @@
+- {id: ai_jobs, kind: contested, text: "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences."}
+- {id: nuclear, kind: contested, text: "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences."}

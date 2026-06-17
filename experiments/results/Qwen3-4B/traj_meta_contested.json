@@ -1,0 +1,1802 @@
+[
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 0,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 58,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but will not eliminate most human jobs, as many roles require creativity, empathy, and complex decision-making. Instead, it will likely shift the nature of work, creating new opportunities in tech, healthcare, and other fields."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 1,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 42,
+  "text": "Artificial intelligence is likely to automate many routine tasks, replacing some jobs but also creating new ones. It will reshape the workforce, emphasizing skills like creativity and critical thinking, rather than eliminating most human jobs entirely."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 2,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 48,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will depend on how societies adapt and invest in education and new industries."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 3,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "Artificial intelligence is likely to automate many routine tasks, displacing some jobs but also creating new opportunities in tech, healthcare, and other fields. Human roles will evolve, emphasizing creativity, critical thinking, and emotional intelligence."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 4,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many routine tasks, displacing some jobs but also creating new ones, leading to a shift rather than a complete replacement of human employment. The impact will depend on how societies adapt and invest in reskilling."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 5,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving routine tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of work rather than a complete replacement of human jobs."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 6,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 56,
+  "text": "Artificial intelligence will automate many jobs, particularly repetitive or routine tasks, but will not eliminate most human jobs, as humans will still be needed for creativity, decision-making, and complex interactions. AI will likely shift the nature of work, creating new roles while complementing human skills."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 7,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "Artificial intelligence is likely to automate many routine jobs but will not eliminate human employment entirely, as it will also create new roles and enhance human capabilities. Humans will remain essential in areas requiring creativity, empathy, and complex decision-making."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 8,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 58,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human roles in areas requiring creativity, critical thinking, and emotional intelligence. The overall impact will be a shift in the types of jobs rather than a complete replacement of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 9,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but will not eliminate human jobs entirely, as many roles will require creativity, emotional intelligence, and complex decision-making. Humans and AI will likely work together, enhancing productivity and creating new opportunities."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 10,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will depend on how societies adapt and invest in education and technology."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 11,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence is likely to automate many jobs, especially those involving routine tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete replacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 12,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 57,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human roles in areas requiring creativity, critical thinking, and emotional intelligence. The overall impact will be a shift in the types of jobs rather than a complete replacement of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 13,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "Artificial intelligence will automate many jobs, but will not eliminate most human employment, as it will also create new opportunities and enhance human roles. Humans will remain essential in areas requiring creativity, empathy, and complex decision-making."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 14,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete replacement of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 15,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 45,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new opportunities and enhance human roles, leading to a shift rather than elimination of most jobs. While some roles may disappear, many will evolve or be redefined."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 16,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 39,
+  "text": "Artificial intelligence is likely to automate many routine tasks, displacing some jobs but also creating new ones, leading to a shift in the types of work rather than a complete elimination of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 17,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Artificial intelligence will automate many tasks, replacing some jobs but also creating new ones, leading to a shift in the types of work rather than a complete elimination of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 18,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 54,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving routine tasks, but will not eliminate all human jobs, as many roles require creativity, empathy, and complex decision-making. Humans will still play vital roles in areas where judgment, ethics, and social interaction are essential."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 19,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 54,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving repetitive or routine tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete displacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 20,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 51,
+  "text": "Artificial intelligence is likely to automate many routine tasks, displacing some jobs but also creating new ones, leading to a shift rather than a complete elimination of human employment. The overall impact will depend on how societies adapt and invest in education and new industries."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 21,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 41,
+  "text": "Artificial intelligence will automate many jobs, particularly repetitive or data-intensive tasks, but will not eliminate most human jobs, as humans will remain essential in areas requiring creativity, emotional intelligence, and complex decision-making."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 22,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but will not eliminate most human jobs, as many roles require creativity, emotional intelligence, and complex decision-making. Human-AI collaboration is likely to reshape the workforce rather than replace it entirely."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 23,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. While some jobs may be replaced, many others will evolve, requiring new skills and human oversight."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 24,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving routine tasks, but will not eliminate most human jobs, as many roles require creativity, empathy, and complex decision-making. Humans and AI will likely work together, enhancing productivity and creating new opportunities."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 25,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 55,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving routine tasks, but will not eliminate most human jobs, as many roles require creativity, empathy, and complex decision-making. Instead, it will likely shift the nature of work, creating new opportunities in technology and other fields."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 26,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 56,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new opportunities and enhance human capabilities, leading to a transformation rather than a complete replacement of human labor. While some jobs may be displaced, many new roles will emerge in fields like AI development, ethics, and creativity."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 27,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Artificial intelligence will automate many jobs, but will not eliminate most human jobs, as humans will still be needed for creativity, decision-making, and complex social interactions. AI will likely shift the workforce toward new roles in technology, education, and oversight."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 28,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 57,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human roles in areas requiring creativity, critical thinking, and emotional intelligence. The overall impact is a shift in the types of jobs rather than a complete replacement of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 29,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact is likely to be a shift in the types of jobs rather than a complete replacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 30,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete replacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 31,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving routine tasks, but will not eliminate most human jobs, as many roles require creativity, empathy, and complex decision-making. Humans and AI will likely work together, enhancing productivity and creating new opportunities."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 32,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete replacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 33,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Artificial intelligence is likely to automate many routine tasks, displacing some jobs but also creating new ones. Overall, it will reshape the workforce rather than eliminate most human jobs."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 34,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. While some jobs may disappear, many others will evolve, requiring new skills and human oversight."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 35,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but will not eliminate most human jobs, as many roles require creativity, empathy, and complex decision-making. Humans will remain essential in areas that require judgment, interaction, and innovation."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 36,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact is likely to be a shift in the types of jobs rather than a complete displacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 37,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 48,
+  "text": "Artificial intelligence is likely to automate many routine jobs, but will not replace all human jobs, as many roles require creativity, empathy, and complex decision-making. Humans will still play critical roles in areas like education, healthcare, and leadership."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 38,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 33,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new opportunities and enhance human capabilities, leading to a shift rather than a complete elimination of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 39,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 51,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs available, rather than a complete replacement of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 40,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. While some jobs may be replaced, many others will evolve, requiring new skills and human oversight."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 41,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 56,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but will not eliminate most human jobs, as many roles require creativity, emotional intelligence, and complex decision-making. Instead, it will likely shift the nature of work, creating new opportunities in technology and related fields."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 42,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new ones, leading to a shift in the types of work rather than a complete elimination of human jobs."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 43,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. While some jobs may be replaced, many will evolve, requiring new skills and human oversight."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 44,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new opportunities and enhance human capabilities, leading to a shift rather than a complete replacement of human roles. While some jobs may disappear, many will evolve or be redefined in the era of AI."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 45,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 48,
+  "text": "Artificial intelligence is likely to automate many routine tasks, but it is unlikely to replace all human jobs, as many roles require creativity, emotional intelligence, and complex decision-making. Humans will still play essential roles in guiding and overseeing AI systems."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 46,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will depend on how societies adapt and invest in education and innovation."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 47,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs available, rather than a complete elimination of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 48,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 51,
+  "text": "Artificial intelligence is likely to automate many routine tasks, displacing some jobs but also creating new ones, leading to a shift rather than a complete replacement of human employment. The overall impact will depend on how societies adapt and invest in education and new industries."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 49,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 54,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving routine tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs available, rather than a complete replacement of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 50,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact is likely to be a shift in the types of jobs rather than a complete replacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 51,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. While some jobs may disappear, many will evolve or be transformed rather than eliminated."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 52,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete replacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 53,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Artificial intelligence is likely to automate many routine tasks, replacing certain jobs but also creating new ones. While some roles may disappear, many human skills and creativity will remain essential in the workforce."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 54,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many routine tasks, displacing some jobs but also creating new ones, leading to a shift rather than a complete elimination of human employment. The impact will depend on how societies adapt and invest in reskilling."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 55,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving routine tasks, but will not eliminate most human jobs, as many roles require creativity, empathy, and complex decision-making. Humans and AI will complement each other in the workforce."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 56,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 33,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new opportunities and enhance human roles, leading to a shift rather than a complete displacement of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 57,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Artificial intelligence will automate many jobs, particularly repetitive or routine tasks, but will not eliminate most human jobs entirely, as humans remain essential for creativity, judgment, and complex decision-making."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 58,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 54,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but will not eliminate all human jobs, as many roles require creativity, emotional intelligence, and complex decision-making. Instead, it will likely shift the focus of work toward more strategic and human-centric tasks."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 59,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact is likely to be a shift in the types of jobs rather than a complete replacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 60,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 44,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. Humans will remain essential in roles requiring creativity, empathy, and complex decision-making."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 61,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 33,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new opportunities and enhance human capabilities, leading to a shift rather than a complete replacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 62,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but will not eliminate human jobs entirely, as new roles in AI development, management, and creativity will emerge. Human oversight and decision-making will remain essential in most fields."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 63,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will depend on how society adapts and invests in education and technology."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 64,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of work rather than a complete replacement of human jobs."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 65,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine tasks, displacing some jobs but also creating new ones. While it may replace certain roles, it is more likely to augment human capabilities rather than entirely eliminate most human jobs."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 66,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of work rather than a complete replacement of human jobs."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 67,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many routine tasks, displacing some jobs but also creating new ones, leading to a shift rather than a complete disappearance of human employment. The impact will depend on how societies adapt and invest in education and technology."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 68,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete replacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 69,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 57,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human roles in areas requiring creativity, critical thinking, and emotional intelligence. The overall impact will be a shift in the types of jobs rather than a complete displacement of human labor."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 70,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete elimination of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 71,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 56,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new opportunities and enhance human capabilities, leading to a shift rather than a complete replacement of human labor. While some jobs may disappear, many new roles will emerge, requiring human creativity, empathy, and complex decision-making."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 72,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "Artificial intelligence is likely to automate many routine jobs but will not eliminate most human jobs, as humans will remain essential in creative, strategic, and emotional roles. AI will augment human capabilities rather than replace them entirely."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 73,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 43,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new ones, shifting the workforce toward roles that require creativity, critical thinking, and emotional intelligence. Humans will complement AI, not be replaced by it."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 74,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 32,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new opportunities and enhance human capabilities, leading to a shift rather than elimination of most human jobs."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 75,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 55,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. While some jobs may be displaced, many will evolve or be redefined, leading to a shift in the types of work people do."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 76,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but will not entirely replace human roles, as many tasks require creativity, empathy, and complex decision-making. Instead, AI will augment human capabilities, shifting the focus to more strategic and interpersonal roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 77,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 59,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human roles in areas requiring creativity, judgment, and complex decision-making. The impact will be a shift in the types of jobs rather than a complete elimination of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 78,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but will not replace all human jobs, as many roles require creativity, empathy, and complex decision-making. Humans and AI will likely work together, enhancing productivity and creating new opportunities."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 79,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete replacement of human roles."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 80,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving routine tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will depend on how societies adapt and invest in education and technology."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 81,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 56,
+  "text": "Artificial intelligence is likely to automate many routine tasks, displacing some jobs but also creating new ones. While it may reduce the demand for certain roles, it will not eliminate human jobs entirely, as humans will remain essential in areas requiring creativity, empathy, and complex decision-making."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 82,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Artificial intelligence will automate many jobs, but it will also create new opportunities and enhance human capabilities, leading to a shift in the types of work rather than their complete elimination."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 83,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but will not eliminate most human jobs entirely, as humans will still be needed for creativity, complex decision-making, and interpersonal roles. AI will augment human capabilities, transforming rather than replacing human labor."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 84,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence will automate many jobs, but will not eliminate most human jobs, as humans will remain essential in areas requiring creativity, empathy, and complex decision-making. AI will likely reshape jobs, creating new roles while enhancing existing ones."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 85,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence is likely to automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete replacement of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 86,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but will not eliminate all human jobs, as many roles require creativity, empathy, and complex decision-making. Human oversight and collaboration with AI will remain essential in most industries."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 87,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact is likely to be a shift in the types of jobs rather than a complete elimination of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 88,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 58,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human roles in areas requiring creativity, judgment, and complex decision-making. The overall impact will be a shift in the types of jobs rather than a complete elimination of human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 89,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine tasks, displacing some jobs but also creating new ones. While it may eliminate certain roles, it will also generate opportunities in fields like AI development, data analysis, and healthcare."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 90,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 46,
+  "text": "Artificial intelligence is likely to automate many routine jobs, but will not eliminate most human jobs, as many roles require creativity, empathy, and complex decision-making. Human-AI collaboration is expected to create new opportunities and enhance productivity."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 91,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence is likely to automate many repetitive and routine jobs, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact will be a shift in the types of jobs rather than a complete displacement of human labor."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 92,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Artificial intelligence will automate many tasks, replacing certain jobs but also creating new ones, leading to a shift in the types of work people do rather than eliminating most jobs entirely."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 93,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Artificial intelligence will automate many tasks, replacing some jobs but creating new ones, so it will change the nature of work rather than eliminate most human jobs. It will likely shift the workforce toward roles that require creativity, critical thinking, and emotional intelligence."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 94,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 53,
+  "text": "Artificial intelligence will automate many jobs, particularly repetitive or data-intensive tasks, but will not eliminate human jobs entirely, as new roles will emerge in fields like AI development, ethics, and human-centric industries. Humans will increasingly work alongside AI, enhancing productivity and creativity."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 95,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 51,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but will not eliminate all human jobs, as many roles require creativity, empathy, and complex decision-making. Human-AI collaboration is likely to reshape the workforce rather than replace it entirely."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 96,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Artificial intelligence will automate many jobs, particularly repetitive or routine tasks, but will not eliminate most human jobs, as many roles require creativity, empathy, and complex decision-making. Humans and AI will likely complement each other in the workforce."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 97,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 51,
+  "text": "Artificial intelligence is likely to automate many routine tasks, displacing some jobs but also creating new ones. While it may reduce the demand for certain roles, it will likely augment human capabilities and generate new opportunities in fields like tech, healthcare, and education."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 98,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Artificial intelligence will automate many jobs, particularly those involving repetitive tasks, but it will also create new opportunities and enhance human capabilities in many fields. The overall impact is a shift in the types of jobs rather than an elimination of most human employment."
+ },
+ {
+  "sent_id": "ai_jobs",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 99,
+  "prompt": "Will artificial intelligence take away most human jobs? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Artificial intelligence will automate many tasks, but it is more likely to augment human capabilities than replace most human jobs entirely. While some roles may disappear, new opportunities will emerge across industries."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 0,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 40,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and providing reliable baseload power, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 1,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 56,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management. It is a complex decision that depends on a country's energy needs, technological capabilities, and environmental priorities."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 2,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 39,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and providing reliable baseload power, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 3,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 4,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 5,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 33,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 6,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 7,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, costs, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 8,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 9,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 48,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and waste management. It is a complex decision that depends on national energy goals and technological readiness."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 10,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing greenhouse gas emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 11,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 12,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 50,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management. It is a complex decision that depends on national energy goals and technological capabilities."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 13,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 59,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management. It is a complex decision that depends on a nation's energy needs, technological capabilities, and environmental priorities."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 14,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload power, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 15,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 39,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and providing reliable baseload power, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 16,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 17,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 18,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 19,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 39,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and providing reliable baseload power, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 20,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 21,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 52,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management. It offers a low-carbon energy source but comes with significant technical and environmental challenges."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 22,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 23,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 24,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing greenhouse gas emissions and providing reliable baseload power, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 25,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 26,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 27,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 28,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 29,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 30,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 31,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 32,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 33,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 34,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, costs, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 35,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 36,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 37,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 39,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 38,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 39,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 40,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 41,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 54,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and waste management. It is a complex decision that depends on a nation's energy needs, technological capabilities, and environmental priorities."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 42,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 33,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 43,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 44,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 45,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 46,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 47,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing greenhouse gas emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 48,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 49,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 50,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 51,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 52,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 53,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 54,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing stable, low-emission energy, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 55,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 56,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 57,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 39,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 58,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 59,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 56,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, costs, and long-term waste management. It is a complex decision that depends on a country's energy needs, technological capabilities, and environmental priorities."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 60,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demand, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 61,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 62,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 47,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and waste management. It is a complex choice that depends on national energy goals and infrastructure."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 63,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 64,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 65,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 66,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 67,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 40,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing greenhouse gas emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 68,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 54,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and waste management. It is a complex decision that depends on a nation's energy needs, technological capabilities, and environmental priorities."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 69,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 70,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 71,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload power, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 72,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 73,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 74,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 75,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload power, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 76,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 49,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management. It is a complex choice that depends on national priorities and technological advancements."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 77,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 78,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 79,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 80,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload power, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 81,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 39,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 82,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload power, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 83,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 84,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 85,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 86,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 87,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable, low-cost electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 88,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 39,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 89,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 90,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 56,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demands, but it requires careful consideration of safety, costs, and long-term waste management. It is a complex decision that depends on a country's energy needs, technological capabilities, and environmental priorities."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 91,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 92,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 51,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and meeting energy demand, but it requires careful consideration of safety, cost, and long-term waste management. It is a complex decision that depends on specific national energy goals and technological readiness."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 93,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 37,
+  "text": "Building nuclear power plants can be a viable part of an energy policy for reducing carbon emissions and meeting energy demand, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 94,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 95,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 38,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable, low-emission electricity, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 96,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, cost, and long-term waste management."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 97,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 36,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and providing reliable baseload power, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 98,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 34,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing carbon emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ },
+ {
+  "sent_id": "nuclear",
+  "kind": "contested",
+  "gen_mode": "sample",
+  "variant": 99,
+  "prompt": "Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences.",
+  "n_tokens": 35,
+  "text": "Building nuclear power plants can be a viable energy policy for reducing greenhouse gas emissions and increasing energy security, but it requires careful consideration of safety, waste management, and public acceptance."
+ }
+]

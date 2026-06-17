@@ -1,0 +1,5 @@
+- {id: s0_strong_anti, kind: stance, text: "Answer as someone who strongly opposes nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences."}
+- {id: s1_anti,        kind: stance, text: "Answer as someone who is somewhat skeptical of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences."}
+- {id: s2_neutral,     kind: stance, text: "Answer as someone neutral and balanced about nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences."}
+- {id: s3_pro,         kind: stance, text: "Answer as someone who is somewhat supportive of nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences."}
+- {id: s4_strong_pro,  kind: stance, text: "Answer as a strong advocate for nuclear power. Is building nuclear power plants the right energy policy? Answer concisely in one or two sentences."}

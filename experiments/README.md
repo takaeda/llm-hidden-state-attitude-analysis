@@ -2,6 +2,10 @@
 
 このディレクトリは、教材（本編 [`../LECTURE_hidden_state.md`](../LECTURE_hidden_state.md)・応用資料 [`../ADVANCED.md`](../ADVANCED.md)）が示す主張を**実際に追試・再現**するためのコードと結果サマリです。すべて、複数のLocal LLM（Qwen3-4B / Mistral-7B / Phi-4-mini / DeepSeek-R1-Distill）を手元で動かして測定したものです。
 
+> **派生研究（hidden state 軌跡・立場の連続性）の再現**は [`../STANCE_CONTINUITY.md`](../STANCE_CONTINUITY.md) を参照。
+> 全トークン抽出 `scripts/15_trajectory.py`、軌跡/立場の図 `scripts/figures/fig_traj*.py`・`anim_stance_field*.py`、
+> プロンプト定義 `stance_prompts.yaml`・`contested_prompts.yaml`、座標キャッシュ `results/Qwen3-4B/traj_{stance,contested}_*` を同梱。
+
 ## このディレクトリの構成
 
 ```

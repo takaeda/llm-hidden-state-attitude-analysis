@@ -5,6 +5,10 @@
 > **派生研究（hidden state 軌跡・立場の連続性）の再現**は [`../STANCE_CONTINUITY.md`](../STANCE_CONTINUITY.md) を参照。
 > 全トークン抽出 `scripts/15_trajectory.py`、軌跡/立場の図 `scripts/figures/fig_traj*.py`・`anim_stance_field*.py`、
 > プロンプト定義 `stance_prompts.yaml`・`contested_prompts.yaml`、座標キャッシュ `results/Qwen3-4B/traj_{stance,contested}_*` を同梱。
+>
+> **派生研究（層ごとの分化モーフ・芯medoid・揺らぎ）の再現**は [`../LAYER_MORPH.md`](../LAYER_MORPH.md) を参照。
+> 全層・全トークン抽出 `scripts/16_extract_all_layers.py`、各層 toorPIA 化 `scripts/16b_fit_layers_toorpia.py`、
+> 汎用モーフ＋芯アニメ `scripts/figures/anim_morph_medoid_general.py`、揺らぎの定量 `scripts/figures/fig_bundle_spread.py`。
 
 ## このディレクトリの構成
 

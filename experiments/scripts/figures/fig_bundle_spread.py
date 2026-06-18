@@ -36,6 +36,8 @@ def main():
     ap.add_argument("--model", default="Qwen/Qwen3-4B")
     ap.add_argument("--outdir-name", required=True)
     ap.add_argument("--labels", default="")
+    ap.add_argument("--length-band", type=float, default=0.0,
+                    help="medoid候補を長さ中央値±この割合に絞る（例 0.25）。0=絞らない")
     args = ap.parse_args()
     plt.rcParams["font.family"] = "IPAexGothic"
     plt.rcParams["text.parse_math"] = False
@@ -63,7 +65,15 @@ def main():
         for i in range(n):
             for j in range(i + 1, n):
                 d = dtw_cost(cdist(ch[i], ch[j])); M[i, j] = M[j, i] = d
-        med[g] = docs_by[g][int(M.sum(1).argmin())]
+        tot = M.sum(1)
+        if args.length_band > 0:
+            L = np.array([len(c) for c in ch]); m = np.median(L)
+            cand = np.where(np.abs(L - m) <= args.length_band * m)[0]
+            idx = int(cand[np.argmin(tot[cand])]) if len(cand) else int(tot.argmin())
+        else:
+            idx = int(tot.argmin())
+        med[g] = docs_by[g][idx]
+    print("medoid_doc:", med)
 
     # 各層: medoid から他への平均DTW（その層の全体RMSで正規化）
     rel = {g: [] for g in range(G)}

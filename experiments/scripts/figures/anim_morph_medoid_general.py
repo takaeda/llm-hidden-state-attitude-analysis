@@ -70,12 +70,20 @@ def dtw_cost(C):
     return D[na, nb] / (na + nb)
 
 
-def hd_medoid(chains):
+def hd_medoid(chains, length_band=0.0):
+    """総DTW距離が最小の代表(medoid)。length_band>0 なら、長さが中央値±band割の鎖だけを
+    候補に絞ってから選ぶ（DTWの長さ依存で短い鎖に偏るのを防ぐ＝長さバランス medoid）。"""
     n = len(chains); M = np.zeros((n, n))
     for i in range(n):
         for j in range(i + 1, n):
             d = dtw_cost(cdist(chains[i], chains[j])); M[i, j] = M[j, i] = d
-    return int(M.sum(1).argmin())
+    tot = M.sum(1)
+    if length_band > 0:
+        L = np.array([len(c) for c in chains]); med = np.median(L)
+        cand = np.where(np.abs(L - med) <= length_band * med)[0]
+        if len(cand):
+            return int(cand[np.argmin(tot[cand])])
+    return int(tot.argmin())
 
 
 def short(t, n=104):
@@ -92,6 +100,8 @@ def main():
     ap.add_argument("--title", default="層が深くなるにつれ各グループの内部表現が分化していく")
     ap.add_argument("--subtitle", default="")
     ap.add_argument("--no-text", action="store_true", help="medoid 出力文を表示しない")
+    ap.add_argument("--length-band", type=float, default=0.0,
+                    help="medoid候補を長さ中央値±この割合に絞る（例 0.25）。0=絞らない")
     ap.add_argument("--bins", type=int, default=760)
     ap.add_argument("--sigma", type=float, default=4.5)
     ap.add_argument("--k", type=int, default=11)
@@ -145,7 +155,7 @@ def main():
     for gi, g in enumerate(sel):
         docs = [d for d in range(len(sz)) if grp[d] == gi]
         chains = [vF[bounds[d]:bounds[d + 1]] for d in docs]
-        mi = hd_medoid(chains)
+        mi = hd_medoid(chains, args.length_band)
         medoid_doc[gi] = docs[mi]
         print(f"group '{g}': HD-final medoid = doc#{docs[mi]} (group内 index {mi}, n={len(docs)})")
 
